@@ -1,0 +1,24 @@
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+   <meta name="description" content="" />
+   <link rel="shortcut icon" type="image/png" href="{{ '/favicon.png' | relative_url }}" />
+
+
+   {% unless jekyll.environment == "production" %}
+   <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+   {% endunless %}
+
+   <title>
+      {% if page.title %} {{ page.title }} - {% endif %} {{ site.title }}
+   </title>
+
+   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lexend:100,300,400,500,600,700,800&display=swap" /></noscript>
+   <link rel="stylesheet" href="{{ "/assets/css/fonts/fonts.css" | relative_url }}">
+   <link rel="stylesheet" href="{{ "/assets/css/fonts/mobirise2.css" | relative_url }}">
+   <link rel="stylesheet" href="{{ "/assets/css/vendor/bootstrap.min.css" | relative_url }}">
+   <link rel="stylesheet" href="{{ "/assets/css/vendor/bootstrap-grid.min.css" | relative_url }}">
+   <link rel="stylesheet" href="{{ "/assets/css/vendor/bootstrap-reboot.min.css" | relative_url }}">
+   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+</head>

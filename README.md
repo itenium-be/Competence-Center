@@ -9,3 +9,5 @@ Competence Center
 ```sh
 bundle exec jekyll serve --livereload
 ```
+
+- We facilitate cloud certification for those interested

@@ -4,6 +4,7 @@ $primaryBtnBackground: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
 
 $iteniumOrange: rgb(232,135,10);
 $iteniumGray: #5C5C5C;
+$iteniumDarkGray: #252525;
 
 
 @import 'style';
@@ -20,4 +21,13 @@ $iteniumGray: #5C5C5C;
 .header1-overlay {
    opacity: 0.8;
    background-color: rgb(94, 113, 219);
+}
+.header2-overlay {
+   opacity: 0.8;
+   background-color: $iteniumOrange;
+}
+
+
+#navbarSupportedContent li a {
+   color: $iteniumDarkGray !important
 }
