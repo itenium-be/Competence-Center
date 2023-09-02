@@ -1,7 +1,7 @@
 Competence Center
 =================
 
-[Visit the itenium Competence Center](https://itenium.be/competence-center)
+[Visit the itenium Competence Center](https://itenium.be/Competence-Center)
 
 
 ```sh
