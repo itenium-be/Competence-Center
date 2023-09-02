@@ -9,6 +9,3 @@ Competence Center
 ```sh
 bundle exec jekyll serve --livereload
 ```
-
-
-- Bootcamps
