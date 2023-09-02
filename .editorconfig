@@ -11,7 +11,7 @@ end_of_line = crlf
 [*.sh]
 end_of_line = lf
 
-[*.scss,*.yml]
+[*.css,*.scss,*.yml,*.js]
 indent_size = 2
 
 [*.md,*.markdown]

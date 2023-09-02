@@ -1,5 +1,23 @@
 @charset "utf-8";
 
+$primaryBtnBackground: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
+
+$iteniumOrange: rgb(232,135,10);
+$iteniumGray: #5C5C5C;
+
+
 @import 'style';
 @import 'style2';
 @import 'mbr-additional';
+
+
+.site-logo {
+   background-color: black;
+   padding: 10px 20px;
+   border-radius: 15px;
+}
+
+.header1-overlay {
+   opacity: 0.8;
+   background-color: rgb(94, 113, 219);
+}

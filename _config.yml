@@ -5,10 +5,8 @@
 
 title: Competence Center - itenium
 email: info@itenium.be
-description: >-
-  The itenium Competence Centers. Our tech sessions and
-  different tracks including our hands-on workshops and
-  lectures as well as our full day bootcamps.
+jobsEmail: jobs@itenium.be
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://itenium.be"
 
