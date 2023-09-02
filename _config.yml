@@ -7,7 +7,7 @@ title: Competence Center - itenium
 email: info@itenium.be
 jobsEmail: jobs@itenium.be
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Competence-Center"
 url: "https://itenium.be"
 
 
