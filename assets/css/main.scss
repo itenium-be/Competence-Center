@@ -1,4 +1,11 @@
 ---
 ---
+@charset "utf-8";
+
+$bg6: url('{{ "/assets/images/background6.jpg" | relative_url }}');
+$bg5: url('{{ "/assets/images/background5.jpg" | relative_url }}');
+$bg1: url('{{ "/assets/images/background1.jpg" | relative_url }}');
+$bg3: url('{{ "/assets/images/background3.jpg" | relative_url }}');
+$bg4: url('{{ "/assets/images/background4.jpg" | relative_url }}');
 
 @import "main";
