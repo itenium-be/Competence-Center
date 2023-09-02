@@ -1,0 +1,18 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 3
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+end_of_line = crlf
+
+[*.sh]
+end_of_line = lf
+
+[*.scss,*.yml]
+indent_size = 2
+
+[*.md,*.markdown]
+trim_trailing_whitespace = false
