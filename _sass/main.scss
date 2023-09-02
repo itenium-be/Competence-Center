@@ -2,6 +2,7 @@
 
 $primaryBtnBackground: linear-gradient(90deg, #a148ff 0%, #ff6f45 100%);
 
+$backgroudOverlay: rgb(94, 113, 219);
 $iteniumOrange: rgb(232,135,10);
 $iteniumGray: #5C5C5C;
 $iteniumDarkGray: #252525;
@@ -20,14 +21,129 @@ $iteniumDarkGray: #252525;
 
 .header1-overlay {
    opacity: 0.8;
-   background-color: rgb(94, 113, 219);
+   background-color: $backgroudOverlay;
 }
 .header2-overlay {
    opacity: 0.8;
    background-color: $iteniumOrange;
 }
+.header3-overlay {
+   opacity: 0.8;
+   background-color: $backgroudOverlay;
+}
 
 
 #navbarSupportedContent li a {
    color: $iteniumDarkGray !important
+}
+
+
+
+// Session badges
+
+$TechEvent: #abc4ff;
+$TechEventText: #edf2fb;
+$Bootcamp: #1d8cf8;
+$BootcampText: #1d8cf8;
+$FrontendTrack: #ffc09f;
+$FrontendTrackText: #ffee93;
+$ArchitectureTrack: #00bf9a;
+$ArchitectureTrackText: white;
+$FunEvent: #ff8d72;
+$FunEventText: black;
+$CloudTrack: #fd5d93;
+$CloudTrackText: #fd5d93;
+$QAEvent: #BDA4EE;
+$QAEventText: black;
+
+
+
+$HandsOn: #4BC298;
+$HandsOnBorder: white;
+$Theoretical: #E05073;
+$TheoreticalBorder: #A43853;
+$CodeShow: blue;
+$CodeShowBorder: blue;
+
+$Introduction: #4CB5D3;
+$Intermediate: #9167E3;
+$Expert: black;
+
+
+
+.badge {
+   // background: $secondary;
+   padding: 4px 8px;
+   border-radius: 3px;
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.badge-content {
+   &.Hands-On {
+      background-color: $HandsOn;
+      border: 2px solid $HandsOnBorder !important;
+   }
+   &.Theoretical {
+      background-color: $Theoretical;
+      border: 2px solid $TheoreticalBorder !important;
+   }
+   &.Code-Show {
+      background-color: $CodeShow;
+      border: 2px solid $CodeShowBorder !important;
+   }
+}
+
+.badge-level {
+   &.Introduction {
+      background-color: $Introduction;
+      // border: 2px solid $IntroductionBorder !important;
+   }
+
+   &.Intermediate {
+      background-color: $Intermediate;
+      // border: 2px solid $IntermediateBorder !important;
+   }
+
+   &.Expert {
+      background-color: $Expert;
+      // border: 2px solid $ExpertBorder !important;
+   }
+}
+
+.badge-track {
+   &.TechEvent {
+      background: $TechEvent !important;
+      color: $TechEventText !important;
+   }
+
+   &.FrontendTrack {
+      background: $FrontendTrack !important;
+      color: $FrontendTrackText !important;
+   }
+
+   &.ArchitectureTrack {
+      background: $ArchitectureTrack !important;
+      color: $ArchitectureTrackText !important;
+   }
+
+   &.FunEvent {
+      background: $FunEvent !important;
+      color: $FunEventText !important;
+   }
+
+   &.CloudTrack {
+      background: $CloudTrack !important;
+      color: $CloudTrackText !important;
+   }
+
+   &.Bootcamp {
+      background: $Bootcamp !important;
+      color: $BootcampText !important;
+   }
+
+   &.QAEvent {
+      background: $QAEvent !important;
+      color: $QAEventText !important;
+   }
 }

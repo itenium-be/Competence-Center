@@ -1,17 +1,402 @@
-# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack
+# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent | TechCafe
 # Content: Hands-On, Code-Show, Theoretical, Bootcamp
 # Level: Introduction, Intermediate, Expert
 
-# TODO: add tech icon? Angular, React, Vue, RXJS, ...
-# TODO: add mp4 & img
-# TODO: add links to insta etc
+
+- name: "Bijlgooien"
+  subTitle: "Dé nieuwe trend, itenium mag niet ontbreken!"
+  date: 2023-09-07
+  summary: ""
+  track: "FunEvent"
+  content: ""
+  level: Expert
+  duration: "1h"
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "ModernJS"
+  subTitle: "Program JavaScript like it's 2023 -- in TypeScript thus! ;)"
+  date: 2023-09-09
+  summary: "Advanced JavaScript & TypeScript."
+  track: "FrontendTrack"
+  content: "Code-Show"
+  type: ["Virtual"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Build your own MacroPad"
+  by: "Michiel"
+  subTitle: "After the great success last year, can Michiel pull it off again?"
+  date: 2023-10-05
+  summary: "Michiel surprises us with a new IoT hands-on sessions!"
+  track: "TechEvent"
+  content: "Hands-On"
+  type: ["On-Site"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Kibana Query Syntax"
+  subTitle: "The famous ELK Stack"
+  date: 2023-10-19
+  summary: ""
+  track: "QAEvent"
+  content: "Code-Show"
+  type: ["Virtual", "Short"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "QA Event by Alexander"
+  by: "Alexander"
+  subTitle: "Topic to be decided!"
+  date: 2023-10-26
+  summary: ""
+  track: "QAEvent"
+  content: ""
+  type: []
+  level: Introduction
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Dockerfiles & Docker-Compose"
+  subTitle: ""
+  date: 2023-11-02
+  summary: ""
+  track: "CloudTrack"
+  content: "Theoretical"
+  type: ["Virtual"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Quiz by Mike!"
+  by: Mike
+  subTitle: ""
+  date: 2023-11-09
+  summary: ""
+  track: "FunEvent"
+  content: ""
+  type: [""]
+  level:
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "GraphQL"
+  subTitle: "Now that there is gRPC, let's have a look at GraphQL"
+  date: 2023-12-07
+  summary: ""
+  track: "TechEvent"
+  content: "Hands-On"
+  type: ["On-Site"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Docker Setup"
+  subTitle: "Docker Setup and some interesting projects"
+  date: 2023-12-21
+  summary: ""
+  track: "CloudTrack"
+  content: "Code-Show"
+  type: ["Virtual"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+# PAST EVENTS START HERE
+
+- name: "UI/UX: Don't make me think"
+  subTitle: ""
+  date: 2023-08-24
+  summary: ""
+  track: "FrontendTrack"
+  content: "Theoretical"
+  type: ["Virtual"]
+  level: Introduction
+  duration: "1h"
+  video: ""
+  image: "/assets/images-events/dont-make-me-think.jpg"
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "The Mythical Man-Month"
+  subTitle: "On how a 40 year IT book is still relevant today"
+  date: 2023-07-27
+  summary: ""
+  track: "ArchitectureTrack"
+  content: "Theoretical"
+  type: ["Virtual"]
+  level: Introduction
+  duration: "2h"
+  video: ""
+  image: "/assets/images-events/mythical-man-month.jpg"
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Tech Café"
+  subTitle: ""
+  date: 2023-06-15
+  summary: ""
+  track: "TechCafe"
+  content: ""
+  type: ["On-Site"]
+  level:
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Code Complete"
+  subTitle: ""
+  date: 2023-05-25
+  summary: ""
+  track: "ArchitectureTrack"
+  content: "Theoretical"
+  type: ["Virtual"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: "/assets/images-events/code-complete.jpg"
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Artificiële Intelligentie"
+  subTitle: "Live show by Lieven Scheiren"
+  date: 2023-05-18
+  summary: ""
+  track: "FunEvent"
+  content: ""
+  type: ["On-Site"]
+  level:
+  duration: ""
+  video: ""
+  image: "/assets/images-events/ai-lieven-scheiren.jpg"
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "EventSourcing and CQRS"
+  subTitle: ""
+  date: 2023-05-11
+  summary: ""
+  track: "ArchitectureTrack"
+  content: "Theoretical"
+  type: ["Virtual"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Rest / JWT / Postman / DevTools"
+  subTitle: "The relevant bits for Testers and Analysts"
+  date: 2023-04-27
+  summary: ""
+  track: "QAEvent"
+  content: "Code-Show"
+  type: ["Virtual", "Short"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Regex Introduction"
+  subTitle: "Regular Expressions introduction"
+  date: 2023-04-20
+  summary: >
+    A regex intro so gentle it doesn't even contain a regex. We pinky promise, it won't hurt!
+    As a prelude to our upcoming technical session "RegularExpressions" we published the first of a series on regex.
+    This introduction answers the question: "Why learn regex?" while also warning of some pitfalls.
+    But mostly it's just an excuse to post some insanely funny regex memes (don't be a killjoy)
+  track: "TechEvent"
+  content: "Hands-On"
+  level: Introduction
+  duration: "3h"
+  video: ""
+  image: "/assets/images-events/regex-intro.png"
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7054394337681444864"
+  instagram: "https://www.instagram.com/p/CrNr-Jvx57L/"
+  twitter: "https://twitter.com/itenium_be/status/1648629732001341442?cxt=HHwWhICz4bSAjuEtAAAA"
+  githubUrl: ""
+
+
+
+- name: "Security Bootcamp: The Hacks"
+  subTitle: "A demo of all hacks from the security bootcamp."
+  date: 2023-04-18
+  summary: ""
+  track: "TechEvent"
+  content: "Code-Show"
+  type: ["Virtual"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: "/assets/images-events/security-bootcamp-the-hacks.png"
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: Frontend UnitTesting
+  subTitle: UnitTesting from Jasmine to Jest
+  date: 2023-04-06
+  summary: >
+    Last week we combined our Architecture and Frontend Tracks with a first hands-on session "Jest".
+    Writing tests in a real-world application with Express and MongoDb. This was the first of a 3 parter.
+    Testing React components with Jest is next!
+  track: "FrontendTrack"
+  content: "Hands-On"
+  level: Introduction
+  duration: "3h"
+  video: ""
+  image: "/assets/images-events/jasmine-jest.png"
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7052219286932647936"
+  instagram: ""
+  twitter: ""
+  githubUrl: "https://github.com/itenium-be/Frontend-UnitTesting"
+
+
+# TODO: we are missing the security bootcamp here...
+
+
+- name: React Component Profiling
+  subTitle: War-Story on React component performance.
+  date: 2023-03-09
+  summary: >
+    In React Component Profiling, we improved the frontend performance of an internal itenium application
+    (10s -> 120ms) by tackling some nasty dependencies (the npm package for calculating a holiday loaded 10MB JS,
+    our AuthService that accessed localStorage repeatedly, ...) after which we did further analysis using the
+    Profiler Chrome Extension & <Profiler /> component, and got to the x10 performance by restructuring the store
+    and using React features like memo, useMemo and introducing a new library reselect.
+  track: "FrontendTrack"
+  content: "Code-Show"
+  type: ["Virtual"]
+  level: Introduction
+  duration: "2h"
+  video: ""
+  image: "/assets/images-events/react-component-profiling.png"
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7048595422143004672"
+  instagram: "https://www.instagram.com/p/CrNr-Jvx57L/"
+  twitter: ""
+  githubUrl: "https://github.com/itenium-be/React-ComponentProfiling"
+
+
+
+# TODO: aaaand... we're missing quite some events in between here
+
 
 - name: RXJS
   subTitle: Reactive Extensions for JavaScript
   date: 2022-09-26
   summary: >
     Last Monday, we continued our frontend adventure with a hands-on session of Reactive Programming using RXJS😎
-    <br>We solved incrementally more difficult challenges until we ended up with an Observable that called a REST API but only after retrieving/refreshing a JWT token and which responded to changes in filters and pagination.
+    <br>We solved incrementally more difficult challenges until we ended up with an Observable that called a REST API
+    but only after retrieving/refreshing a JWT token and which responded to changes in filters and pagination.
     <br><br>Once there, it was time to integrate it all into an Angular app.
   track: "FrontendTrack"
   content: "Hands-On"
@@ -31,7 +416,7 @@
   summary: "After the great success of the React itenium Socks Store, we've done the exact same thing but now in the most lightweight SPA framework out there: VueJS"
   track: "FrontendTrack"
   content: "Code-Show"
-  exercisesAtTheEnd: true
+  type: ["exercisesAtTheEnd"]
   level: Introduction
   duration: "2h"
   video: "https://www.canva.com/design/DAFDF5F5eIw/A9Rcg2qNi2mL1PwVWdhcmg/watch?utm_content=DAFDF5F5eIw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
@@ -48,7 +433,7 @@
   summary: "The team tackled React JS last week and it surely honed our frontend skills😎 To growth and beyond🔥"
   track: "FrontendTrack"
   content: "Code-Show"
-  exercisesAtTheEnd: true
+  type: ["exercisesAtTheEnd"]
   level: Introduction
   duration: "2h"
   video: ""
@@ -71,7 +456,7 @@
     as communicating best practices, configuring the CI, convincing management of the added value and more.
   track: "ArchitectureTrack"
   content: "Theoretical"
-  exercisesAtTheEnd: true
+  type: ["exercisesAtTheEnd"]
   level: Introduction
   duration: "2h"
   video: ""
@@ -88,7 +473,7 @@
 #   summary: ""
 #   track: "TechEvent"
 #   content: "Theoretical"
-#   exercisesAtTheEnd: false
+#   type: ["Virtual"]
 #   level: Introduction
 #   duration: "2h"
 #   video: ""
@@ -100,13 +485,14 @@
 #   blogPost: ""
 
 
+
 # - name: ""
 #   subTitle: ""
-#   date: 2022-
+#   date: 2023-
 #   summary: ""
 #   track: "CloudTrack"
 #   content: ""
-#   exercisesAtTheEnd: false
+#   type: ["exercisesAtTheEnd", "Virtual"]
 #   level: Expert
 #   duration: "3h"
 #   video: ""
