@@ -10,5 +10,8 @@ Competence Center
 bundle exec jekyll serve --incremental
 ```
 
-Ooh this would be so beautiful for the events page:
+
+## Templates
+
+This would be so beautiful for the events page?
 https://html5up.net/massively
