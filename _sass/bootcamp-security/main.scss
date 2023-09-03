@@ -308,33 +308,6 @@ strong {
   margin: 15px;
 }
 
-/* Header Style 1*/
-#header-style-1 {
-  background-image: url("../img/bg/hero-1-bg.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  background-position: contain;
-}
-
-#header-style-1 .header-title {
-  color: #fff;
-}
-
-#header-style-1 .header-text {
-  color: #fff;
-  line-height: 1.5;
-}
-
-#header-style-1 .content {
-  min-height: 555px;
-  height: auto;
-}
-
-#header-style-1 p.caption {
-  padding: 6px;
-  color: #444;
-}
 
 /* Header Style 2*/
 .header-style-2 {
@@ -366,20 +339,6 @@ strong {
   margin-bottom: 45px;
 }
 
-/* Header Style 3*/
-.header-style-3 {
-  background: url("../img/bg/hero-3-bg.jpg") no-repeat left center;
-  background-size: cover;
-  padding-top: 80px;
-}
-
-.header-style-3 .hero-content-v2 h3 {
-  color: #fff;
-}
-
-.header-style-3 .hero-content-v2 p {
-  color: #fff;
-}
 
 /* End Headers */
 .section {
@@ -1262,30 +1221,6 @@ footer .menu li a:hover {
   border-color: transparent;
 }
 
-/* Transparent Navigations */
-.nav-bg-default {
-  background: url("../images/nav-bg-default.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
-.nav-bg-inverse {
-  background: url("../images/nav-bg-inverse.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
-.nav-bg-default .navbar {
-  margin-bottom: 0;
-  opacity: 0.8;
-}
-
-.nav-bg-inverse .navbar {
-  margin-bottom: 0;
-  opacity: 0.8;
-}
 
 .navbar-light-transparent {
   background-color: transparent !important;
@@ -2131,7 +2066,7 @@ nav#menu span.fa.fa-bars:hover {
 /* / End About */
 /* Start Tesitmonial  */
 .single-testimonial-area {
-  background-image: url(../img/about/testimonial-bg.jpg);
+  background-image: url(../img/about/main-objective-bg.png);
   background-size: cover;
   padding: 60px 0;
 }
@@ -2878,48 +2813,6 @@ nav#menu span.fa.fa-bars:hover {
   margin: 20px auto;
   width: 25px;
   border-color: #fff;
-}
-
-/* Sliders */
-/* Dark Slider */
-#dark-slider h3 {
-  color: #ccc;
-}
-
-#dark-slider .slide-text {
-  color: #ccc;
-  line-height: 1.5;
-}
-
-#dark-slider p.caption {
-  color: #fff;
-  padding: 6px;
-}
-
-#dark-slider .item {
-  min-height: 555px;
-  height: auto;
-}
-
-#dark-slider .slide1 {
-  background-image: url("../img/dark-bg-image.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  background-position: contain;
-}
-
-#dark-slider .slide2 {
-  background-image: url("../img/dark-bg-image.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  background-position: center;
-}
-
-#dark-slider .carousel-control {
-  color: #ccc;
-  opacity: 0.8;
 }
 
 .text-primary {
