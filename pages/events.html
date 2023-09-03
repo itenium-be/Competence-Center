@@ -104,7 +104,33 @@ permalink: /events
                         {{event.summary}}
                      </p>
 
-
+                     {% if event.track != "TechCafe" %}
+                     <p>
+                        <span class="badge badge-track {{ event.track }}">{{ event.track }}</span>
+                        <span class="badge badge-content {{ event.content }}">{{ event.content }}</span>
+                        <!-- <span class="badge badge-level {{ event.level }}">{{ event.level }}</span> -->
+                     </p>
+                     {% endif %}
+                     {% if event.githubUrl != "" %}
+                        <p><a href="{{event.githubUrl}}">
+                           <i class="fa-brands fa-github"></i> Github Source
+                        </a></p>
+                     {% endif %}
+                     {% if event.linkedIn != "" %}
+                        <p><a href="{{event.linkedIn}}">
+                           <i class="fa-brands fa-linkedin"></i> LinkedIn
+                        </a></p>
+                     {% endif %}
+                     {% if event.instagram != "" %}
+                        <p><a href="{{event.instagram}}">
+                           <i class="fa-brands fa-instagram"></i> Instagram
+                        </a></p>
+                     {% endif %}
+                     {% if event.twitter != "" %}
+                        <p><a href="{{event.twitter}}">
+                           <i class="fa-brands fa-twitter"></i> Twitter
+                        </a></p>
+                     {% endif %}
                   </div>
                </div>
             </div>
