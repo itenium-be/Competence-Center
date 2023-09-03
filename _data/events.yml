@@ -412,7 +412,7 @@
 
 - name: "Vue.JS"
   subTitle: "Revamp of the VueJS v2 session to Vue 3"
-  date: "2022-09-12"
+  date: 2022-09-12
   summary: "After the great success of the React itenium Socks Store, we've done the exact same thing but now in the most lightweight SPA framework out there: VueJS"
   track: "FrontendTrack"
   content: "Code-Show"
@@ -429,7 +429,7 @@
 
 - name: "React"
   subTitle: "Unidirectional Data Flow UI Library"
-  date: "2022-09-05"
+  date: 2022-09-05
   summary: "The team tackled React JS last week and it surely honed our frontend skills😎 To growth and beyond🔥"
   track: "FrontendTrack"
   content: "Code-Show"
@@ -448,7 +448,7 @@
 
 - name: "UnitTesting & TDD"
   subtitle: "In a poorly designed system, making a change feels like jumping off a cliff to avoid a tiger."
-  date: "2022-08-25"
+  date: 2022-08-25
   summary: >
     The importance of UnitTesting cannot be overstated. We're all on our way to become senior developers
     and architects. One of the responsibilities as the architect in the team is incorporating UnitTesting
