@@ -10,4 +10,5 @@ Competence Center
 bundle exec jekyll serve --livereload
 ```
 
-- We facilitate cloud certification for those interested
+Ooh this would be so beautiful for the events page:
+https://html5up.net/massively
