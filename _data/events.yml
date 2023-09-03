@@ -3,6 +3,12 @@
 # Level: Introduction, Intermediate, Expert
 
 
+# TODO: missing the skydiving event
+# TODO: VR Event
+# TODO: Storytelling
+# TODO: new year event
+
+
 - name: "Bijlgooien"
   subTitle: "Dé nieuwe trend, itenium mag niet ontbreken!"
   date: 2023-09-07
@@ -185,7 +191,7 @@
   linkedIn: ""
   instagram: ""
   twitter: ""
-  githubUrl: ""
+  githubUrl: "https://github.com/itenium-be/Talk-UI-UX"
   blogPost: ""
 
 
@@ -203,7 +209,7 @@
   linkedIn: ""
   instagram: ""
   twitter: ""
-  githubUrl: ""
+  githubUrl: "https://github.com/itenium-be/Mythical-Man-Month"
   blogPost: ""
 
 
@@ -218,10 +224,10 @@
   level:
   duration: ""
   video: ""
-  image: ""
+  image: "/assets/images-events/tech-cafe-2023.jpg"
   linkedIn: ""
   instagram: ""
-  twitter: ""
+  twitter: "https://twitter.com/itenium_be/status/1686682419494273024"
   githubUrl: ""
   blogPost: ""
 
@@ -240,7 +246,7 @@
   linkedIn: ""
   instagram: ""
   twitter: ""
-  githubUrl: ""
+  githubUrl: "https://github.com/itenium-be/CodeComplete"
   blogPost: ""
 
 
@@ -256,7 +262,7 @@
   duration: ""
   video: ""
   image: "/assets/images-events/ai-lieven-scheiren.jpg"
-  linkedIn: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7066397918517178368"
   instagram: ""
   twitter: ""
   githubUrl: ""
@@ -278,7 +284,7 @@
   linkedIn: ""
   instagram: ""
   twitter: ""
-  githubUrl: ""
+  githubUrl: "https://github.com/itenium-be/EventSourcing-CQRS"
   blogPost: ""
 
 
@@ -294,14 +300,15 @@
   duration: ""
   video: ""
   image: ""
-  linkedIn: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7076531068174041088"
   instagram: ""
-  twitter: ""
-  githubUrl: ""
+  twitter: "https://twitter.com/itenium_be/status/1670768624842207233?s=20"
+  githubUrl: " https://github.com/itenium-be/REST-JWT-DevTools"
   blogPost: ""
 
 
 
+# TODO: the summary is the one for the blog post, not for the session!
 - name: "Regex Introduction"
   subTitle: "Regular Expressions introduction"
   date: 2023-04-20
@@ -316,10 +323,16 @@
   duration: "3h"
   video: ""
   image: "/assets/images-events/regex-intro.png"
-  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7054394337681444864"
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7072513057427468289"
+  # TODO: the url below is the one for the blog post, not for the session!
+  # --> Maybe we could add these LinkedIns to the blog posts...
+  #   https://www.linkedin.com/feed/update/urn:li:activity:7054394337681444864
   instagram: "https://www.instagram.com/p/CrNr-Jvx57L/"
   twitter: "https://twitter.com/itenium_be/status/1648629732001341442?cxt=HHwWhICz4bSAjuEtAAAA"
   githubUrl: "https://github.com/itenium-be/Regex-Tutorial"
+  blogPost:
+    - "https://itenium.be/blog/productivity/regex-introduction/"
+    - "https://itenium.be/blog/productivity/regex-tutorial/"
 
 
 
@@ -334,7 +347,7 @@
   duration: ""
   video: ""
   image: "/assets/images-events/security-bootcamp-the-hacks.png"
-  linkedIn: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7075414088297689088"
   instagram: ""
   twitter: ""
   githubUrl: ""
@@ -354,11 +367,14 @@
   level: Introduction
   duration: "3h"
   video: ""
-  image: "/assets/images-events/jasmine-jest.png"
+  image: "/assets/images-events/unit-testing-tdd.jpg"
+  # Alternative picture:
+  # image: "/assets/images-events/jasmine-jest.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7052219286932647936"
   instagram: ""
   twitter: ""
   githubUrl: "https://github.com/itenium-be/Frontend-UnitTesting"
+  blogPost: "https://itenium.be/blog/javascript/javascript-testing-jasmine-to-jest/"
 
 
 # TODO: we are missing the security bootcamp here...
@@ -384,6 +400,7 @@
   instagram: "https://www.instagram.com/p/CrNr-Jvx57L/"
   twitter: ""
   githubUrl: "https://github.com/itenium-be/React-ComponentProfiling"
+  blogPost: ""
 
 
 
@@ -408,6 +425,7 @@
   instagram: ""
   twitter: "https://twitter.com/itenium_be/status/1575821294976716800?ref_src=twsrc%5Etfw"
   githubUrl: "https://github.com/itenium-be/RXJS"
+  blogPost: ""
 
 
 - name: "Vue.JS"
@@ -425,6 +443,7 @@
   instagram: "https://www.instagram.com/p/Ciry9TXspp4/"
   twitter: "https://twitter.com/itenium_be/status/1571802274250522624"
   githubUrl: "https://github.com/itenium-be/Vue.js-Tutorial"
+  blogPost: ""
 
 
 - name: "React"
@@ -444,7 +463,7 @@
   githubUrl:
     - "https://github.com/itenium-be/Talk-React"
     - "https://github.com/itenium-be/React-New-Features"
-
+  blogPost: ""
 
 - name: "UnitTesting & TDD"
   subtitle: "In a poorly designed system, making a change feels like jumping off a cliff to avoid a tiger."
@@ -465,6 +484,7 @@
   instagram: "https://www.instagram.com/p/Ci9rx7aMW6d/"
   twitter: "https://twitter.com/itenium_be/status/1574320233984114688"
   githubUrl: "https://github.com/itenium-be/UnitTesting"
+  blogPost: ""
 
 
 # - name: "Garbage Collection"

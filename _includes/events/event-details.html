@@ -1,0 +1,30 @@
+{% assign event = include.event %}
+<div class="card-wrapper">
+   <p>
+      <b>{{event.date | date: '%d/%m/%Y'}}</b>
+   </p>
+   <h4 class="section-content-title pb-2 align-left mbr-fonts-style display-2">
+      <strong>{{event.name}}</strong>
+   </h4>
+   <strong>{{event.subTitle}}</strong>
+
+
+   <p class="section-content-text align-left pb-4 mbr-fonts-style display-4">
+      {{event.summary}}
+   </p>
+
+   {% if event.track != "TechCafe" %}
+   <p>
+      <span class="badge badge-track {{ event.track }}">{{ event.track }}</span>
+      <span class="badge badge-content {{ event.content }}">{{ event.content }}</span>
+      <!-- <span class="badge badge-level {{ event.level }}">{{ event.level }}</span> -->
+   </p>
+   {% endif %}
+
+   {% include events/event-social.html urls=event.githubUrl brand="fa-brands fa-github" brandText="Github Source" %}
+   {% include events/event-social.html urls=event.linkedIn brand="fa-brands fa-linkedin" brandText="LinkedIn" %}
+   {% include events/event-social.html urls=event.instagram brand="fa-brands fa-instagram" brandText="Instagram" %}
+   {% include events/event-social.html urls=event.twitter brand="fa-brands fa-twitter" brandText="Twitter" %}
+   {% include events/event-social.html urls=event.blogPost brand="fas fa-newspaper" brandText="Blog Post" %}
+
+</div>

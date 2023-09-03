@@ -1,0 +1,15 @@
+{% assign urls = include.urls %}
+{% assign brand = include.brand %}
+{% if urls != "" %}
+   {% if urls | array %}
+      {% for url in urls %}
+         <p><a href="{{url}}">
+            <i class="{{ brand }}"></i> {{ include.brandText }}
+         </a></p>
+      {% endfor %}
+   {% else %}
+      <p><a href="{{urls}}">
+         <i class="{{ brand }}"></i> {{ include.brandText }}
+      </a></p>
+   {% endif %}
+{% endif %}

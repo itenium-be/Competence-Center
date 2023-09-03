@@ -1,0 +1,7 @@
+{% if include.event.image != "" %}
+   <img src="{{ include.event.image | relative_url }}" alt="" />
+{% elsif include.event.track == "TechCafe" %}
+   <img src="{{ "/assets/images/features1.jpg" | relative_url }}" alt="" />
+{% else %}
+   <img src="{{ "/assets/images/missing-session.png" | relative_url }}" alt="" />
+{% endif %}
