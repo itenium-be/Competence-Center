@@ -7,7 +7,7 @@ Competence Center
 
 
 ```sh
-bundle exec jekyll serve --livereload
+bundle exec jekyll serve --incremental
 ```
 
 Ooh this would be so beautiful for the events page:
