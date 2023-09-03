@@ -1,8 +1,6 @@
 Competence Center
 =================
 
-- download flyer button
-
 
 - [Visit the itenium Competence Center](https://itenium.be/Competence-Center)
 - [Original Template](https://mobirise.com/extensions/glassm5/freelancer)
