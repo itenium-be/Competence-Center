@@ -11,7 +11,7 @@ baseurl: "/Competence-Center"
 url: "https://itenium.be"
 
 
-twitter_username: itenium_be
-github_username:  itenium-be
-linkedIn_username: itenium
-instagram_usname: itenium
+twitter: https://twitter.com/itenium_be
+github:  https://github.com/itenium-be
+linkedIn: https://be.linkedin.com/company/itenium
+instagram: https://www.instagram.com/itenium/

@@ -479,8 +479,8 @@ footer #copyright .nav-inline {
   transition: all 0.2s linear;
 }
 
-.social-footer .fa-facebook:hover {
-  background: #3b5998;
+.social-footer .fa-github:hover {
+  background: #4078c0;
   color: #fff;
   border-color: #3b5998;
 }
@@ -497,10 +497,10 @@ footer #copyright .nav-inline {
   border-color: #007bb6;
 }
 
-.social-footer .fa-google-plus:hover {
-  background: #dd4b39;
+.social-footer .fa-instagram:hover {
+  background: #405DE6;
   color: #fff;
-  border-color: #dd4b39;
+  border-color: #833AB4;
 }
 
 .default-footer {
@@ -2045,6 +2045,7 @@ nav#menu span.fa.fa-bars:hover {
 .about.block img {
   max-width: 100px;
   margin-bottom: 15px;
+  border-radius: 25px;
 }
 
 .testimonial {
@@ -2840,7 +2841,7 @@ nav#menu span.fa.fa-bars:hover {
 /*  End Progress Bars */
 /* Caounter Style */
 #counter {
-  background-image: url(../img/about/testimonial-bg.jpg);
+  background-image: url(../img/about/testimonial-bg.png);
   background-size: cover;
   padding: 60px 0;
 }
@@ -2869,7 +2870,8 @@ nav#menu span.fa.fa-bars:hover {
 
 .count-one .count-title {
   color: #fff;
-  font-size: 14px;
+  font-size: 26px;
+  font-weight: bold;
 }
 
 .width25-divider {
