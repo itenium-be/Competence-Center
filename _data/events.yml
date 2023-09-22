@@ -254,7 +254,7 @@
 - name: "Artificiële Intelligentie"
   subTitle: "Live show by Lieven Scheiren"
   date: 2023-05-18
-  summary: ""
+  summary: "Last week, the itenium crew attended the Artificiële Intelligentie Zaalshow by Lieven Scheire. It showcased the complexities and limitations of AI, a "new" domain of the tech world from the late 50s that has taken us all by storm"
   track: "FunEvent"
   content: ""
   type: ["On-Site"]
@@ -263,8 +263,8 @@
   video: ""
   image: "/assets/images-events/ai-lieven-scheiren.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7066397918517178368"
-  instagram: ""
-  twitter: ""
+  instagram: "https://www.instagram.com/p/Csi-ufORFHJ/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
+  twitter: "https://twitter.com/itenium_be/status/1660632201132744705"
   githubUrl: ""
   blogPost: ""
 
