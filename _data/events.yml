@@ -217,7 +217,7 @@
 - name: "Tech Café"
   subTitle: ""
   date: 2023-06-15
-  summary: ""
+  summary: "Recently, our team came together for a Tech Cafe session of boundless discussions, exploring all things AI, ChatGPT, IoT, Home Automation, and beyond. Hand in hand with the most delicious wraps made by our very own Talisa Orens, we forged ahead, leaving a trail of excellence in our wake!"
   track: "TechCafe"
   content: ""
   type: ["On-Site"]
@@ -226,7 +226,7 @@
   video: ""
   image: "/assets/images-events/tech-cafe-2023.jpg"
   linkedIn: ""
-  instagram: ""
+  instagram: "https://www.instagram.com/p/CvcEB9MSh6D/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
   twitter: "https://twitter.com/itenium_be/status/1686682419494273024"
   githubUrl: ""
   blogPost: ""
