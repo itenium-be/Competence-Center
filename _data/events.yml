@@ -198,7 +198,7 @@
 - name: "The Mythical Man-Month"
   subTitle: "On how a 40 year IT book is still relevant today"
   date: 2023-07-27
-  summary: ""
+  summary: "Delving into the timeless wisdom of Frederick Brooks' ''The Mythical Man-Month'' has been an enriching experience. This iconic work has illuminated the path of software development and project management for decades. As a company fueled by innovation and commitment to excellence, we persistently draw inspiration from these timeless masterpieces to craft and deliver exceptional solutions."
   track: "ArchitectureTrack"
   content: "Theoretical"
   type: ["Virtual"]
@@ -206,9 +206,9 @@
   duration: "2h"
   video: ""
   image: "/assets/images-events/mythical-man-month.jpg"
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7108390037095923712"
+  instagram: "https://www.instagram.com/reel/CxfHdZIh-XW/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
+  twitter: "https://twitter.com/itenium_be/status/1702624887645360269"
   githubUrl: "https://github.com/itenium-be/Mythical-Man-Month"
   blogPost: ""
 
