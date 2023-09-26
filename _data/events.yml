@@ -308,15 +308,16 @@
 
 
 
-# TODO: the summary is the one for the blog post, not for the session!
 - name: "Regex Introduction"
   subTitle: "Regular Expressions introduction"
   date: 2023-04-20
   summary: >
-    A regex intro so gentle it doesn't even contain a regex. We pinky promise, it won't hurt!
-    As a prelude to our upcoming technical session "RegularExpressions" we published the first of a series on regex.
-    This introduction answers the question: "Why learn regex?" while also warning of some pitfalls.
-    But mostly it's just an excuse to post some insanely funny regex memes (don't be a killjoy)
+    We believe that quality is not a one-time achievement but an ongoing commitment. 
+    This is why we invest time and effort in making sure that our consultants' skills are always in top shape. 
+    With guidance and constant development, there is so much potential that can be unlocked.
+    This was proven last week when we had our tech event covering our very own RegEx Tutorial. 
+    We explored a world of possibilities where we conquered the art of pattern matching and text manipulation through practical examples and exercises.
+    Our team's coding prowess soars some more!
   track: "TechEvent"
   content: "Hands-On"
   level: Introduction
@@ -324,11 +325,8 @@
   video: ""
   image: "/assets/images-events/regex-intro.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7072513057427468289"
-  # TODO: the url below is the one for the blog post, not for the session!
-  # --> Maybe we could add these LinkedIns to the blog posts...
-  #   https://www.linkedin.com/feed/update/urn:li:activity:7054394337681444864
-  instagram: "https://www.instagram.com/p/CrNr-Jvx57L/"
-  twitter: "https://twitter.com/itenium_be/status/1648629732001341442?cxt=HHwWhICz4bSAjuEtAAAA"
+  instagram: ""
+  twitter: ""
   githubUrl: "https://github.com/itenium-be/Regex-Tutorial"
   blogPost:
     - "https://itenium.be/blog/productivity/regex-introduction/"
@@ -377,7 +375,23 @@
   blogPost: "https://itenium.be/blog/javascript/javascript-testing-jasmine-to-jest/"
 
 
-# TODO: we are missing the security bootcamp here...
+- name: Security Bootcamp
+  subTitle: Codename FEAR
+  date: 2023-03-24
+  summary: >
+  track: "Bootcamp"
+  content: "Hands-On"
+  level: Introduction
+  duration: "8h"
+  video: ""
+  image: ""
+  # Alternative picture:
+  # image: "/assets/images-events/jasmine-jest.png"
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
 
 
 - name: React Component Profiling
