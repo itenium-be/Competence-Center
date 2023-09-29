@@ -254,7 +254,10 @@
 - name: "Artificiële Intelligentie"
   subTitle: "Live show by Lieven Scheiren"
   date: 2023-05-18
-  summary: "Last week, the itenium crew attended the Artificiële Intelligentie Zaalshow by Lieven Scheire. It showcased the complexities and limitations of AI, a "new" domain of the tech world from the late 50s that has taken us all by storm"
+  summary: >
+   Last week, the itenium crew attended the Artificiële Intelligentie Zaalshow by Lieven Scheire.
+   It showcased the complexities and limitations of AI, a "new" domain of the tech world from the
+   late 50s that has taken us all by storm
   track: "FunEvent"
   content: ""
   type: ["On-Site"]
@@ -312,10 +315,10 @@
   subTitle: "Regular Expressions introduction"
   date: 2023-04-20
   summary: >
-    We believe that quality is not a one-time achievement but an ongoing commitment. 
-    This is why we invest time and effort in making sure that our consultants' skills are always in top shape. 
+    We believe that quality is not a one-time achievement but an ongoing commitment.
+    This is why we invest time and effort in making sure that our consultants' skills are always in top shape.
     With guidance and constant development, there is so much potential that can be unlocked.
-    This was proven last week when we had our tech event covering our very own RegEx Tutorial. 
+    This was proven last week when we had our tech event covering our very own RegEx Tutorial.
     We explored a world of possibilities where we conquered the art of pattern matching and text manipulation through practical examples and exercises.
     Our team's coding prowess soars some more!
   track: "TechEvent"
