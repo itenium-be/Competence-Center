@@ -386,11 +386,27 @@
   content: "Hands-On"
   level: Introduction
   duration: "8h"
-  video: ""
+  video: "https://youtu.be/f-cvfwykanQ?si=QXc-L0K1aS4t3jeJ"
   image: ""
   # Alternative picture:
   # image: "/assets/images-events/jasmine-jest.png"
   linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+  - name: "VR Gaming"
+  subTitle: "Virtual Reality Gaming with the team"
+  date: 2023-03-16
+  summary: ""
+  track: "FunEvent"
+  content: ""
+  level: Expert
+  duration: "1h"
+  video: "https://youtu.be/Aif3h58jJmc?si=_vaK-UpsvmDFbPIv"
+  image: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7069613977411932160"
   instagram: ""
   twitter: ""
   githubUrl: ""
