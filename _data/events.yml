@@ -53,14 +53,14 @@
   content: "Hands-On"
   type: ["On-Site"]
   level: Introduction
-  duration: ""
+  duration: "4h"
   video: ""
   image: ""
-  linkedIn: ""
-  instagram: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7118173554797400064"
+  instagram: "https://www.instagram.com/p/CyS3MRxtpRG/"
   twitter: ""
   githubUrl: ""
-  blogPost: ""
+  blogPost: "https://itenium.be/blog/dev-setup/build-your-own-macropad/"
 
 
 - name: "Kibana Query Syntax"
