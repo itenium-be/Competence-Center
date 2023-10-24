@@ -66,7 +66,7 @@
 - name: "Kibana Query Syntax"
   subTitle: "The famous ELK Stack"
   date: 2023-10-19
-  summary: ""
+  summary: "Our latest QAEvent explored KQL, the Kibana Query Language with demos on Discover, Alerts and Dashboard"
   track: "QAEvent"
   content: "Code-Show"
   type: ["Virtual", "Short"]
@@ -74,9 +74,9 @@
   duration: ""
   video: ""
   image: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_kql-discoveralertsdashboards-virtualtraining-activity-7122540075166404608-2oSp?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/reel/Cyx51j6rkci/?utm_source=ig_web_copy_link"
+  twitter: "https://twitter.com/itenium_be/status/1716775510196535555"
   githubUrl: ""
   blogPost: ""
 
