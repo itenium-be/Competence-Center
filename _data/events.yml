@@ -4,7 +4,6 @@
 
 
 # TODO: missing the skydiving event
-# TODO: VR Event
 # TODO: Storytelling
 # TODO: new year event
 
@@ -26,19 +25,26 @@
 - name: "ModernJS"
   subTitle: "Program JavaScript like it's 2023 -- in TypeScript thus! ;)"
   date: 2023-09-21
-  summary: "Advanced JavaScript & TypeScript."
+  summary: >
+    After 15 long (and quite painful) years, the JavaScript winter has finally ended.
+    Everybody already knows all about the major ES2015 release, but what has happened since?
+    Let's find out what the last 4 years of ECMAScript has brought us!
+    <br><br>
+    Part 2 consisted of an in-depth tutorial to TypeScript.
   track: "FrontendTrack"
   content: "Code-Show"
   type: ["Virtual"]
   level: Intermediate
-  duration: ""
+  duration: "1h40m"
   video: ""
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7113462814068920320"
   instagram: "https://www.instagram.com/reel/CxxYoF9Brxf/"
   twitter: "https://twitter.com/itenium_be/status/1707696888919564648?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet"
-  githubUrl: ""
-  blogPost: ""
+  githubUrl: "https://github.com/itenium-be/ModernJS"
+  blogPost:
+    - "https://itenium.be/blog/javascript/array-prototype/"
+    - "https://itenium.be/blog/javascript/regex-in-javascript/"
 
 
 - name: "Build your own MacroPad"
@@ -56,7 +62,7 @@
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7118173554797400064"
   instagram: "https://www.instagram.com/p/CyS3MRxtpRG/"
   twitter: ""
-  githubUrl: ""
+  githubUrl: "https://github.com/itenium-be/BuildYourOwnMacroPad"
   blogPost: "https://itenium.be/blog/dev-setup/build-your-own-macropad/"
 
 
@@ -402,10 +408,10 @@
     Our drive for quality allows us to shoot for success.
     Add a little thinking outside of the box to the mix and it comes as no surprise that itenium
     is always at the top of its game.
-
+    <br><br>
     Speaking of shooting, outside of the box and game, we recently ventured as a team into
     the depths of virtual reality gaming.
-
+    <br><br>
     Needless to say, our team took this challenge to the next level.
   track: "FunEvent"
   video: "https://www.youtube.com/embed/Aif3h58jJmc?si=hQBwVilh_U5DNOlT&amp"
