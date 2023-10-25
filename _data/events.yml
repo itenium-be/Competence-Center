@@ -366,6 +366,7 @@
   summary: >
     Last week we combined our Architecture and Frontend Tracks with a first hands-on session "Jest".
     Writing tests in a real-world application with Express and MongoDb. This was the first of a 3 parter.
+    <br><br>
     Testing React components with Jest is next!
   track: "FrontendTrack"
   content: "Hands-On"
