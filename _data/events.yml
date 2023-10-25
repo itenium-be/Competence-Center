@@ -14,9 +14,6 @@
   date: 2023-09-07
   summary: ""
   track: "FunEvent"
-  content: ""
-  level: Expert
-  duration: "1h"
   video: ""
   image: ""
   linkedIn: ""
@@ -33,7 +30,7 @@
   track: "FrontendTrack"
   content: "Code-Show"
   type: ["Virtual"]
-  level: Introduction
+  level: Intermediate
   duration: ""
   video: ""
   image: ""
@@ -64,20 +61,21 @@
 
 
 - name: "Kibana Query Syntax"
-  subTitle: "The famous ELK Stack"
+  subTitle: "The Elastic Stack (previously known as the ELK Stack)"
   date: 2023-10-19
-  summary: "Our latest QAEvent explored KQL, the Kibana Query Language with demos on Discover, Alerts and Dashboard"
+  summary: >
+    Our latest QAEvent explored KQL, the Kibana Query Language with demos on Discover, Alerts and Dashboard
   track: "QAEvent"
-  content: "Code-Show"
+  content: "Demos"
   type: ["Virtual", "Short"]
   level: Introduction
-  duration: ""
+  duration: "50m"
   video: ""
   image: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_kql-discoveralertsdashboards-virtualtraining-activity-7122540075166404608-2oSp?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/reel/Cyx51j6rkci/?utm_source=ig_web_copy_link"
   twitter: "https://twitter.com/itenium_be/status/1716775510196535555"
-  githubUrl: ""
+  githubUrl: "https://github.com/itenium-be/Kibana"
   blogPost: ""
 
 
@@ -382,35 +380,39 @@
   subTitle: Codename FEAR
   date: 2023-03-24
   summary: >
+    The first iteration of the itenium Security Bootcamp:
+    A full day teambuilding and... hacking!
   track: "Bootcamp"
   content: "Hands-On"
   level: Introduction
   duration: "8h"
-  video: "https://youtu.be/f-cvfwykanQ?si=QXc-L0K1aS4t3jeJ"
+  video: "https://www.youtube.com/embed/f-cvfwykanQ?si=slS0ohN_eQxTNTsm"
   image: ""
-  # Alternative picture:
-  # image: "/assets/images-events/jasmine-jest.png"
   linkedIn: ""
   instagram: ""
   twitter: ""
   githubUrl: ""
-  blogPost: ""
+  blogPost: "https://itenium.be/blog/security/introducing-the-security-bootcamp/"
+
 
 - name: "VR Gaming"
   subTitle: "Virtual Reality Gaming with the team"
   date: 2023-03-16
-  summary: ""
+  summary: >
+    Our drive for quality allows us to shoot for success.
+    Add a little thinking outside of the box to the mix and it comes as no surprise that itenium
+    is always at the top of its game.
+
+    Speaking of shooting, outside of the box and game, we recently ventured as a team into
+    the depths of virtual reality gaming.
+
+    Needless to say, our team took this challenge to the next level.
   track: "FunEvent"
-  content: ""
-  level: Expert
-  duration: "1h"
-  video: "https://youtu.be/Aif3h58jJmc?si=_vaK-UpsvmDFbPIv"
+  video: "https://www.youtube.com/embed/Aif3h58jJmc?si=hQBwVilh_U5DNOlT&amp"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7069613977411932160"
   instagram: ""
   twitter: ""
-  githubUrl: ""
-  blogPost: ""
 
 
 - name: React Component Profiling
@@ -435,6 +437,31 @@
   githubUrl: "https://github.com/itenium-be/React-ComponentProfiling"
   blogPost: ""
 
+
+- name: "Angular: ReactiveForms"
+  subTitle: "Demystifying the FormBuilder, Array, Group & Control"
+  date: 2023-01-12
+  summary: >
+    After a small pptx on the basics of Angular's ReactiveForms,
+    the session turned hands-on with exercises on combining
+    FormArray and FormGroups, implementing and UnitTesting form
+    behaviors, Validators and, for the brave, ControlValueAccessor.
+  track: "FrontendTrack"
+  content: "Hands-On"
+  level: Introduction
+  duration: "3h"
+  video: ""
+  image: ""
+  gallery:
+    - "/assets/images-events/angular-reactive-forms-1.jpg"
+    - "/assets/images-events/angular-reactive-forms-2.jpg"
+    - "/assets/images-events/angular-reactive-forms-3.jpg"
+    - "/assets/images-events/angular-reactive-forms-4.jpg"
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: "https://github.com/itenium-be/angular-reactive-forms"
+  blogPost: ""
 
 
 # TODO: aaaand... we're missing quite some events in between here
@@ -470,7 +497,7 @@
   type: ["exercisesAtTheEnd"]
   level: Introduction
   duration: "2h"
-  video: "https://www.canva.com/design/DAFDF5F5eIw/A9Rcg2qNi2mL1PwVWdhcmg/watch?utm_content=DAFDF5F5eIw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+  video: ""
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:6977567654366625792"
   instagram: "https://www.instagram.com/p/Ciry9TXspp4/"
@@ -546,7 +573,7 @@
 #   track: "CloudTrack"
 #   content: ""
 #   type: ["exercisesAtTheEnd", "Virtual"]
-#   level: Expert
+#   level: Introduction
 #   duration: "3h"
 #   video: ""
 #   image: ""
