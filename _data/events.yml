@@ -231,7 +231,23 @@
   githubUrl: ""
   blogPost: ""
 
-
+- name: "itenium weekend"
+  subTitle: ""
+  date: 2023-05-31
+  summary: "Sky-high thrills, racing chills, and mouthwatering grills - Our team soared to new heights of fun, blending adrenaline-pumping indoor and outdoor skydiving, heart-racing race spectating, and sizzling barbecues."
+  track: ""
+  content: ""
+  type: ["Fun"]
+  level: 
+  duration: ""
+  video: "https://www.youtube.com/watch?v=VEFreo2vbH0"
+  image: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7080123264995336192"
+  instagram: "https://www.instagram.com/reel/Ctygl1rv18u/"
+  twitter: "https://twitter.com/itenium_be/status/1671820803912941568"
+  githubUrl: ""
+  blogPost: ""
+  
 - name: "Code Complete"
   subTitle: ""
   date: 2023-05-25
