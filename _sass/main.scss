@@ -42,9 +42,9 @@ $iteniumDarkGray: #252525;
 // Session badges
 
 $TechEvent: #abc4ff;
-$TechEventText: #edf2fb;
+$TechEventText: black;
 $Bootcamp: #1d8cf8;
-$BootcampText: #1d8cf8;
+$BootcampText: black;
 $FrontendTrack: #ffc09f;
 $FrontendTrackText: #ffee93;
 $ArchitectureTrack: #00bf9a;
@@ -91,6 +91,14 @@ $Expert: black;
    &.Code-Show {
       background-color: $CodeShow;
       border: 2px solid $CodeShowBorder !important;
+   }
+   &.Demos {
+      background: $QAEvent !important;
+      color: black !important;
+   }
+   &.SoftSkill {
+      background: $QAEvent !important;
+      color: black !important;
    }
 }
 
