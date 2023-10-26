@@ -87,25 +87,6 @@
   blogPost: ""
 
 
-- name: "QA Event by Alexander"
-  by: "Alexander"
-  subTitle: "Topic to be decided!"
-  date: 2023-10-26
-  summary: ""
-  track: "QAEvent"
-  content: ""
-  type: []
-  level: Introduction
-  duration: ""
-  video: ""
-  image: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
 
 - name: "Dockerfiles & Docker-Compose"
   subTitle: ""
