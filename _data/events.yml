@@ -4,9 +4,8 @@
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
 
-# TODO: missing the skydiving event
-# TODO: Storytelling
-# TODO: new year event
+# TODO: link images
+repost missing soc med
 
 
 - name: "Bijlgooien"
@@ -37,7 +36,7 @@
   type: ["Virtual"]
   level: Intermediate
   duration: "1h40m"
-  video: ""
+  video: "https://youtube.com/shorts/SPjyT4KXr6Q?feature=share"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7123227942704271360/"
   instagram: "https://www.instagram.com/reel/Cyx51j6rkci/"
@@ -59,11 +58,11 @@
   type: ["On-Site"]
   level: Introduction
   duration: "4h"
-  video: ""
+  video: "https://youtu.be/Cw7wC8LSZ-Q"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7118173554797400064"
   instagram: "https://www.instagram.com/p/CyS3MRxtpRG/"
-  twitter: ""
+  twitter: "https://twitter.com/itenium_be/status/1712408968792805733/video/1"
   githubUrl: "https://github.com/itenium-be/BuildYourOwnMacroPad"
   blogPost: "https://itenium.be/blog/dev-setup/build-your-own-macropad/"
 
@@ -78,7 +77,7 @@
   type: ["Virtual", "Short"]
   level: Introduction
   duration: "50m"
-  video: ""
+  video: "https://youtube.com/shorts/VjHd-gOj4II?feature=share"
   image: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_kql-discoveralertsdashboards-virtualtraining-activity-7122540075166404608-2oSp?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/reel/Cyx51j6rkci/?utm_source=ig_web_copy_link"
@@ -191,7 +190,7 @@
   type: ["Virtual"]
   level: Introduction
   duration: "2h"
-  video: ""
+  video: "https://youtube.com/shorts/fQPIVR_dVME?feature=share"
   image: "/assets/images-events/mythical-man-month.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7108390037095923712"
   instagram: "https://www.instagram.com/reel/CxfHdZIh-XW/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
@@ -202,7 +201,7 @@
 
 
 - name: "Tech Café"
-  subTitle: ""
+  subTitle: "itenium Tech Cafe, where good food and cutting-edge technology collide"
   date: 2023-06-15
   summary: > 
     Recently, our team came together for a Tech Cafe session of boundless discussions, exploring all things AI, ChatGPT, IoT, 
@@ -219,7 +218,7 @@
   blogPost: ""
 
 - name: "itenium weekend"
-  subTitle: ""
+  subTitle: "A glimpse of how our team made one weekend epic"
   date: 2023-05-31
   summary: > 
     Sky-high thrills, racing chills, and mouthwatering grills - Our team soared to new heights of fun, 
@@ -260,10 +259,9 @@
    It showcased the complexities and limitations of AI, a "new" domain of the tech world from the
    late 50s that has taken us all by storm
   track: "FunEvent"
-  content: ""
   type: ["On-Site"]
-  level:
-  duration: ""
+  level: On-Site
+  duration: "4h"
   video: ""
   image: "/assets/images-events/ai-lieven-scheiren.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7066397918517178368"
@@ -282,8 +280,8 @@
   content: "Theoretical"
   type: ["Virtual"]
   level: Introduction
-  duration: ""
-  video: ""
+  duration: "2h"
+  video: "https://youtube.com/shorts/h_n4-oa_Czc"
   image: ""
   linkedIn: ""
   instagram: ""
@@ -296,13 +294,17 @@
 - name: "Rest / JWT / Postman / DevTools"
   subTitle: "The relevant bits for Testers and Analysts"
   date: 2023-04-27
-  summary: ""
+  summary: >
+    Quality is our driving force, making us a company of distinction!" 
+    At itenium, we aim to always move forward and one way we do it is by empowering our consultants with the necessary skills to always exceed our client's expectations
+    As part of this empowerment journey, we recently wrapped up our dynamic session on REST, JWT, Postman, and Dev tools.
+    The team continuously embarks on our journey to growth, constant improvement and superiority in quality.
   track: "QAEvent"
   content: "Code-Show"
   type: ["Virtual", "Short"]
   level: Introduction
-  duration: ""
-  video: ""
+  duration: "2h"
+  video: "https://youtube.com/shorts/NvtSoNcm5PM?feature=share"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7076531068174041088"
   instagram: ""
@@ -341,7 +343,9 @@
 - name: "Security Bootcamp: The Hacks"
   subTitle: "A demo of all hacks from the security bootcamp."
   date: 2023-04-18
-  summary: "We leave no stone unturned in our pursuit of quality. We ensure that every product and service reflects our unwavering dedication to delivering the best. Understanding the vulnerabilities of the business and our strengths are the ways that help us in tackling any roadblocks that stand in our way. It's always crucial to be aware and prepared. This was demonstrated during our Security Bootcamp where we explored the world of hacking and learned to defend against them. We recently revisited the hacks that were presented and it was mind-expanding how these sometimes simple exploits lead to a bigger problem. The team's Security Awareness reaches another level!"
+  summary: >
+    We leave no stone unturned in our pursuit of quality. We ensure that every product and service reflects our unwavering dedication to delivering the best. 
+    Understanding the vulnerabilities of the business and our strengths are the ways that help us in tackling any roadblocks that stand in our way. It's always crucial to be aware and prepared. This was demonstrated during our Security Bootcamp where we explored the world of hacking and learned to defend against them. We recently revisited the hacks that were presented and it was mind-expanding how these sometimes simple exploits lead to a bigger problem. The team's Security Awareness reaches another level!"
   track: "TechEvent"
   content: "Code-Show"
   type: ["Virtual"]
@@ -371,8 +375,6 @@
   duration: "3h"
   video: ""
   image: "/assets/images-events/unit-testing-tdd.jpg"
-  # Alternative picture:
-  # image: "/assets/images-events/jasmine-jest.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7052219286932647936"
   instagram: ""
   twitter: ""
@@ -442,6 +444,49 @@
   blogPost: ""
 
 
+- name: Storytelling and Feedback
+  subTitle: Communication is key
+  date: 2023-02-02
+  summary: >
+    Finding the right words and finding the perfect way to say it really makes a big difference in every collaboration.
+  content: "SoftSkill"
+  type: ["On-Site"]
+  level: Introduction
+  duration: "2h"
+  video: "https://youtu.be/oRL9_6mzaPs"
+  image:
+  gallery:
+  - "/assets/images-events/angular-reactive-forms-1.jpg"
+  - "assets/images-events/storytelling-and-feedback-2.jpg"
+  - "assets/images-events/storytelling-and-feedback-3.jpg"
+  - "assets/images-events/storytelling-and-feedback-4.jpgg"
+  - "assets/images-events/storytelling-and-feedback-5.jpg"
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7039595871662993408"
+  instagram: "https://www.instagram.com/reel/Cpkhz9XvvwQ/"
+  twitter: ""
+  githubUrl: "h"
+  blogPost: ""
+
+
+  
+- name: "itenium New Year Event"
+  subTitle: "Ending the year right"
+  date: 2023-01-19
+  summary: >
+    The itenium team looks back on 2023 and discusses the plans for 2024. A fun night with great people!
+  track: "FunEvent"
+  duration: "4h"
+  video: "https://youtu.be/L-31eAzmORY"
+  image: ""
+  gallery:
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7025779755484377088"
+  instagram: "https://www.instagram.com/reel/CoCXKaMs91z/"
+  twitter: "https://twitter.com/itenium_be/status/1620014071939489792"
+  githubUrl: ""
+  blogPost: ""
+
+
+
 - name: "Angular: ReactiveForms"
   subTitle: "Demystifying the FormBuilder, Array, Group & Control"
   date: 2023-01-12
@@ -466,6 +511,8 @@
   twitter: ""
   githubUrl: "https://github.com/itenium-be/angular-reactive-forms"
   blogPost: ""
+
+
 
 
 # TODO: aaaand... we're missing quite some events in between here
