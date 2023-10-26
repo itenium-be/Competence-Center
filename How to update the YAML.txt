@@ -1,0 +1,17 @@
+How to update the yaml
+- Fill in as much info as you can
+- When adding images, copy the link from the images-events folder
+- Videos can't be uploaded directly. Add the video to YT and link on the YAML
+- When uploading photos and linking them, do one PR for both
+- Use a YAML analyzer / parser / validator
+- Don't merge the changes directly to Master, always create a PR for it so Wouter can check
+- Add the github link if available
+- Review the YAML before creating a PR. Make sure that the details added are correct
+- If an info is missing, leave it blank
+- Use summary: > and use <br><br> as a newline
+- Everything should be uploaded to Youtube & Instagram & Twitter
+ - There is typically already a video in the LinkedIn posts...
+- duration: use format 1h30m round to "10" (ie 48 -> 50m), the duration is the duration of the TL&DV video
+- use gallery: for the gallery
+- Images: resize width to 1024px
+- For image filenames, use dashes instead of spaces. Refrain from using HEIC files
