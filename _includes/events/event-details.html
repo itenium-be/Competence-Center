@@ -9,6 +9,15 @@
    <strong>{{event.subTitle}}</strong>
 
 
+   {% if event.image != "" and event.video != "" %}
+      <iframe width="560" height="315" src="{{ include.event.video }}"
+         title="{{ include.event.name | escape }}" frameborder="0"
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+         allowfullscreen
+      ></iframe>
+   {% endif %}
+
+
    <p class="section-content-text align-left pb-4 mbr-fonts-style display-4">
       {{event.summary}}
    </p>
@@ -17,7 +26,9 @@
    <p>
       <span class="badge badge-track {{ event.track }}">{{ event.track }}</span>
       <span class="badge badge-content {{ event.content }}">{{ event.content }}</span>
-      <!-- <span class="badge badge-level {{ event.level }}">{{ event.level }}</span> -->
+      {% if event.level and event.level != "Introduction" %}
+         <span class="badge badge-level {{ event.level }}">{{ event.level }}</span>
+      {% endif %}
    </p>
    {% endif %}
 

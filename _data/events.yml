@@ -1,10 +1,9 @@
-# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent | TechCafe
-# Content: Hands-On, Code-Show, Theoretical, Bootcamp
+# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe
+# Content: Hands-On, Code-Show, Theoretical, Bootcamp, Demos, SoftSkill
 # Level: Introduction, Intermediate, Expert
 
 
 # TODO: missing the skydiving event
-# TODO: VR Event
 # TODO: Storytelling
 # TODO: new year event
 
@@ -14,9 +13,6 @@
   date: 2023-09-07
   summary: ""
   track: "FunEvent"
-  content: ""
-  level: Expert
-  duration: "1h"
   video: ""
   image: ""
   linkedIn: ""
@@ -29,12 +25,17 @@
 - name: "ModernJS"
   subTitle: "Program JavaScript like it's 2023 -- in TypeScript thus! ;)"
   date: 2023-09-21
-  summary: "Advanced JavaScript & TypeScript."
+  summary: >
+    After 15 long (and quite painful) years, the JavaScript winter has finally ended.
+    Everybody already knows all about the major ES2015 release, but what has happened since?
+    Let's find out what the last 4 years of ECMAScript has brought us!
+    <br><br>
+    Part 2 consisted of an in-depth tutorial to TypeScript.
   track: "FrontendTrack"
   content: "Code-Show"
   type: ["Virtual"]
-  level: Introduction
-  duration: ""
+  level: Intermediate
+  duration: "1h40m"
   video: ""
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7123227942704271360/"
@@ -42,6 +43,7 @@
   twitter: "https://twitter.com/itenium_be/status/1717465848158539975"
   githubUrl: ""
   blogPost: ""
+
 
 
 - name: "Build your own MacroPad"
@@ -59,25 +61,26 @@
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7118173554797400064"
   instagram: "https://www.instagram.com/p/CyS3MRxtpRG/"
   twitter: ""
-  githubUrl: ""
+  githubUrl: "https://github.com/itenium-be/BuildYourOwnMacroPad"
   blogPost: "https://itenium.be/blog/dev-setup/build-your-own-macropad/"
 
 
 - name: "Kibana Query Syntax"
-  subTitle: "The famous ELK Stack"
+  subTitle: "The Elastic Stack (previously known as the ELK Stack)"
   date: 2023-10-19
-  summary: "Our latest QAEvent explored KQL, the Kibana Query Language with demos on Discover, Alerts and Dashboard"
+  summary: >
+    Our latest QAEvent explored KQL, the Kibana Query Language with demos on Discover, Alerts and Dashboard
   track: "QAEvent"
-  content: "Code-Show"
+  content: "Demos"
   type: ["Virtual", "Short"]
   level: Introduction
-  duration: ""
+  duration: "50m"
   video: ""
   image: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_kql-discoveralertsdashboards-virtualtraining-activity-7122540075166404608-2oSp?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/reel/Cyx51j6rkci/?utm_source=ig_web_copy_link"
   twitter: "https://twitter.com/itenium_be/status/1716775510196535555"
-  githubUrl: ""
+  githubUrl: "https://github.com/itenium-be/Kibana"
   blogPost: ""
 
 
@@ -217,12 +220,12 @@
 - name: "Tech Café"
   subTitle: ""
   date: 2023-06-15
-  summary: "Recently, our team came together for a Tech Cafe session of boundless discussions, exploring all things AI, ChatGPT, IoT, Home Automation, and beyond. Hand in hand with the most delicious wraps made by our very own Talisa Orens, we forged ahead, leaving a trail of excellence in our wake!"
+  summary: > 
+    Recently, our team came together for a Tech Cafe session of boundless discussions, exploring all things AI, ChatGPT, IoT, 
+    Home Automation, and beyond. Hand in hand with the most delicious wraps made by our very own Talisa Orens, we forged ahead, leaving a trail of excellence in our wake!
   track: "TechCafe"
-  content: ""
   type: ["On-Site"]
-  level:
-  duration: ""
+  duration: "2h"
   video: ""
   image: "/assets/images-events/tech-cafe-2023.jpg"
   linkedIn: ""
@@ -231,7 +234,21 @@
   githubUrl: ""
   blogPost: ""
 
-
+- name: "itenium weekend"
+  subTitle: ""
+  date: 2023-05-31
+  summary: > 
+    Sky-high thrills, racing chills, and mouthwatering grills - Our team soared to new heights of fun, 
+    blending adrenaline-pumping indoor and outdoor skydiving, heart-racing race spectating, and sizzling barbecues.
+  track: "FunEvent"
+  duration: "2d"
+  video: "https://www.youtube.com/watch?v=VEFreo2vbH0"
+  image: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7080123264995336192"
+  instagram: "https://www.instagram.com/reel/Ctygl1rv18u/"
+  twitter: "https://twitter.com/itenium_be/status/1671820803912941568"
+  blogPost: ""
+  
 - name: "Code Complete"
   subTitle: ""
   date: 2023-05-25
@@ -362,6 +379,7 @@
   summary: >
     Last week we combined our Architecture and Frontend Tracks with a first hands-on session "Jest".
     Writing tests in a real-world application with Express and MongoDb. This was the first of a 3 parter.
+    <br><br>
     Testing React components with Jest is next!
   track: "FrontendTrack"
   content: "Hands-On"
@@ -382,35 +400,39 @@
   subTitle: Codename FEAR
   date: 2023-03-24
   summary: >
+    The first iteration of the itenium Security Bootcamp:
+    A full day teambuilding and... hacking!
   track: "Bootcamp"
   content: "Hands-On"
   level: Introduction
   duration: "8h"
-  video: "https://youtu.be/f-cvfwykanQ?si=QXc-L0K1aS4t3jeJ"
+  video: "https://www.youtube.com/embed/f-cvfwykanQ?si=slS0ohN_eQxTNTsm"
   image: ""
-  # Alternative picture:
-  # image: "/assets/images-events/jasmine-jest.png"
   linkedIn: ""
   instagram: ""
   twitter: ""
   githubUrl: ""
-  blogPost: ""
+  blogPost: "https://itenium.be/blog/security/introducing-the-security-bootcamp/"
+
 
 - name: "VR Gaming"
   subTitle: "Virtual Reality Gaming with the team"
   date: 2023-03-16
-  summary: ""
+  summary: >
+    Our drive for quality allows us to shoot for success.
+    Add a little thinking outside of the box to the mix and it comes as no surprise that itenium
+    is always at the top of its game.
+    <br><br>
+    Speaking of shooting, outside of the box and game, we recently ventured as a team into
+    the depths of virtual reality gaming.
+    <br><br>
+    Needless to say, our team took this challenge to the next level.
   track: "FunEvent"
-  content: ""
-  level: Expert
-  duration: "1h"
-  video: "https://youtu.be/Aif3h58jJmc?si=_vaK-UpsvmDFbPIv"
+  video: "https://www.youtube.com/embed/Aif3h58jJmc?si=hQBwVilh_U5DNOlT&amp"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7069613977411932160"
   instagram: ""
   twitter: ""
-  githubUrl: ""
-  blogPost: ""
 
 
 - name: React Component Profiling
@@ -435,6 +457,31 @@
   githubUrl: "https://github.com/itenium-be/React-ComponentProfiling"
   blogPost: ""
 
+
+- name: "Angular: ReactiveForms"
+  subTitle: "Demystifying the FormBuilder, Array, Group & Control"
+  date: 2023-01-12
+  summary: >
+    After a small pptx on the basics of Angular's ReactiveForms,
+    the session turned hands-on with exercises on combining
+    FormArray and FormGroups, implementing and UnitTesting form
+    behaviors, Validators and, for the brave, ControlValueAccessor.
+  track: "FrontendTrack"
+  content: "Hands-On"
+  level: Introduction
+  duration: "3h"
+  video: ""
+  image: ""
+  gallery:
+    - "/assets/images-events/angular-reactive-forms-1.jpg"
+    - "/assets/images-events/angular-reactive-forms-2.jpg"
+    - "/assets/images-events/angular-reactive-forms-3.jpg"
+    - "/assets/images-events/angular-reactive-forms-4.jpg"
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: "https://github.com/itenium-be/angular-reactive-forms"
+  blogPost: ""
 
 
 # TODO: aaaand... we're missing quite some events in between here
@@ -470,7 +517,7 @@
   type: ["exercisesAtTheEnd"]
   level: Introduction
   duration: "2h"
-  video: "https://www.canva.com/design/DAFDF5F5eIw/A9Rcg2qNi2mL1PwVWdhcmg/watch?utm_content=DAFDF5F5eIw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+  video: ""
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:6977567654366625792"
   instagram: "https://www.instagram.com/p/Ciry9TXspp4/"
@@ -546,7 +593,7 @@
 #   track: "CloudTrack"
 #   content: ""
 #   type: ["exercisesAtTheEnd", "Virtual"]
-#   level: Expert
+#   level: Introduction
 #   duration: "3h"
 #   video: ""
 #   image: ""

@@ -1,5 +1,25 @@
-{% if include.event.image != "" %}
-   <img src="{{ include.event.image | relative_url }}" alt="" />
+{% assign img = include.event.image %}
+
+{% if img == "" and include.event.video != "" %}
+   {% assign img = "video" %}
+{% endif %}
+
+{% if img == "" %}
+   {% if include.event.gallery %}
+      {% assign img = include.event.gallery | first %}
+   {% endif %}
+{% endif %}
+
+
+{% if img == "video" %}
+   <iframe width="560" height="315" src="{{ include.event.video }}"
+      title="{{ include.event.name | escape }}" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+   ></iframe>
+
+{% elsif img != "" %}
+   <img src="{{ img | relative_url }}" alt="" />
 {% elsif include.event.track == "TechCafe" %}
    <img src="{{ "/assets/images/features1.jpg" | relative_url }}" alt="" />
 {% else %}
