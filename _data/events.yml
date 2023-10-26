@@ -41,8 +41,10 @@
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7123227942704271360/"
   instagram: "https://www.instagram.com/reel/Cyx51j6rkci/"
   twitter: "https://twitter.com/itenium_be/status/1717465848158539975"
-  githubUrl: ""
-  blogPost: ""
+  githubUrl: "https://github.com/itenium-be/ModernJS"
+  blogPost:
+    - "https://itenium.be/blog/javascript/array-prototype/"
+    - "https://itenium.be/blog/javascript/regex-in-javascript/"
 
 
 
