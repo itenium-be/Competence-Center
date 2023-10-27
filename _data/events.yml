@@ -5,7 +5,7 @@
 
 
 # TODO: link images
-repost missing soc med
+# TODO: repost missing soc med
 
 
 - name: "Bijlgooien"
@@ -36,7 +36,7 @@ repost missing soc med
   type: ["Virtual"]
   level: Intermediate
   duration: "1h40m"
-  video: "https://youtube.com/shorts/SPjyT4KXr6Q?feature=share"
+  video: "https://youtube.com/shorts/SPjyT4KXr6Q?si=qda3LdwzJiTyXsVJ"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7123227942704271360/"
   instagram: "https://www.instagram.com/reel/Cyx51j6rkci/"
@@ -77,7 +77,7 @@ repost missing soc med
   type: ["Virtual", "Short"]
   level: Introduction
   duration: "50m"
-  video: "https://youtube.com/shorts/VjHd-gOj4II?feature=share"
+  video: "https://youtube.com/shorts/VjHd-gOj4II?si=tu3eMok7f-U54LhM"
   image: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_kql-discoveralertsdashboards-virtualtraining-activity-7122540075166404608-2oSp?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/reel/Cyx51j6rkci/?utm_source=ig_web_copy_link"
@@ -116,7 +116,7 @@ repost missing soc med
   type: [""]
   level:
   duration: ""
-  video: ""
+  video: "https://youtu.be/BURmF7PDbfA?si=_g8X6giyCXB_3BU8"
   image: ""
   linkedIn: ""
   instagram: ""
@@ -184,13 +184,16 @@ repost missing soc med
 - name: "The Mythical Man-Month"
   subTitle: "On how a 40 year IT book is still relevant today"
   date: 2023-07-27
-  summary: "Delving into the timeless wisdom of Frederick Brooks' ''The Mythical Man-Month'' has been an enriching experience. This iconic work has illuminated the path of software development and project management for decades. As a company fueled by innovation and commitment to excellence, we persistently draw inspiration from these timeless masterpieces to craft and deliver exceptional solutions."
+  summary: > 
+    Delving into the timeless wisdom of Frederick Brooks' ''The Mythical Man-Month'' has been an enriching experience. 
+    This iconic work has illuminated the path of software development and project management for decades. 
+    As a company fueled by innovation and commitment to excellence, we persistently draw inspiration from these timeless masterpieces to craft and deliver exceptional solutions."
   track: "ArchitectureTrack"
   content: "Theoretical"
   type: ["Virtual"]
   level: Introduction
   duration: "2h"
-  video: "https://youtube.com/shorts/fQPIVR_dVME?feature=share"
+  video: "https://youtube.com/shorts/fQPIVR_dVME?si=GUsyIK3tkY_mODSJ"
   image: "/assets/images-events/mythical-man-month.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7108390037095923712"
   instagram: "https://www.instagram.com/reel/CxfHdZIh-XW/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
@@ -225,7 +228,7 @@ repost missing soc med
     blending adrenaline-pumping indoor and outdoor skydiving, heart-racing race spectating, and sizzling barbecues.
   track: "FunEvent"
   duration: "2d"
-  video: "https://www.youtube.com/watch?v=VEFreo2vbH0"
+  video: "https://youtu.be/VEFreo2vbH0?si=lcZo4DSe4cFgbNgP"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7080123264995336192"
   instagram: "https://www.instagram.com/reel/Ctygl1rv18u/"
@@ -281,7 +284,7 @@ repost missing soc med
   type: ["Virtual"]
   level: Introduction
   duration: "2h"
-  video: "https://youtube.com/shorts/h_n4-oa_Czc"
+  video: "https://youtube.com/shorts/h_n4-oa_Czc?si=yphEQeGlWnPy6_K0"
   image: ""
   linkedIn: ""
   instagram: ""
@@ -296,7 +299,7 @@ repost missing soc med
   date: 2023-04-27
   summary: >
     Quality is our driving force, making us a company of distinction!" 
-    At itenium, we aim to always move forward and one way we do it is by empowering our consultants with the necessary skills to always exceed our client's expectations
+    <br> At itenium, we aim to always move forward and one way we do it is by empowering our consultants with the necessary skills to always exceed our client's expectations
     As part of this empowerment journey, we recently wrapped up our dynamic session on REST, JWT, Postman, and Dev tools.
     The team continuously embarks on our journey to growth, constant improvement and superiority in quality.
   track: "QAEvent"
@@ -304,7 +307,7 @@ repost missing soc med
   type: ["Virtual", "Short"]
   level: Introduction
   duration: "2h"
-  video: "https://youtube.com/shorts/NvtSoNcm5PM?feature=share"
+  video: "https://youtube.com/shorts/NvtSoNcm5PM?si=R_hnxKHczDhrIn0-"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7076531068174041088"
   instagram: ""
@@ -345,7 +348,8 @@ repost missing soc med
   date: 2023-04-18
   summary: >
     We leave no stone unturned in our pursuit of quality. We ensure that every product and service reflects our unwavering dedication to delivering the best. 
-    Understanding the vulnerabilities of the business and our strengths are the ways that help us in tackling any roadblocks that stand in our way. It's always crucial to be aware and prepared. This was demonstrated during our Security Bootcamp where we explored the world of hacking and learned to defend against them. We recently revisited the hacks that were presented and it was mind-expanding how these sometimes simple exploits lead to a bigger problem. The team's Security Awareness reaches another level!"
+    Understanding the vulnerabilities of the business and our strengths are the ways that help us in tackling any roadblocks that stand in our way. It's always crucial to be aware and prepared. 
+    This was demonstrated during our Security Bootcamp where we explored the world of hacking and learned to defend against them. We recently revisited the hacks that were presented and it was mind-expanding how these sometimes simple exploits lead to a bigger problem. The team's Security Awareness reaches another level!"
   track: "TechEvent"
   content: "Code-Show"
   type: ["Virtual"]
@@ -392,7 +396,7 @@ repost missing soc med
   content: "Hands-On"
   level: Introduction
   duration: "8h"
-  video: "https://www.youtube.com/embed/f-cvfwykanQ?si=slS0ohN_eQxTNTsm"
+  video: "https://youtu.be/f-cvfwykanQ?si=0geIkMXXNsd7rI4l"
   image: ""
   linkedIn: ""
   instagram: ""
@@ -414,7 +418,7 @@ repost missing soc med
     <br><br>
     Needless to say, our team took this challenge to the next level.
   track: "FunEvent"
-  video: "https://www.youtube.com/embed/Aif3h58jJmc?si=hQBwVilh_U5DNOlT&amp"
+  video: "https://youtu.be/Aif3h58jJmc?si=5YBKa7K_HuvXMXxh"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7069613977411932160"
   instagram: ""
@@ -453,13 +457,12 @@ repost missing soc med
   type: ["On-Site"]
   level: Introduction
   duration: "2h"
-  video: "https://youtu.be/oRL9_6mzaPs"
+  video: "https://youtu.be/oRL9_6mzaPs?si=dzjpnkrN83yBC-8Z"
   image:
   gallery:
-  - "/assets/images-events/angular-reactive-forms-1.jpg"
   - "assets/images-events/storytelling-and-feedback-2.jpg"
   - "assets/images-events/storytelling-and-feedback-3.jpg"
-  - "assets/images-events/storytelling-and-feedback-4.jpgg"
+  - "assets/images-events/storytelling-and-feedback-4.jpg"
   - "assets/images-events/storytelling-and-feedback-5.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7039595871662993408"
   instagram: "https://www.instagram.com/reel/Cpkhz9XvvwQ/"
@@ -476,7 +479,7 @@ repost missing soc med
     The itenium team looks back on 2023 and discusses the plans for 2024. A fun night with great people!
   track: "FunEvent"
   duration: "4h"
-  video: "https://youtu.be/L-31eAzmORY"
+  video: "https://youtu.be/L-31eAzmORY?si=NpoVkb12zvloME_G"
   image: ""
   gallery:
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7025779755484377088"
