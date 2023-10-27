@@ -63,6 +63,16 @@ Use a [validator](https://www.yamllint.com/) to make sure the Yaml is valid.
   twitter: ""
   githubUrl: ""
   blogPost: ""
+
+# Notice the green cirlce
+- Green circle: build is busy
+- Green V : build succeeded, new yaml is visible on the website
+- Red X : build failed, probably invalid Yaml
+
+# Decide whether the cover image of video is to be used
+- If the video is to be used as cover image, then it's OK as it
+- If there is no video or the video is not to be used as cover image, remove the best picture from the gallery and use that as image
+
 ```
 
 Create a PR with the new images AND the changes to the Yaml.
