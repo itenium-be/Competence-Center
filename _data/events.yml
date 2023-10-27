@@ -3,7 +3,6 @@
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
-
 # TODO: link images
 # TODO: repost missing soc med
 
@@ -184,9 +183,9 @@
 - name: "The Mythical Man-Month"
   subTitle: "On how a 40 year IT book is still relevant today"
   date: 2023-07-27
-  summary: > 
-    Delving into the timeless wisdom of Frederick Brooks' ''The Mythical Man-Month'' has been an enriching experience. 
-    This iconic work has illuminated the path of software development and project management for decades. 
+  summary: >
+    Delving into the timeless wisdom of Frederick Brooks' ''The Mythical Man-Month'' has been an enriching experience.
+    This iconic work has illuminated the path of software development and project management for decades.
     As a company fueled by innovation and commitment to excellence, we persistently draw inspiration from these timeless masterpieces to craft and deliver exceptional solutions."
   track: "ArchitectureTrack"
   content: "Theoretical"
@@ -206,8 +205,8 @@
 - name: "Tech Café"
   subTitle: "itenium Tech Cafe, where good food and cutting-edge technology collide"
   date: 2023-06-15
-  summary: > 
-    Recently, our team came together for a Tech Cafe session of boundless discussions, exploring all things AI, ChatGPT, IoT, 
+  summary: >
+    Recently, our team came together for a Tech Cafe session of boundless discussions, exploring all things AI, ChatGPT, IoT,
     Home Automation, and beyond. Hand in hand with the most delicious wraps made by our very own Talisa Orens, we forged ahead, leaving a trail of excellence in our wake!
   track: "TechCafe"
   type: ["On-Site"]
@@ -223,8 +222,8 @@
 - name: "itenium weekend"
   subTitle: "A glimpse of how our team made one weekend epic"
   date: 2023-05-31
-  summary: > 
-    Sky-high thrills, racing chills, and mouthwatering grills - Our team soared to new heights of fun, 
+  summary: >
+    Sky-high thrills, racing chills, and mouthwatering grills - Our team soared to new heights of fun,
     blending adrenaline-pumping indoor and outdoor skydiving, heart-racing race spectating, and sizzling barbecues.
   track: "FunEvent"
   duration: "2d"
@@ -234,7 +233,7 @@
   instagram: "https://www.instagram.com/reel/Ctygl1rv18u/"
   twitter: "https://twitter.com/itenium_be/status/1671820803912941568"
   blogPost: ""
-  
+
 - name: "Code Complete"
   subTitle: ""
   date: 2023-05-25
@@ -298,7 +297,7 @@
   subTitle: "The relevant bits for Testers and Analysts"
   date: 2023-04-27
   summary: >
-    Quality is our driving force, making us a company of distinction!" 
+    Quality is our driving force, making us a company of distinction!
     <br> At itenium, we aim to always move forward and one way we do it is by empowering our consultants with the necessary skills to always exceed our client's expectations
     As part of this empowerment journey, we recently wrapped up our dynamic session on REST, JWT, Postman, and Dev tools.
     The team continuously embarks on our journey to growth, constant improvement and superiority in quality.
@@ -347,8 +346,8 @@
   subTitle: "A demo of all hacks from the security bootcamp."
   date: 2023-04-18
   summary: >
-    We leave no stone unturned in our pursuit of quality. We ensure that every product and service reflects our unwavering dedication to delivering the best. 
-    Understanding the vulnerabilities of the business and our strengths are the ways that help us in tackling any roadblocks that stand in our way. It's always crucial to be aware and prepared. 
+    We leave no stone unturned in our pursuit of quality. We ensure that every product and service reflects our unwavering dedication to delivering the best.
+    Understanding the vulnerabilities of the business and our strengths are the ways that help us in tackling any roadblocks that stand in our way. It's always crucial to be aware and prepared.
     This was demonstrated during our Security Bootcamp where we explored the world of hacking and learned to defend against them. We recently revisited the hacks that were presented and it was mind-expanding how these sometimes simple exploits lead to a bigger problem. The team's Security Awareness reaches another level!"
   track: "TechEvent"
   content: "Code-Show"
@@ -471,7 +470,7 @@
   blogPost: ""
 
 
-  
+
 - name: "itenium New Year Event"
   subTitle: "Ending the year right"
   date: 2023-01-19
