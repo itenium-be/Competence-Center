@@ -63,8 +63,10 @@ Use a [validator](https://www.yamllint.com/) to make sure the Yaml is valid.
   linkedIn: ""
   instagram: ""
   twitter: ""
-  githubUrl: ""
   blogPost: ""
+
+  # For all non FunEvent/TechCafes there is **always** a Github repository
+  githubUrl: ""
 ```
 
 Create a PR with the new images AND the changes to the Yaml.
