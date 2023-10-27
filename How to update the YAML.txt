@@ -15,3 +15,5 @@ How to update the yaml
 - use gallery: for the gallery
 - Images: resize width to 1024px
 - For image filenames, use dashes instead of spaces. Refrain from using HEIC files
+- After creating a PR, go manually through all the changes and hold them against this checklist
+- Youtube needs to be shared > embed (YT link should have the word "embed" to be usable)
