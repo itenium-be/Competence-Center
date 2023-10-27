@@ -542,6 +542,25 @@
 # TODO: aaaand... we're missing quite some events in between here
 
 
+- name: "Kubernetes"
+  subTitle: "Kubernetes introduction and more"
+  date: 2022-11-24
+  summary: >
+    At the end of 2022 we continued our introduction session to Kubernetes where we integrated additional tooling to our demo app: Helm, Ingress, TLS, Istio, Volumes, Healthchecks, Rolling updates and more! 
+    Thanks Jan Wielemans for another interesting evening!
+  track: "TechEvent"
+  content: "Hands-On"
+  level: Introduction
+  duration: "2h"
+  video: ""
+  image: "/assets/images-events/regex-intro.png"
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7019265593639919616"
+  instagram: "https://www.instagram.com/p/CnUFdHsrzzi/"
+  twitter: "https://twitter.com/itenium_be/status/1613500864290869248"
+  githubUrl: ""
+  blogPost:
+   
+
 - name: RXJS
   subTitle: Reactive Extensions for JavaScript
   date: 2022-09-26
