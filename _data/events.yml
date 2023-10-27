@@ -536,6 +536,23 @@
   githubUrl: "https://github.com/itenium-be/angular-reactive-forms"
   blogPost: ""
 
+- name: "Git Deepdive"
+  subTitle: "Let's git down to business"
+  date: 2022-10-08
+  summary: >
+    The team took a deeper look at git. A tool that is widely used for version control by most but is only fully understood by some. 
+    Behind its simple facade, lies the complexities that make it attractive as a go-to tool..
+  track: "TechEvent"
+  content: "Theoretical"
+  level: Intermediate
+  duration: "1h30m"
+  video: ""
+  image: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7009517899233075200"
+  instagram: "https://www.instagram.com/reel/CmOz920L8-M/"
+  twitter: "https://twitter.com/itenium_be/status/1603752607322820608"
+  githubUrl: "https://github.com/itenium-be/Docker-Kubernetes"
+  blogPost: ""
 
 
 
