@@ -22,6 +22,20 @@
       {{event.summary}}
    </p>
 
+
+   {% if event.gallery %}
+      <h3>Image Gallery</h3>
+      {% for slide in gallery %}
+         <a href="{{ slide | relative_url }}" target="_blank">
+            {{ slide | replace: 'assets/images-events', '' }}
+         </a>
+         <br>
+      {% endfor %}
+      <br>
+   {% endif %}
+
+
+
    {% if event.track != "TechCafe" %}
    <p>
       <span class="badge badge-track {{ event.track }}">{{ event.track }}</span>
