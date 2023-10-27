@@ -25,7 +25,7 @@
 
    {% if event.gallery %}
       <h3>Image Gallery</h3>
-      {% for slide in gallery %}
+      {% for slide in event.gallery %}
          <a href="{{ slide | relative_url }}" target="_blank">
             {{ slide | replace: 'assets/images-events', '' }}
          </a>
