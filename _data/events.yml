@@ -36,7 +36,7 @@
   type: ["Virtual"]
   level: Intermediate
   duration: "1h40m"
-  video: "https://youtube.com/shorts/SPjyT4KXr6Q?si=qda3LdwzJiTyXsVJ"
+  video: "hhttps://www.youtube.com/embed/SPjyT4KXr6Q"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7123227942704271360/"
   instagram: "https://www.instagram.com/reel/Cyx51j6rkci/"
@@ -58,7 +58,7 @@
   type: ["On-Site"]
   level: Introduction
   duration: "4h"
-  video: "https://youtu.be/Cw7wC8LSZ-Q"
+  video: "https://www.youtube.com/embed/Cw7wC8LSZ-Q"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7118173554797400064"
   instagram: "https://www.instagram.com/p/CyS3MRxtpRG/"
@@ -77,7 +77,7 @@
   type: ["Virtual", "Short"]
   level: Introduction
   duration: "50m"
-  video: "https://youtube.com/shorts/VjHd-gOj4II?si=tu3eMok7f-U54LhM"
+  video: "https://www.youtube.com/embed/VjHd-gOj4II"
   image: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_kql-discoveralertsdashboards-virtualtraining-activity-7122540075166404608-2oSp?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/reel/Cyx51j6rkci/?utm_source=ig_web_copy_link"
@@ -116,7 +116,7 @@
   type: [""]
   level:
   duration: ""
-  video: "https://youtu.be/BURmF7PDbfA?si=_g8X6giyCXB_3BU8"
+  video: "https://www.youtube.com/embed/BURmF7PDbfA"
   image: ""
   linkedIn: ""
   instagram: ""
@@ -193,7 +193,7 @@
   type: ["Virtual"]
   level: Introduction
   duration: "2h"
-  video: "https://youtube.com/shorts/fQPIVR_dVME?si=GUsyIK3tkY_mODSJ"
+  video: "https://www.youtube.com/embed/fQPIVR_dVME"
   image: "/assets/images-events/mythical-man-month.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7108390037095923712"
   instagram: "https://www.instagram.com/reel/CxfHdZIh-XW/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
@@ -228,7 +228,7 @@
     blending adrenaline-pumping indoor and outdoor skydiving, heart-racing race spectating, and sizzling barbecues.
   track: "FunEvent"
   duration: "2d"
-  video: "https://youtu.be/VEFreo2vbH0?si=lcZo4DSe4cFgbNgP"
+  video: "https://www.youtube.com/embed/VEFreo2vbH0"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7080123264995336192"
   instagram: "https://www.instagram.com/reel/Ctygl1rv18u/"
@@ -284,7 +284,7 @@
   type: ["Virtual"]
   level: Introduction
   duration: "2h"
-  video: "https://youtube.com/shorts/h_n4-oa_Czc?si=yphEQeGlWnPy6_K0"
+  video: "https://www.youtube.com/embed/h_n4-oa_Czc"
   image: ""
   linkedIn: ""
   instagram: ""
@@ -307,7 +307,7 @@
   type: ["Virtual", "Short"]
   level: Introduction
   duration: "2h"
-  video: "https://youtube.com/shorts/NvtSoNcm5PM?si=R_hnxKHczDhrIn0-"
+  video: "https://www.youtube.com/embed/NvtSoNcm5PM"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7076531068174041088"
   instagram: ""
@@ -396,7 +396,7 @@
   content: "Hands-On"
   level: Introduction
   duration: "8h"
-  video: "https://youtu.be/f-cvfwykanQ?si=0geIkMXXNsd7rI4l"
+  video: "https://www.youtube.com/embed/f-cvfwykanQ"
   image: ""
   linkedIn: ""
   instagram: ""
@@ -418,7 +418,7 @@
     <br><br>
     Needless to say, our team took this challenge to the next level.
   track: "FunEvent"
-  video: "https://youtu.be/Aif3h58jJmc?si=5YBKa7K_HuvXMXxh"
+  video: "https://www.youtube.com/embed/Aif3h58jJmc"
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7069613977411932160"
   instagram: ""
@@ -457,7 +457,7 @@
   type: ["On-Site"]
   level: Introduction
   duration: "2h"
-  video: "https://youtu.be/oRL9_6mzaPs?si=dzjpnkrN83yBC-8Z"
+  video: "https://www.youtube.com/embed/oRL9_6mzaPs"
   image:
   gallery:
   - "assets/images-events/storytelling-and-feedback-2.jpg"
@@ -479,7 +479,7 @@
     The itenium team looks back on 2023 and discusses the plans for 2024. A fun night with great people!
   track: "FunEvent"
   duration: "4h"
-  video: "https://youtu.be/L-31eAzmORY?si=NpoVkb12zvloME_G"
+  video: "https://www.youtube.com/embed/L-31eAzmORY"
   image: ""
   gallery:
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7025779755484377088"
