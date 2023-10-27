@@ -53,9 +53,11 @@
 
 - name: "Build your own MacroPad"
   by: "Michiel"
-  subTitle: "After the great success last year, can Michiel pull it off again?"
+  subTitle: "Our team, led by the incredible Michiel, tackled the mission to create the ultimate macropad!"
   date: 2023-10-05
-  summary: "Michiel surprises us with a new IoT hands-on sessions!"
+  summary: >
+        From soldering to putting everything together, the team was challenged by Michiel to build our very own macropad from scratch. This fun DIY session did not just put the components together, it
+        strengthened the bond the team already had.
   track: "TechEvent"
   content: "Hands-On"
   type: ["On-Site"]
