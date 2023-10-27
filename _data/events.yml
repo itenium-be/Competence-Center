@@ -643,14 +643,16 @@
 
 # - name: "Garbage Collection"
 #   subTitle: "Java vs .NET"
-#   date: 2022-09-21
-#   summary: ""
+#   date: 2022-09-14
+#   summary: >
+      "We learned about the why of Garbage Collectors and the different strategies used in the hybrid Tracing implementations of Java and .NET. Escape Analysis, Generations, SATB-algorithms, Compacting and Evacuation. 
+      It's all pretty interesting stuff -- if you're a total geek like us!"
 #   track: "TechEvent"
 #   content: "Theoretical"
 #   type: ["Virtual"]
 #   level: Introduction
 #   duration: "2h"
-#   video: ""
+#   video: "https://www.youtube.com/embed/-bYs4NSG7y0"
 #   image: ""
 #   linkedIn: ""
 #   instagram: ""
