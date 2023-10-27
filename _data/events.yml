@@ -576,6 +576,22 @@
   twitter: "https://twitter.com/itenium_be/status/1613500864290869248"
   githubUrl: "https://github.com/itenium-be/Docker-Kubernetes"
   blogPost:
+
+
+  - name: "Escape Game: Alcatraz"
+  subTitle: "Escaping the inescapable"
+  date: 2022-10-20
+  summary: >
+    The itenium gang tackled the twists and turns of Exit Games' Alcatraz. It was a tough run escaping this maximum-security prison but the team persisted
+  track: "FunEvent, "
+  duration: "3h"
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: "https://twitter.com/itenium_be/status/1583397805347196928"
+  githubUrl: ""
+  blogPost:
    
 
 - name: RXJS
