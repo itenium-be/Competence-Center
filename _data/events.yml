@@ -543,15 +543,15 @@
     The team took a deeper look at git. A tool that is widely used for version control by most but is only fully understood by some. 
     Behind its simple facade, lies the complexities that make it attractive as a go-to tool..
   track: "TechEvent"
-  content: "Hands-On"
+  content: "Theoretical"
   level: Intermediate
-  duration: "2h"
+  duration: "1h30m"
   video: ""
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7009517899233075200"
   instagram: "https://www.instagram.com/reel/CmOz920L8-M/"
   twitter: "https://twitter.com/itenium_be/status/1603752607322820608"
-  githubUrl: ""
+  githubUrl: "https://github.com/itenium-be/Docker-Kubernetes"
   blogPost: ""
 
 
