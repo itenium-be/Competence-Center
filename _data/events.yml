@@ -53,9 +53,11 @@
 
 - name: "Build your own MacroPad"
   by: "Michiel"
-  subTitle: "After the great success last year, can Michiel pull it off again?"
+  subTitle: "Our team, led by the incredible Michiel, tackled the mission to create the ultimate macropad!"
   date: 2023-10-05
-  summary: "Michiel surprises us with a new IoT hands-on sessions!"
+  summary: >
+        From soldering to putting everything together, the team was challenged by Michiel to build our very own macropad from scratch. This fun DIY session did not just put the components together, it
+        strengthened the bond the team already had.
   track: "TechEvent"
   content: "Hands-On"
   type: ["On-Site"]
@@ -534,11 +536,47 @@
   githubUrl: "https://github.com/itenium-be/angular-reactive-forms"
   blogPost: ""
 
+- name: "Git Deepdive"
+  subTitle: "Let's git down to business"
+  date: 2022-10-08
+  summary: >
+    The team took a deeper look at git. A tool that is widely used for version control by most but is only fully understood by some. 
+    Behind its simple facade, lies the complexities that make it attractive as a go-to tool..
+  track: "TechEvent"
+  content: "Theoretical"
+  level: Intermediate
+  duration: "1h30m"
+  video: ""
+  image: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7009517899233075200"
+  instagram: "https://www.instagram.com/reel/CmOz920L8-M/"
+  twitter: "https://twitter.com/itenium_be/status/1603752607322820608"
+  githubUrl: "https://github.com/itenium-be/Docker-Kubernetes"
+  blogPost: ""
 
 
 
 # TODO: aaaand... we're missing quite some events in between here
 
+
+- name: "Kubernetes"
+  subTitle: "Kubernetes introduction and more"
+  date: 2022-11-24
+  summary: >
+    At the end of 2022 we continued our introduction session to Kubernetes where we integrated additional tooling to our demo app: Helm, Ingress, TLS, Istio, Volumes, Healthchecks, Rolling updates and more! 
+    Thanks Jan Wielemans for another interesting evening!
+  track: "TechEvent"
+  content: "Hands-On"
+  level: Introduction
+  duration: "2h"
+  video: ""
+  image: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7019265593639919616"
+  instagram: "https://www.instagram.com/p/CnUFdHsrzzi/"
+  twitter: "https://twitter.com/itenium_be/status/1613500864290869248"
+  githubUrl: "https://github.com/itenium-be/Docker-Kubernetes"
+  blogPost:
+   
 
 - name: RXJS
   subTitle: Reactive Extensions for JavaScript
