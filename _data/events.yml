@@ -3,26 +3,148 @@
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
-# TODO: link images
-# TODO: repost missing soc med
+# TODO: upload to youtube:
+# Alcatraz: Upload video to youtube: https://twitter.com/itenium_be/status/1583397805347196928
+# React: upload video https://x.com/itenium_be/status/1574319873978617861?s=20
+# Vue: upload video https://x.com/itenium_be/status/1571802274250522624?s=20
+# Git DeepDive: https://www.linkedin.com/feed/update/urn:li:activity:7009517899233075200/
 
+# TODO: still needs to be posted on socials:
+# - Interesting Docker Projects
+# - GraphQL
+# - Quiz by Mike
+# - Dockerfiles & Docker-Compose
 
-- name: "Bijlgooien"
-  subTitle: "Dé nieuwe trend, itenium mag niet ontbreken!"
-  date: 2023-09-07
-  summary: ""
-  track: "FunEvent"
+# Events 2024:
+# 25/01: New Year Event 2024
+# 31/01: Gent.devs (ModernJS) --> in public-speaking.yml!!
+# 08/02: Soft Skills Training - Focus & Time Management
+# 22/02: FrontendTrack: React UnitTesting (Hands-On)
+# 07/03: Curling --> NOT Curling, too late for reservation, will be replaced with another event
+# 15/03: Bootcamp: 3D-Modelling (Tom)
+
+- name: "Interesting Docker Projects"
+  subTitle: "Let's review some free, open-source, selfhosted Docker projects"
+  date: 2023-12-21
+  summary: >
+    Docker tools to run on your NAS or raspberry or just on your PC.
+  track: "CloudTrack"
+  content: "Code-Show"
+  type: ["Virtual"]
+  level: Introduction
+  duration: ""
   video: ""
-  image: "assets/images-events/axe-throwing-1.png"
-  gallery:
-  - "assets/images-events/axe-throwing-2.jpg"
-  - "assets/images-events/axe-throwing-3.jpg"
-  - "assets/images-events/axe-throwing-4.jpg"
-  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7110201034278391808"
-  instagram: "https://www.instagram.com/p/Cy5l-_gNHT9/"
-  twitter: "https://twitter.com/itenium_be/status/1717859909700661543"
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
   githubUrl: ""
   blogPost: ""
+
+
+
+- name: "GraphQL"
+  subTitle: "Now that there is gRPC, let's have a look at GraphQL"
+  date: 2023-12-07
+  summary: >
+    Hands on exercises with Node, Express, GraphQL and Apollo.
+  track: "TechEvent"
+  content: "Hands-On"
+  type: ["On-Site"]
+  level: Introduction
+  duration: "2h"
+  video: ""
+  image: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7139977026915971072"
+  instagram: ""
+  twitter: ""
+  githubUrl: "https://github.com/itenium-be/GraphQL"
+
+
+
+- name: "Quiz by Mike!"
+  by: Mike
+  subTitle: ""
+  date: 2023-11-09
+  summary: ""
+  track: "FunEvent"
+  duration: "4h"
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+
+
+
+- name: "Dockerfiles & Docker-Compose"
+  subTitle: "Introduction to custom Docker and compose files"
+  date: 2023-11-02
+  summary: >
+    After our last CloudTrack training on Kubernetes, let's take a step back to
+    find out the syntax and options when creating custom Dockerfiles.
+    <br><br>
+    And how to incorporate necessary databases and tooling for your apps with
+    compose.yaml.
+  track: "CloudTrack"
+  content: "Theoretical"
+  type: ["Virtual"]
+  level: Introduction
+  duration: "1h15min"
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: "https://github.com/itenium-be/Dockerfiles-DockerCompose"
+
+
+
+- name: "Kibana Query Syntax"
+  subTitle: "The Elastic Stack (previously known as the ELK Stack)"
+  date: 2023-10-19
+  summary: >
+    Our latest QAEvent explored KQL, the Kibana Query Language with demos on Discover, Alerts and Dashboard
+  track: "QAEvent"
+  content: "Demos"
+  type: ["Virtual", "Short"]
+  level: Introduction
+  duration: "50m"
+  video: "https://youtube.com/embed/VjHd-gOj4II"
+  linkedIn: "https://www.linkedin.com/posts/itenium_kql-discoveralertsdashboards-virtualtraining-activity-7122540075166404608-2oSp"
+  instagram: "https://www.instagram.com/reel/Cyx51j6rkci"
+  twitter: "https://twitter.com/itenium_be/status/1716775510196535555"
+  githubUrl: "https://github.com/itenium-be/Kibana"
+
+
+
+- name: "Build your own MacroPad"
+  by: "Michiel"
+  subTitle: "Our team, led by the incredible Michiel, tackled the mission to create the ultimate macropad!"
+  date: 2023-10-05
+  summary: >
+    From soldering to putting everything together, the team was challenged by Michiel to build our very own macropad
+    from scratch.
+    This fun DIY session did not just put the components together, it strengthened the bond the team already had.
+  track: "TechEvent"
+  content: "Hands-On"
+  type: ["On-Site"]
+  level: Introduction
+  duration: "4h"
+  video: "https://youtube.com/embed/Cw7wC8LSZ-Q"
+  image: "assets/images-events/Macropad-3.jpg"
+  gallery:
+    - "assets/images-events/Macropad-4.jpg"
+    - "assets/images-events/Macropad-5.jpg"
+    - "assets/images-events/Macropad-6.jpg"
+    - "assets/images-events/macropad-1.jpg"
+    - "assets/images-events/macropad-2.jpg"
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7118173554797400064"
+  instagram: "https://www.instagram.com/p/CyS3MRxtpRG/"
+  twitter: "https://twitter.com/itenium_be/status/1712408968792805733/video/1"
+  githubUrl: "https://github.com/itenium-be/BuildYourOwnMacroPad"
+  blogPost: "https://itenium.be/blog/dev-setup/build-your-own-macropad/"
+
 
 
 - name: "ModernJS"
@@ -39,10 +161,9 @@
   type: ["Virtual"]
   level: Intermediate
   duration: "1h40m"
-  video: "hhttps://www.youtube.com/embed/SPjyT4KXr6Q"
-  image: ""
+  video: "https://youtube.com/embed/SPjyT4KXr6Q"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7123227942704271360/"
-  instagram: "https://www.instagram.com/reel/Cyx51j6rkci/"
+  instagram: "https://www.instagram.com/reel/CxxYoF9Brxf"
   twitter: "https://twitter.com/itenium_be/status/1717465848158539975"
   githubUrl: "https://github.com/itenium-be/ModernJS"
   blogPost:
@@ -51,145 +172,44 @@
 
 
 
-- name: "Build your own MacroPad"
-  by: "Michiel"
-  subTitle: "Our team, led by the incredible Michiel, tackled the mission to create the ultimate macropad!"
-  date: 2023-10-05
+- name: "Bijlgooien"
+  subTitle: "Dé nieuwe trend, itenium mag niet ontbreken!"
+  date: 2023-09-07
   summary: >
-        From soldering to putting everything together, the team was challenged by Michiel to build our very own macropad from scratch. This fun DIY session did not just put the components together, it
-        strengthened the bond the team already had.
-  track: "TechEvent"
-  content: "Hands-On"
-  type: ["On-Site"]
-  level: Introduction
-  duration: "4h"
-  video: "https://www.youtube.com/embed/Cw7wC8LSZ-Q"
-  image: "assets/images-events/Macropad-3.jpg"
-  gallery:
-  - "assets/images-events/Macropad-4.jpg"
-  - "assets/images-events/Macropad-5.jpg"
-  - "assets/images-events/Macropad-6.jpg"
-  - "assets/images-events/macropad-1.jpg"
-  - "assets/images-events/macropad-2.jpg"
-  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7118173554797400064"
-  instagram: "https://www.instagram.com/p/CyS3MRxtpRG/"
-  twitter: "https://twitter.com/itenium_be/status/1712408968792805733/video/1"
-  githubUrl: "https://github.com/itenium-be/BuildYourOwnMacroPad"
-  blogPost: "https://itenium.be/blog/dev-setup/build-your-own-macropad/"
-
-
-- name: "Kibana Query Syntax"
-  subTitle: "The Elastic Stack (previously known as the ELK Stack)"
-  date: 2023-10-19
-  summary: >
-    Our latest QAEvent explored KQL, the Kibana Query Language with demos on Discover, Alerts and Dashboard
-  track: "QAEvent"
-  content: "Demos"
-  type: ["Virtual", "Short"]
-  level: Introduction
-  duration: "50m"
-  video: "https://www.youtube.com/embed/VjHd-gOj4II"
-  image: ""
-  linkedIn: "https://www.linkedin.com/posts/itenium_kql-discoveralertsdashboards-virtualtraining-activity-7122540075166404608-2oSp?utm_source=share&utm_medium=member_desktop"
-  instagram: "https://www.instagram.com/reel/Cyx51j6rkci/?utm_source=ig_web_copy_link"
-  twitter: "https://twitter.com/itenium_be/status/1716775510196535555"
-  githubUrl: "https://github.com/itenium-be/Kibana"
-  blogPost: ""
-
-
-
-- name: "Dockerfiles & Docker-Compose"
-  subTitle: ""
-  date: 2023-11-02
-  summary: ""
-  track: "CloudTrack"
-  content: "Theoretical"
-  type: ["Virtual"]
-  level: Introduction
-  duration: ""
-  video: ""
-  image: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
-
-- name: "Quiz by Mike!"
-  by: Mike
-  subTitle: ""
-  date: 2023-11-09
-  summary: ""
+    We took a break from the daily grind and immersed ourselves in a world of precision,
+    teamwork, and unwavering quality - mirroring our dedication in our everyday work! Our latest team bonding
+    experience evolved into an exhilarating axe-throwing adventure.
   track: "FunEvent"
-  content: ""
-  type: [""]
-  level:
-  duration: ""
-  video: "https://www.youtube.com/embed/BURmF7PDbfA"
-  image: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  image: "assets/images-events/axe-throwing-0.png"
+  gallery:
+    - "assets/images-events/axe-throwing-1.jpg"
+    - "assets/images-events/axe-throwing-2.jpg"
+    - "assets/images-events/axe-throwing-3.jpg"
+    - "assets/images-events/axe-throwing-4.jpg"
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7110201034278391808"
+  instagram: "https://www.instagram.com/p/Cy5l-_gNHT9/"
+  twitter: "https://twitter.com/itenium_be/status/1717859909700661543"
 
 
-- name: "GraphQL"
-  subTitle: "Now that there is gRPC, let's have a look at GraphQL"
-  date: 2023-12-07
-  summary: ""
-  track: "TechEvent"
-  content: "Hands-On"
-  type: ["On-Site"]
-  level: Introduction
-  duration: ""
-  video: ""
-  image: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
-- name: "Docker Setup"
-  subTitle: "Docker Setup and some interesting projects"
-  date: 2023-12-21
-  summary: ""
-  track: "CloudTrack"
-  content: "Code-Show"
-  type: ["Virtual"]
-  level: Introduction
-  duration: ""
-  video: ""
-  image: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
-# PAST EVENTS START HERE
 
 - name: "UI/UX: Don't make me think"
-  subTitle: ""
+  subTitle: "How to design websites like billboards"
   date: 2023-08-24
-  summary: ""
+  summary: >
+    There are no hard and fast usability rules, but there is a first law of
+    usability, the ultimate tie-breaker: Don't make me think!
+    <br><br>
+    Create websites like billboards because your users merely
+    scan your webpages; they are on a mission and are happy to
+    satisfice.
   track: "FrontendTrack"
   content: "Theoretical"
   type: ["Virtual"]
   level: Introduction
   duration: "1h"
-  video: ""
   image: "/assets/images-events/dont-make-me-think.jpg"
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
   githubUrl: "https://github.com/itenium-be/Talk-UI-UX"
-  blogPost: ""
+
 
 
 - name: "The Mythical Man-Month"
@@ -198,19 +218,22 @@
   summary: >
     Delving into the timeless wisdom of Frederick Brooks' ''The Mythical Man-Month'' has been an enriching experience.
     This iconic work has illuminated the path of software development and project management for decades.
-    As a company fueled by innovation and commitment to excellence, we persistently draw inspiration from these timeless masterpieces to craft and deliver exceptional solutions."
+    As a company fueled by innovation and commitment to excellence, we persistently draw inspiration from these
+    timeless masterpieces to craft and deliver exceptional solutions."
   track: "ArchitectureTrack"
   content: "Theoretical"
   type: ["Virtual"]
   level: Introduction
   duration: "2h"
-  video: "https://www.youtube.com/embed/fQPIVR_dVME"
+  video: "https://youtube.com/embed/fQPIVR_dVME"
   image: "/assets/images-events/mythical-man-month.jpg"
+  gallery:
+    - "/assets/images-events/mythical-man-month-1.png"
+    - "/assets/images-events/mythical-man-month-2.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7108390037095923712"
-  instagram: "https://www.instagram.com/reel/CxfHdZIh-XW/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
+  instagram: "https://www.instagram.com/reel/CxfHdZIh-XW"
   twitter: "https://twitter.com/itenium_be/status/1702624887645360269"
   githubUrl: "https://github.com/itenium-be/Mythical-Man-Month"
-  blogPost: ""
 
 
 
@@ -218,18 +241,18 @@
   subTitle: "itenium Tech Cafe, where good food and cutting-edge technology collide"
   date: 2023-06-15
   summary: >
-    Recently, our team came together for a Tech Cafe session of boundless discussions, exploring all things AI, ChatGPT, IoT,
-    Home Automation, and beyond. Hand in hand with the most delicious wraps made by our very own Talisa Orens, we forged ahead, leaving a trail of excellence in our wake!
+    Recently, our team came together for a Tech Cafe session of boundless discussions,
+    exploring all things AI, ChatGPT, IoT,
+    Home Automation, and beyond. Hand in hand with the most delicious wraps made by our very own Talisa Orens,
+    we forged ahead, leaving a trail of excellence in our wake!
   track: "TechCafe"
   type: ["On-Site"]
   duration: "2h"
-  video: ""
   image: "/assets/images-events/tech-cafe-2023.jpg"
-  linkedIn: ""
   instagram: "https://www.instagram.com/p/CvcEB9MSh6D/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
   twitter: "https://twitter.com/itenium_be/status/1686682419494273024"
-  githubUrl: ""
-  blogPost: ""
+
+
 
 - name: "itenium weekend"
   subTitle: "A glimpse of how our team made one weekend epic"
@@ -239,35 +262,38 @@
     blending adrenaline-pumping indoor and outdoor skydiving, heart-racing race spectating, and sizzling barbecues.
   track: "FunEvent"
   duration: "2d"
-  video: "https://www.youtube.com/embed/VEFreo2vbH0"
+  video: "https://youtube.com/embed/VEFreo2vbH0"
   image: "assets/images-events/itenium-weekend-2.png"
   gallery:
-  - "assets/images-events/itenium-weekend-1.jpg"
-  - "assets/images-events/itenium-weekend-3.jpg"
-  - "assets/images-events/itenium-weekend-4.jpg"
-  - "assets/images-events/itenium-weekend-5.jpg"
-  - "assets/images-events/itenium-weekend-6.jpg"
+    - "assets/images-events/itenium-weekend-1.jpg"
+    - "assets/images-events/itenium-weekend-3.jpg"
+    - "assets/images-events/itenium-weekend-4.jpg"
+    - "assets/images-events/itenium-weekend-5.jpg"
+    - "assets/images-events/itenium-weekend-6.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7080123264995336192"
   instagram: "https://www.instagram.com/reel/Ctygl1rv18u/"
   twitter: "https://twitter.com/itenium_be/status/1671820803912941568"
-  blogPost: ""
+
+
 
 - name: "Code Complete"
-  subTitle: ""
+  subTitle: "Part 1 because... 1k pages 😱"
   date: 2023-05-25
-  summary: ""
+  summary: >
+    Where the Coding Horror blog got its logo from.
+    <br><br>
+    Overview of McConnels best practices for creating
+    high-quality code.
   track: "ArchitectureTrack"
   content: "Theoretical"
   type: ["Virtual"]
   level: Introduction
-  duration: ""
-  video: ""
+  duration: "1h30min"
   image: "/assets/images-events/code-complete.jpg"
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
+  gallery:
+    - "/assets/images-events/code-complete-1.png"
+    - "/assets/images-events/code-complete-2.png"
   githubUrl: "https://github.com/itenium-be/CodeComplete"
-  blogPost: ""
 
 
 
@@ -275,39 +301,39 @@
   subTitle: "Live show by Lieven Scheiren"
   date: 2023-05-18
   summary: >
-   Last week, the itenium crew attended the Artificiële Intelligentie Zaalshow by Lieven Scheire.
-   It showcased the complexities and limitations of AI, a "new" domain of the tech world from the
-   late 50s that has taken us all by storm
+    Last week, the itenium crew attended the Artificiële Intelligentie Zaalshow by Lieven Scheire.
+    It showcased the complexities and limitations of AI, a "new" domain of the tech world from the
+    late 50s that has taken us all by storm
   track: "FunEvent"
   type: ["On-Site"]
   level: On-Site
   duration: "4h"
-  video: ""
   image: "/assets/images-events/ai-lieven-scheiren.jpg"
+  gallery:
+    - "/assets/images-events/ai-lieven-scheiren-1.jpg"
+    - "/assets/images-events/ai-lieven-scheiren-2.jpg"
+    - "/assets/images-events/ai-lieven-scheiren-3.jpg"
+    - "/assets/images-events/ai-lieven-scheiren-4.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7066397918517178368"
-  instagram: "https://www.instagram.com/p/Csi-ufORFHJ/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
+  instagram: "https://www.instagram.com/p/Csi-ufORFHJ"
   twitter: "https://twitter.com/itenium_be/status/1660632201132744705"
-  githubUrl: ""
-  blogPost: ""
 
 
 
 - name: "EventSourcing and CQRS"
-  subTitle: ""
+  subTitle: "When to CQRS, and when not?"
   date: 2023-05-11
-  summary: ""
+  summary: >
+    Theoretical introduction to EventSourcing & CQRS.
+    Exploration of the different features, challenges and consequences like
+    Hydration, Projections, Snapshots, Temporal Queries, Rewriting History etc.
   track: "ArchitectureTrack"
   content: "Theoretical"
   type: ["Virtual"]
   level: Introduction
   duration: "2h"
-  video: "https://www.youtube.com/embed/h_n4-oa_Czc"
-  image: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
+  video: "https://youtube.com/embed/h_n4-oa_Czc"
   githubUrl: "https://github.com/itenium-be/EventSourcing-CQRS"
-  blogPost: ""
 
 
 
@@ -316,7 +342,9 @@
   date: 2023-04-27
   summary: >
     Quality is our driving force, making us a company of distinction!
-    <br> At itenium, we aim to always move forward and one way we do it is by empowering our consultants with the necessary skills to always exceed our client's expectations
+    <br>
+    At itenium, we aim to always move forward and one way we do it is by empowering our consultants with the
+    necessary skills to always exceed our client's expectations
     As part of this empowerment journey, we recently wrapped up our dynamic session on REST, JWT, Postman, and Dev tools.
     The team continuously embarks on our journey to growth, constant improvement and superiority in quality.
   track: "QAEvent"
@@ -324,13 +352,11 @@
   type: ["Virtual", "Short"]
   level: Introduction
   duration: "2h"
-  video: "https://www.youtube.com/embed/NvtSoNcm5PM"
-  image: ""
+  video: "https://youtube.com/embed/NvtSoNcm5PM"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7076531068174041088"
-  instagram: ""
+  instagram: "https://www.instagram.com/p/Ctq_acOPl1U"
   twitter: "https://twitter.com/itenium_be/status/1670768624842207233?s=20"
   githubUrl: " https://github.com/itenium-be/REST-JWT-DevTools"
-  blogPost: ""
 
 
 
@@ -342,17 +368,24 @@
     This is why we invest time and effort in making sure that our consultants' skills are always in top shape.
     With guidance and constant development, there is so much potential that can be unlocked.
     This was proven last week when we had our tech event covering our very own RegEx Tutorial.
-    We explored a world of possibilities where we conquered the art of pattern matching and text manipulation through practical examples and exercises.
+    We explored a world of possibilities where we conquered the art of pattern matching and text manipulation
+    through practical examples and exercises.
     Our team's coding prowess soars some more!
   track: "TechEvent"
   content: "Hands-On"
   level: Introduction
   duration: "3h"
-  video: ""
   image: "/assets/images-events/regex-intro.png"
+  gallery:
+    - "/assets/images-events/regex-1.png"
+    - "/assets/images-events/regex-2.png"
+    - "/assets/images-events/regex-3.png"
+    - "/assets/images-events/regex-4.png"
+    - "/assets/images-events/regex-5.png"
+    - "/assets/images-events/regex-6.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7072513057427468289"
-  instagram: ""
-  twitter: ""
+  instagram: "https://www.instagram.com/p/Cs_CovavtbL"
+  twitter: "https://x.com/itenium_be/status/1664572988669194241?s=20"
   githubUrl: "https://github.com/itenium-be/Regex-Tutorial"
   blogPost:
     - "https://itenium.be/blog/productivity/regex-introduction/"
@@ -364,21 +397,20 @@
   subTitle: "A demo of all hacks from the security bootcamp."
   date: 2023-04-18
   summary: >
-    We leave no stone unturned in our pursuit of quality. We ensure that every product and service reflects our unwavering dedication to delivering the best.
-    Understanding the vulnerabilities of the business and our strengths are the ways that help us in tackling any roadblocks that stand in our way. It's always crucial to be aware and prepared.
-    This was demonstrated during our Security Bootcamp where we explored the world of hacking and learned to defend against them. We recently revisited the hacks that were presented and it was mind-expanding how these sometimes simple exploits lead to a bigger problem. The team's Security Awareness reaches another level!"
+    We leave no stone unturned in our pursuit of quality. We ensure that every product and service reflects our
+    unwavering dedication to delivering the best.
+    Understanding the vulnerabilities of the business and our strengths are the ways that help us in tackling any
+    roadblocks that stand in our way. It's always crucial to be aware and prepared.
+    This was demonstrated during our Security Bootcamp where we explored the world of hacking and learned to
+    defend against them. We recently revisited the hacks that were presented and it was mind-expanding how these
+    sometimes simple exploits lead to a bigger problem. The team's Security Awareness reaches another level!"
   track: "TechEvent"
   content: "Code-Show"
   type: ["Virtual"]
   level: Introduction
-  duration: ""
-  video: ""
+  duration: "1h30"
   image: "/assets/images-events/security-bootcamp-the-hacks.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7075414088297689088"
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
 
 
 
@@ -396,6 +428,13 @@
   duration: "3h"
   video: ""
   image: "/assets/images-events/unit-testing-tdd.jpg"
+  gallery:
+    - "/assets/images-events/unit-testing-1.jpg"
+    - "/assets/images-events/unit-testing-2.jpg"
+    - "/assets/images-events/unit-testing-3.jpg"
+    - "/assets/images-events/unit-testing-4.jpg"
+    - "/assets/images-events/unit-testing-6.png"
+    - "/assets/images-events/jasmine-jest.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7052219286932647936"
   instagram: ""
   twitter: ""
@@ -413,12 +452,22 @@
   content: "Hands-On"
   level: Introduction
   duration: "8h"
-  video: "https://www.youtube.com/embed/f-cvfwykanQ"
-  image: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
+  video: "https://youtube.com/embed/f-cvfwykanQ"
+  gallery:
+    - "/assets/images-events/security-bootcamp-0.png"
+    - "/assets/images-events/security-bootcamp-1.png"
+    - "/assets/images-events/security-bootcamp-2.png"
+    - "/assets/images-events/security-bootcamp-3.png"
+    - "/assets/images-events/security-bootcamp-4.png"
+    - "/assets/images-events/security-bootcamp-5.png"
+    - "/assets/images-events/security-bootcamp-6.png"
+    - "/assets/images-events/security-bootcamp-7.png"
+    - "/assets/images-events/security-bootcamp-8.png"
+    - "/assets/images-events/security-bootcamp-9.png"
+    - "/assets/images-events/security-bootcamp-10.png"
+    - "/assets/images-events/security-bootcamp-11.png"
+    - "/assets/images-events/security-bootcamp-12.png"
+    - "/assets/images-events/security-bootcamp-13.png"
   blogPost: "https://itenium.be/blog/security/introducing-the-security-bootcamp/"
 
 
@@ -435,16 +484,15 @@
     <br><br>
     Needless to say, our team took this challenge to the next level.
   track: "FunEvent"
-  video: "https://www.youtube.com/embed/Aif3h58jJmc"
+  video: "https://youtube.com/embed/Aif3h58jJmc"
   image: "assets/images-events/VR-Gaming-4.jpg"
   gallery:
-  - "assets/images-events/VR Gaming-1.jpg"
-  - "assets/images-events/VR-Gaming-2.jpg"
-  - "assets/images-events/VR-Gaming-3.jpg"
-  - "assets/images-events/VR-Gaming-5.jpg"
+    - "assets/images-events/VR Gaming-1.jpg"
+    - "assets/images-events/VR-Gaming-2.jpg"
+    - "assets/images-events/VR-Gaming-3.jpg"
+    - "assets/images-events/VR-Gaming-5.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7069613977411932160"
-  instagram: ""
-  twitter: ""
+
 
 
 - name: React Component Profiling
@@ -461,13 +509,12 @@
   type: ["Virtual"]
   level: Introduction
   duration: "2h"
-  video: ""
+  video: "https://youtube.com/shorts/Hv2EP2U4Jn0"
   image: "/assets/images-events/react-component-profiling.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7048595422143004672"
   instagram: "https://www.instagram.com/p/CrNr-Jvx57L/"
-  twitter: ""
   githubUrl: "https://github.com/itenium-be/React-ComponentProfiling"
-  blogPost: ""
+  blogPost: "https://itenium.be/blog/javascript/react-component-profiling/"
 
 
 - name: Storytelling and Feedback
@@ -479,36 +526,42 @@
   type: ["On-Site"]
   level: Introduction
   duration: "2h"
-  video: "https://www.youtube.com/embed/oRL9_6mzaPs"
+  video: "https://youtube.com/embed/oRL9_6mzaPs"
   image: "assets/images-events/storytelling-and-feedback-1.jpg"
   gallery:
-  - "assets/images-events/storytelling-and-feedback-2.jpg"
-  - "assets/images-events/storytelling-and-feedback-3.jpg"
-  - "assets/images-events/storytelling-and-feedback-4.jpg"
-  - "assets/images-events/storytelling-and-feedback-5.jpg"
+    - "assets/images-events/storytelling-and-feedback-2.jpg"
+    - "assets/images-events/storytelling-and-feedback-3.jpg"
+    - "assets/images-events/storytelling-and-feedback-4.jpg"
+    - "assets/images-events/storytelling-and-feedback-5.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7039595871662993408"
   instagram: "https://www.instagram.com/reel/Cpkhz9XvvwQ/"
-  twitter: ""
-  githubUrl: "h"
-  blogPost: ""
 
 
 
 - name: "itenium New Year Event"
-  subTitle: "Ending the year right"
+  subTitle: "Ending the year right @ Zelda & Zorro"
   date: 2023-01-19
   summary: >
     The itenium team looks back on 2023 and discusses the plans for 2024. A fun night with great people!
   track: "FunEvent"
   duration: "4h"
-  video: "https://www.youtube.com/embed/L-31eAzmORY"
-  image: ""
+  video: "https://youtube.com/embed/L-31eAzmORY"
   gallery:
+    - "/assets/images-events/new-year-1.png"
+    - "/assets/images-events/new-year-2.png"
+    - "/assets/images-events/new-year-3.png"
+    - "/assets/images-events/new-year-4.png"
+    - "/assets/images-events/new-year-5.png"
+    - "/assets/images-events/new-year-6.png"
+    - "/assets/images-events/new-year-7.png"
+    - "/assets/images-events/new-year-8.png"
+    - "/assets/images-events/new-year-9.png"
+    - "/assets/images-events/new-year-10.png"
+    - "/assets/images-events/new-year-11.png"
+    - "/assets/images-events/new-year-12.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7025779755484377088"
   instagram: "https://www.instagram.com/reel/CoCXKaMs91z/"
   twitter: "https://twitter.com/itenium_be/status/1620014071939489792"
-  githubUrl: ""
-  blogPost: ""
 
 
 
@@ -536,63 +589,68 @@
   githubUrl: "https://github.com/itenium-be/angular-reactive-forms"
   blogPost: ""
 
-- name: "Git Deepdive"
-  subTitle: "Let's git down to business"
-  date: 2022-10-08
-  summary: >
-    The team took a deeper look at git. A tool that is widely used for version control by most but is only fully understood by some. 
-    Behind its simple facade, lies the complexities that make it attractive as a go-to tool..
-  track: "TechEvent"
-  content: "Theoretical"
-  level: Intermediate
-  duration: "1h30m"
-  video: ""
-  image: ""
-  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7009517899233075200"
-  instagram: "https://www.instagram.com/reel/CmOz920L8-M/"
-  twitter: "https://twitter.com/itenium_be/status/1603752607322820608"
-  githubUrl: "https://github.com/itenium-be/Docker-Kubernetes"
-  blogPost: ""
-
-
-
-# TODO: aaaand... we're missing quite some events in between here
 
 
 - name: "Kubernetes"
   subTitle: "Kubernetes introduction and more"
   date: 2022-11-24
   summary: >
-    At the end of 2022 we continued our introduction session to Kubernetes where we integrated additional tooling to our demo app: Helm, Ingress, TLS, Istio, Volumes, Healthchecks, Rolling updates and more! 
+    At the end of 2022 we continued our introduction session to Kubernetes where we integrated
+    additional tooling to our demo app: Helm, Ingress, TLS, Istio, Volumes, Healthchecks,
+    Rolling updates and more!
+    <br>
     Thanks Jan Wielemans for another interesting evening!
   track: "TechEvent"
   content: "Hands-On"
   level: Introduction
   duration: "2h"
   video: ""
-  image: ""
+  image: "/assets/images-events/kubernetes-0.jpg"
+  gallery:
+    - "/assets/images-events/kubernetes-1.png"
+    - "/assets/images-events/kubernetes-2.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7019265593639919616"
   instagram: "https://www.instagram.com/p/CnUFdHsrzzi/"
   twitter: "https://twitter.com/itenium_be/status/1613500864290869248"
   githubUrl: "https://github.com/itenium-be/Docker-Kubernetes"
-  blogPost:
 
 
-  - name: "Escape Game: Alcatraz"
+
+- name: "Escape Game: Alcatraz"
   subTitle: "Escaping the inescapable"
   date: 2022-10-20
   summary: >
-    The itenium gang tackled the twists and turns of Exit Games' Alcatraz. It was a tough run escaping this maximum-security prison but the team persisted
-  track: "FunEvent, "
+    The itenium gang tackled the twists and turns of Exit Games' Alcatraz.
+    It was a tough run escaping this maximum-security prison but the team persisted
+  track: "FunEvent"
   duration: "3h"
   video: ""
-  image: ""
-  linkedIn: ""
-  instagram: ""
+  gallery:
+    - "/assets/images-events/escape-room-1.png"
+    - "/assets/images-events/escape-room-2.png"
   twitter: "https://twitter.com/itenium_be/status/1583397805347196928"
-  githubUrl: ""
-  blogPost:
-   
+
+
+
+- name: "Git Deepdive"
+  subTitle: "Let's git down to business"
+  date: 2022-10-08
+  summary: >
+    The team took a deeper look at git. A tool that is widely used for version control by most but is
+    only fully understood by some.
+    <br>
+    Behind its simple facade, lies the complexities that make it attractive as a go-to tool..
+  track: "TechEvent"
+  content: "Theoretical"
+  level: Intermediate
+  duration: "1h30m"
+  video: ""
+  linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7009517899233075200"
+  instagram: "https://www.instagram.com/reel/CmOz920L8-M/"
+  twitter: "https://twitter.com/itenium_be/status/1603752607322820608"
+  githubUrl: "https://github.com/itenium-be/Git-DeepDive"
+
+
 
 - name: RXJS
   subTitle: Reactive Extensions for JavaScript
@@ -606,31 +664,46 @@
   content: "Hands-On"
   level: Introduction
   duration: "3h"
-  video: ""
-  image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:6981575590252347392"
-  instagram: ""
+  instagram: "https://www.instagram.com/p/CjIRQv4ObFP"
   twitter: "https://twitter.com/itenium_be/status/1575821294976716800?ref_src=twsrc%5Etfw"
   githubUrl: "https://github.com/itenium-be/RXJS"
-  blogPost: ""
+
+
+
+- name: "Garbage Collection"
+  subTitle: "Java vs .NET"
+  date: 2022-09-14
+  summary: >
+     We learned about the why of Garbage Collectors and the different strategies used in the hybrid Tracing implementations
+     of Java and .NET. Escape Analysis, Generations, SATB-algorithms, Compacting and Evacuation.
+     It's all pretty interesting stuff -- if you're a total geek like us!
+  track: "TechEvent"
+  content: "Theoretical"
+  type: ["Virtual"]
+  level: Introduction
+  duration: "2h"
+  video: "https://youtube.com/embed/-bYs4NSG7y0"
+  githubUrl: "https://github.com/itenium-be/Talk-GC"
+
 
 
 - name: "Vue.JS"
   subTitle: "Revamp of the VueJS v2 session to Vue 3"
   date: 2022-09-12
-  summary: "After the great success of the React itenium Socks Store, we've done the exact same thing but now in the most lightweight SPA framework out there: VueJS"
+  summary: >
+    After the great success of the React itenium Socks Store, we've done the exact same thing but now
+    in the most lightweight SPA framework out there: VueJS"
   track: "FrontendTrack"
   content: "Code-Show"
   type: ["exercisesAtTheEnd"]
   level: Introduction
   duration: "2h"
-  video: ""
-  image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:6977567654366625792"
   instagram: "https://www.instagram.com/p/Ciry9TXspp4/"
   twitter: "https://twitter.com/itenium_be/status/1571802274250522624"
   githubUrl: "https://github.com/itenium-be/Vue.js-Tutorial"
-  blogPost: ""
+
 
 
 - name: "React"
@@ -642,15 +715,15 @@
   type: ["exercisesAtTheEnd"]
   level: Introduction
   duration: "2h"
-  video: ""
-  image: ""
+  image: "/assets/images-events/react.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:6975392743007158272"
   instagram: "https://www.instagram.com/p/Ci9rqVnO_ns/"
   twitter: "https://twitter.com/itenium_be/status/1574319873978617861"
   githubUrl:
     - "https://github.com/itenium-be/Talk-React"
     - "https://github.com/itenium-be/React-New-Features"
-  blogPost: ""
+
+
 
 - name: "UnitTesting & TDD"
   subtitle: "In a poorly designed system, making a change feels like jumping off a cliff to avoid a tiger."
@@ -665,37 +738,38 @@
   type: ["exercisesAtTheEnd"]
   level: Introduction
   duration: "2h"
-  video: ""
-  image: ""
+  image: "/assets/images-events/theoretical-unit-testing-1.png"
+  gallery:
+    - "/assets/images-events/theoretical-unit-testing-2.png"
+    - "/assets/images-events/theoretical-unit-testing-3.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:6969966239171452928"
   instagram: "https://www.instagram.com/p/Ci9rx7aMW6d/"
   twitter: "https://twitter.com/itenium_be/status/1574320233984114688"
   githubUrl: "https://github.com/itenium-be/UnitTesting"
-  blogPost: ""
 
 
-# - name: "Garbage Collection"
-#   subTitle: "Java vs .NET"
-#   date: 2022-09-14
-#   summary: >
-      "We learned about the why of Garbage Collectors and the different strategies used in the hybrid Tracing implementations of Java and .NET. Escape Analysis, Generations, SATB-algorithms, Compacting and Evacuation. 
-      It's all pretty interesting stuff -- if you're a total geek like us!"
-#   track: "TechEvent"
-#   content: "Theoretical"
-#   type: ["Virtual"]
-#   level: Introduction
-#   duration: "2h"
-#   video: "https://www.youtube.com/embed/-bYs4NSG7y0"
-#   image: ""
-#   linkedIn: ""
-#   instagram: ""
-#   twitter: ""
-#   githubUrl: ""
-#   blogPost: ""
+# TODO: events to add? (there are also FunEvents in between here!)
+# 2022-06-29 co2duino
+# 2022-06-15 Microkernel
+# 2022-05-23 Redux
+# 2022-05-14 Space-Based Architecture
+# 2022-04-28 Architecture Kick-Off
+# 2022-03-11 Chatbots Bootcamp
+
+
+# Socials
+# Redux: https://www.instagram.com/p/CeoMtJgPgot & https://x.com/itenium_be/status/1535268325646913537?s=20
+# Space-Based Architecture: https://www.instagram.com/p/Cdx9Y9BsXIc & https://x.com/itenium_be/status/1527635524273700864?s=20
+# Architecture KickOff: https://x.com/itenium_be/status/1521429966025793536?s=20
+# Chatbots bootcamp: https://www.instagram.com/p/CbNKKQ_NFnD & https://x.com/itenium_be/status/1504774889139490817?s=20
+# Battle Cart: https://www.instagram.com/p/CamC_sOrgJr & https://x.com/itenium_be/status/1498935932938031106?s=20
+# Serverless: https://x.com/itenium_be/status/1497130816580771847?s=20
+# Flutter: https://x.com/itenium_be/status/1433769104574459904?s=20
 
 
 
 # - name: ""
+#   by:
 #   subTitle: ""
 #   date: 2023-
 #   summary: ""
@@ -706,6 +780,8 @@
 #   duration: "3h"
 #   video: ""
 #   image: ""
+#   gallery:
+#     - "/assets/images-events/x-1.jpg"
 #   linkedIn: ""
 #   instagram: ""
 #   twitter: ""
