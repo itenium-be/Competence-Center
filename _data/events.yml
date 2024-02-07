@@ -1,5 +1,5 @@
-# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe
-# Content: Hands-On, Code-Show, Theoretical, Bootcamp, Demos, SoftSkill
+# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe, Bootcamp
+# Content: Hands-On, Code-Show, Theoretical, Demos, SoftSkill
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
@@ -15,13 +15,47 @@
 # - Quiz by Mike
 # - Dockerfiles & Docker-Compose
 
-# Events 2024:
-# 25/01: New Year Event 2024
-# 31/01: Gent.devs (ModernJS) --> in public-speaking.yml!!
-# 08/02: Soft Skills Training - Focus & Time Management
-# 22/02: FrontendTrack: React UnitTesting (Hands-On)
-# 07/03: Curling --> NOT Curling, too late for reservation, will be replaced with another event
-# 15/03: Bootcamp: 3D-Modelling (Tom)
+- name: "3D-Modelling"
+  by: "Tom"
+  subTitle: "Create your first 3D model / world."
+  date: 2024-03-15
+  summary: >
+
+  track: "Bootcamp"
+  content: "Hands-On"
+  type: ["On-Site"]
+  level: Introduction
+  duration: ""
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Curling"
+  subTitle: "Curling is no longer possible so it will be something different!"
+  date: 2024-03-07
+  track: "FunEvent"
+
+
+- name: "React UnitTesting (Hands-On)"
+  date: 2024-02-22
+  track: "FrontendTrack"
+
+
+- name: "Soft Skills Training"
+  subTitle: "Focus & Time Management"
+  date: 2024-02-08
+  content: "SoftSkill"
+
+
+- name: "New Year Event 2024"
+  date: 2024-01-25
+  track: "FunEvent"
+
 
 - name: "Interesting Docker Projects"
   subTitle: "Let's review some free, open-source, selfhosted Docker projects"
