@@ -1,6 +1,6 @@
 {% assign urls = include.urls %}
 {% assign brand = include.brand %}
-{% if urls != "" %}
+{% if urls and urls != "" %}
    {% if urls | array %}
       {% for url in urls %}
          <p><a href="{{url}}">
