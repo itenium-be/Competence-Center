@@ -12,6 +12,7 @@ Use a [validator](https://www.yamllint.com/) to make sure the Yaml is valid.
 
 ```yaml
 - name: "Name of the event"
+  by: "ConsultantName"
   subTitle: "Funny, clever, or something, subtitle"
   date: YYYY-MM-DD
   summary: >
