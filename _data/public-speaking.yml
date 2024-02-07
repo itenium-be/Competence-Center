@@ -1,0 +1,21 @@
+- name: "ModernJS"
+  by: "Wouter"
+  event: "gent.devs"
+  subTitle: "ECMAScript 2018-2023 + Preview 2024"
+  date: 2024-01-31
+  summary: >
+    What happened in JS land after the long JavaScript Winter?
+    <br>
+    All new features since ES2018 explained with Jest UnitTests.
+    <br>
+    Followed by a quick preview of what ES2024 will (most likely) bring to the table.
+  content: "Code-Show"
+  level: Introduction
+  duration: "40m"
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
