@@ -54,7 +54,17 @@
 
 - name: "New Year Event 2024"
   date: 2024-01-25
-  track: "FunEvent"
+  summary: >
+    Wrapped up the start of 2024 with a spectacular bang! Our New Year's extravaganza last January 25, 2024, was a dazzling blend of joy, laughter, and unforgettable moments. Here's to a year filled with cherished memories and endless possibilities! 
+  track: "Fun-Event"
+  type: ["On-Site"]
+  level: Introduction
+  duration: "4h"
+  video: "https://www.youtube.com/embed/v0YBNkGb6k0"
+  image: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_memorablenewyear-2024highlights-itenium-activity-7158776710631473152-9Nf2?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/itenium/reel/C2zW6zit7lJ/"
+  twitter: "https://twitter.com/itenium_be/status/1753010943179526382"
 
 
 - name: "Interesting Docker Projects"
