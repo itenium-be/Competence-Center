@@ -55,7 +55,17 @@
 - name: "New Year Event 2024"
   date: 2024-01-25
   track: "FunEvent"
-
+  summary: >
+    Docker tools to run on your NAS or raspberry or just on your PC.
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
 
 - name: "Interesting Docker Projects"
   subTitle: "Let's review some free, open-source, selfhosted Docker projects"
