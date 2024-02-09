@@ -55,7 +55,11 @@
 - name: "New Year Event 2024"
   date: 2024-01-25
   summary: >
-    Wrapped up the start of 2024 with a spectacular bang! Our New Year's extravaganza last January 25, 2024, was a dazzling blend of joy, laughter, and unforgettable moments. Here's to a year filled with cherished memories and endless possibilities! 
+    Wrapped up the start of 2024 with a spectacular bang! Our New Year's 
+    extravaganza last January 25, 2024, was a dazzling blend of joy, 
+    laughter, and unforgettable moments. 
+    
+    Here's to a year filled with cherished memories and endless possibilities! 
   track: "FunEvent"
   type: ["On-Site"]
   level: Introduction
