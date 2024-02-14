@@ -116,16 +116,25 @@
 
 - name: "Quiz by Mike!"
   by: Mike
-  subTitle: ""
   date: 2023-11-09
-  summary: ""
+  summary: >
+    Today, we reflect on a delightfully entertaining quiz hosted by Mike—an all-encompassing 
+    source of enjoyment. Arguably the finest quiz in the world, it seamlessly blends lightweight 
+    amusement with diverse questions suitable for everyone. 
+    The icing on the cake included a fantastic prize, a delectable buffet, and refreshing drinks.
+    It's an event with all the right ingredients for a memorable and enjoyable experience. 
+    What's not to love?
   track: "FunEvent"
   duration: "4h"
   video: ""
-  image: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
+  image: "assets/images-events/Quiz-by-mike-1.jpg"
+  gallery:
+    - "assets/images-events/quiz-by-mike-2.jpg"
+    - "assets/images-events/quiz-by-mike-3.jpg"
+    - "assets/images-events/quiz-by-mike-4.jpg"
+  linkedIn: "https://www.linkedin.com/posts/itenium_mikequizdelight-itenium-activity-7163487161281953792-um9j?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/p/C3U1PkqsOS_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  twitter: "https://twitter.com/itenium_be/status/1757721948929290529"
 
 
 
