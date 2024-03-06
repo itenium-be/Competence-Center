@@ -120,13 +120,12 @@
   type: ["On-Site"]
   level: Introduction
   duration: "2h"
-  video: ""
-  image: "assets/images-events/GraphQL-01.jpg"
+  video: "https://www.youtube.com/shorts/lrilGOZnTB4"
+  image: "assets/images-events/GraphQL-02.jpg"
   gallery:
-    - "assets/images-events/GraphQL-02.jpg"
+    - "assets/images-events/GraphQL-01.jpg"
     - "assets/images-events/GraphQL-03.jpg"
     - "assets/images-events/GraphQL-04.jpg"
-    - "assets/images-events/GraphQL-05.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7139977026915971072"
   instagram: "https://www.instagram.com/reel/C4LSMEjtuc4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://twitter.com/itenium_be/status/1765385380667261393"
