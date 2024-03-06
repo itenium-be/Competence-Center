@@ -20,7 +20,7 @@
   subTitle: "Create your first 3D model / world."
   date: 2024-03-15
   summary: >
-
+    Tom introduces us to 3D modelling!
   track: "Bootcamp"
   content: "Hands-On"
   type: ["On-Site"]
@@ -35,16 +35,31 @@
   blogPost: ""
 
 
-- name: "Curling"
-  subTitle: "Curling is no longer possible so it will be something different!"
+- name: "eDirt Bike ! 🏍️"
+  subTitle: "Dirt parcours voor e-bikes"
   date: 2024-03-07
   track: "FunEvent"
 
 
-- name: "React UnitTesting (Hands-On)"
+- name: "MongoDB"
   date: 2024-02-22
-  track: "FrontendTrack"
-
+  summary: >
+    Intro session on the worlds most famous
+    NoSql database: Mongo.
+    We learned the MQL query syntax and setup
+    some aggregate pipelines for the more exotic
+    exercises.
+  track: "TechEvent"
+  type: ["On-Site"]
+  level: Introduction
+  duration: "2u"
+  video: ""
+  image: "assets/images-events/mongodb-1.png"
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: "https://github.com/itenium-be/mongoDB"
+  blogPost: ""
 
 - name: "Soft Skills Training"
   subTitle: "Focus & Time Management"
@@ -55,11 +70,11 @@
 - name: "New Year Event 2024"
   date: 2024-01-25
   summary: >
-    Wrapped up the start of 2024 with a spectacular bang! Our New Year's 
-    extravaganza last January 25, 2024, was a dazzling blend of joy, 
+    Wrapped up the start of 2024 with a spectacular bang! Our New Year's
+    extravaganza last January 25, 2024, was a dazzling blend of joy,
     laughter, and unforgettable moments.
     <br><br>
-    Here's to a year filled with cherished memories and endless possibilities! 
+    Here's to a year filled with cherished memories and endless possibilities!
   track: "FunEvent"
   type: ["On-Site"]
   level: Introduction
@@ -84,7 +99,7 @@
   content: "Code-Show"
   type: ["Virtual"]
   level: Introduction
-  duration: ""
+  duration: "30m"
   video: ""
   image: ""
   linkedIn: ""
@@ -118,11 +133,11 @@
   by: Mike
   date: 2023-11-09
   summary: >
-    Today, we reflect on a delightfully entertaining quiz hosted by Mike—an all-encompassing 
-    source of enjoyment. Arguably the finest quiz in the world, it seamlessly blends lightweight 
-    amusement with diverse questions suitable for everyone. 
+    Today, we reflect on a delightfully entertaining quiz hosted by Mike—an all-encompassing
+    source of enjoyment. Arguably the finest quiz in the world, it seamlessly blends lightweight
+    amusement with diverse questions suitable for everyone.
     The icing on the cake included a fantastic prize, a delectable buffet, and refreshing drinks.
-    It's an event with all the right ingredients for a memorable and enjoyable experience. 
+    It's an event with all the right ingredients for a memorable and enjoyable experience.
     What's not to love?
   track: "FunEvent"
   duration: "4h"
