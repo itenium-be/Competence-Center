@@ -46,7 +46,8 @@ permalink: /events
                      </p>
                   </div>
                   <ul>
-                     {% for event in site.data.events %}
+                     {% assign events = site.data.events | sort: 'date' %}
+                     {% for event in events %}
                         {% capture date %}{{event.date | date: '%s' | plus: 0 }}{% endcapture %}
                         {% if date > now %}
                            <li>

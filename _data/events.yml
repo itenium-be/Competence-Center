@@ -15,6 +15,38 @@
 # - Quiz by Mike
 # - Dockerfiles & Docker-Compose
 
+
+- name: "n-tier, Onion, Hexagonal"
+  subTitle: "A closer look at probably the most used architectures out there"
+  date: 2024-06-20
+  track: "ArchitectureTrack"
+
+
+- name: "Tech Café"
+  subTitle: "itenium Tech Cafe, where good food and cutting-edge technology collide"
+  date: 2024-06-06
+  track: "TechCafe"
+
+
+- name: "Angular Days"
+  subTitle: "Full day Angular immersion"
+  date: 2024-05-31
+  track: "Bootcamp"
+
+
+- name: "Code Complete (Part 2)"
+  subTitle: "The remaining 800 pages of Code Complete"
+  date: 2024-05-16
+  track: "ArchitectureTrack"
+
+
+- name: "Lockpicking"
+  subTitle: "What to do if you lose your keys?"
+  date: 2024-05-02
+  track: "FunEvent"
+
+
+
 - name: "3D-Modelling"
   by: "Tom"
   subTitle: "Create your first 3D model / world."
