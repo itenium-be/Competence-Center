@@ -120,7 +120,7 @@
   type: ["On-Site"]
   level: Introduction
   duration: "2h"
-  video: "https://www.youtube.com/shorts/lrilGOZnTB4"
+  video: "https://www.youtube.com/embed/1iVw-cckUmc"
   image: "assets/images-events/GraphQL-02.jpg"
   gallery:
     - "assets/images-events/GraphQL-01.jpg"
