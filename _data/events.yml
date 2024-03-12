@@ -96,8 +96,26 @@
 - name: "Soft Skills Training"
   subTitle: "Focus & Time Management"
   date: 2024-02-08
+  summary: >
+    We were thrilled to have our recent event on Softskills: 
+    Time and Focus Management, with our amazing team at Itenium! 
+    The session delved into techniques and strategies 
+    to enhance time management skills and boost focus. 
+    Our team of talented professionals found the event 
+    incredibly insightful. 
   content: "SoftSkill"
-
+  type: ["On-Site"]
+  level: Introduction
+  duration: "2h"
+  video: "https://www.youtube.com/embed/v0_sje9Ywlc"
+  image: "assets/images-events/Softskill-4.jpg"
+  gallery:
+    - "assets/images-events/Softskill-1.jpg"
+    - "assets/images-events/Softskill-2.jpg"
+    - "assets/images-events/Softskill-3.jpg"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-timemanagement-focusmanagement-activity-7173271621997158402-Idbu?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/p/C4aWiMts2RN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA="
+  twitter: "https://twitter.com/itenium_be/status/1767505975294980159"
 
 - name: "New Year Event 2024"
   date: 2024-01-25
