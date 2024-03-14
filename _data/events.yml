@@ -71,6 +71,24 @@
   subTitle: "Dirt parcours voor e-bikes"
   date: 2024-03-07
   track: "FunEvent"
+  summary: >
+    Team Itenium had a blast at the eDirt Bike fun event! 
+    From thrilling races to friendly competition, it was an 
+    electrifying day full of adrenaline & fun. 
+    <br><br>
+    Here's to more exciting adventures ahead! 
+  type: ["On-Site"]
+  level: Introduction
+  duration: "4h"
+  video: "https://www.youtube.com/embed/W-q04rCDNnA"
+  image: "assets/images-events/eDirt Bike -1.jpg"
+  gallery:
+    - "assets/images-events/eDirt Bike -2.png"
+    - "assets/images-events/eDirt Bike -3.jpg"
+    - "assets/images-events/eDirt Bike -4.jpg"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-edirtbikefun-teambuilding-activity-7173997068972097536-J5_t?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/reel/C4fgKg8iCXw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  twitter: "https://twitter.com/itenium_be/status/1768230775227367784"
 
 
 - name: "MongoDB"
