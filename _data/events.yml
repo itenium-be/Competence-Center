@@ -102,14 +102,14 @@
   track: "TechEvent"
   type: ["On-Site"]
   level: Introduction
-  duration: "2u"
-  video: ""
+  duration: "2h"
+  video: "https://www.youtube.com/embed/uLKWV94JFL4"
   image: "assets/images-events/mongodb-1.png"
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-mongodb-querysyntax-activity-7175808323626127360-tbgc?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/reel/C4sYEJWsuXd/?utm_source=ig_web_copy_link"
+  twitter: "https://twitter.com/itenium_be/status/1770042681613341109"
   githubUrl: "https://github.com/itenium-be/mongoDB"
-  blogPost: ""
+
 
 - name: "Soft Skills Training"
   subTitle: "Focus & Time Management"
