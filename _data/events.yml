@@ -57,14 +57,17 @@
   content: "Hands-On"
   type: ["On-Site"]
   level: Introduction
-  duration: ""
-  video: ""
-  image: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  duration: "4h"
+  video: "https://www.youtube.com/embed/6B6hFmLmz64?si=Mfo5X2QKniBDmBaT"
+  image: "assets/images-events/3D-Modelling-1.png"
+  gallery:
+    - "assets/images-events/3D-Modelling-2.png"
+    - "assets/images-events/3D-Modelling-3.png"
+    - "assets/images-events/3D-Modelling-4.png"
+    - "assets/images-events/3D-Modelling-5.png"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-3dcreation-activity-7179070313924567042-fj_4?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/p/C5Dja0wobgn/"
+  twitter: "https://twitter.com/itenium_be/status/1773304228624130162"
 
 
 - name: "eDirt Bike ! 🏍️"
