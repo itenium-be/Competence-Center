@@ -57,7 +57,7 @@
   content: "Hands-On"
   type: ["On-Site"]
   level: Introduction
-  duration: "4h"
+  duration: "8h"
   video: "https://www.youtube.com/embed/6B6hFmLmz64?si=Mfo5X2QKniBDmBaT"
   image: "assets/images-events/3D-Modelling-1.png"
   gallery:
@@ -68,6 +68,7 @@
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-3dcreation-activity-7179070313924567042-fj_4?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/p/C5Dja0wobgn/"
   twitter: "https://twitter.com/itenium_be/status/1773304228624130162"
+  blogPost: "https://itenium.be/blog/design/bootcamp-3d-modelling/"
 
 
 - name: "eDirt Bike ! 🏍️"
