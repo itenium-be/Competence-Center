@@ -47,10 +47,12 @@
    our skills!Join the movement for continuous learning! 
   level: Introduction
   duration: "4h"
-  video: ""
-  image: ""
+  image: "assets/images-events/Product-Competence-center-2.jpg"
   gallery:
-    - ""
+    - "assets/images-events/Product-Competence-center-1.jpg"
+    - "assets/images-events/Product-Competence-center-3.jpg"
+    - "assets/images-events/Product-Competence-center-4.jpg"
+    - "assets/images-events/Product-Competence-center-5.jpg"
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-productowners-activity-7199348684990349312-2BBs?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/reel/C7To1jzIZAE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1793582680757371110"
