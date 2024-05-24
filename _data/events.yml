@@ -158,7 +158,7 @@
   instagram: "https://www.instagram.com/reel/C4sYEJWsuXd/?utm_source=ig_web_copy_link"
   twitter: "https://twitter.com/itenium_be/status/1770042681613341109"
   githubUrl: "https://github.com/itenium-be/mongoDB"
-
+  tldv: "https://tldv.io/app/meetings/65d78fd2c345af0013701e4a"
 
 - name: "Soft Skills Training"
   subTitle: "Focus & Time Management"
@@ -224,7 +224,7 @@
   twitter: ""
   githubUrl: ""
   blogPost: ""
-
+  tldv: "https://tldv.io/app/meetings/65848620047386001411cab0"
 
 
 - name: "GraphQL"
@@ -247,7 +247,7 @@
   instagram: "https://www.instagram.com/reel/C4LSMEjtuc4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://twitter.com/itenium_be/status/1765385380667261393"
   githubUrl: "https://github.com/itenium-be/GraphQL"
-
+  tldv: "https://tldv.io/app/meetings/65720d22655bc900124fd431"
 
 
 - name: "Quiz by Mike!"
@@ -294,7 +294,7 @@
   instagram: ""
   twitter: ""
   githubUrl: "https://github.com/itenium-be/Dockerfiles-DockerCompose"
-
+  tldv: "https://tldv.io/app/meetings/6543ece5a431d80013895e94"
 
 
 - name: "Kibana Query Syntax"
@@ -366,6 +366,7 @@
   blogPost:
     - "https://itenium.be/blog/javascript/array-prototype/"
     - "https://itenium.be/blog/javascript/regex-in-javascript/"
+  tldv: "https://tldv.io/app/meetings/650c7f7b5cf3e0001395fe12"
 
 
 
@@ -406,7 +407,7 @@
   duration: "1h"
   image: "/assets/images-events/dont-make-me-think.jpg"
   githubUrl: "https://github.com/itenium-be/Talk-UI-UX"
-
+  tldv: "https://tldv.io/app/meetings/64e79539ec4f5b0013914c4b"
 
 
 - name: "The Mythical Man-Month"
@@ -431,7 +432,7 @@
   instagram: "https://www.instagram.com/reel/CxfHdZIh-XW"
   twitter: "https://twitter.com/itenium_be/status/1702624887645360269"
   githubUrl: "https://github.com/itenium-be/Mythical-Man-Month"
-
+  tldv: "https://tldv.io/app/meetings/64c2ab4980866900137a3497"
 
 
 - name: "Tech Café"
@@ -491,7 +492,7 @@
     - "/assets/images-events/code-complete-1.png"
     - "/assets/images-events/code-complete-2.png"
   githubUrl: "https://github.com/itenium-be/CodeComplete"
-
+  tldv: "https://tldv.io/app/meetings/646f9d64b7b5c6001248aec1"
 
 
 - name: "Artificiële Intelligentie"
@@ -531,7 +532,7 @@
   duration: "2h"
   video: "https://youtube.com/embed/h_n4-oa_Czc"
   githubUrl: "https://github.com/itenium-be/EventSourcing-CQRS"
-
+  tldv: "https://tldv.io/app/meetings/645d28a51ecad90013bf515e"
 
 
 - name: "Rest / JWT / Postman / DevTools"
@@ -608,7 +609,7 @@
   duration: "1h30"
   image: "/assets/images-events/security-bootcamp-the-hacks.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7075414088297689088"
-
+  tldv: "https://tldv.io/app/meetings/643ed50b7369a800136f4031"
 
 
 - name: Frontend UnitTesting
@@ -637,7 +638,7 @@
   twitter: ""
   githubUrl: "https://github.com/itenium-be/Frontend-UnitTesting"
   blogPost: "https://itenium.be/blog/javascript/javascript-testing-jasmine-to-jest/"
-
+  tldv: "https://tldv.io/app/meetings/642efbdf9a49cd00136c2655"
 
 - name: Security Bootcamp
   subTitle: Codename FEAR
@@ -712,7 +713,7 @@
   instagram: "https://www.instagram.com/p/CrNr-Jvx57L/"
   githubUrl: "https://github.com/itenium-be/React-ComponentProfiling"
   blogPost: "https://itenium.be/blog/javascript/react-component-profiling/"
-
+  tldv: "https://tldv.io/app/meetings/640a331909e5f90013e07e51"
 
 - name: Storytelling and Feedback
   subTitle: Communication is key
