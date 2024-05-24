@@ -33,10 +33,15 @@
   date: 2024-05-31
   track: "Bootcamp"
 
-
 - name: "Code Complete (Part 2)"
   subTitle: "The remaining 800 pages of Code Complete"
   date: 2024-05-16
+  track: "ArchitectureTrack"
+
+
+- name: "Product & Analysis Competence Center"
+  by: "Sofie"
+  date: 2024-05-15
   track: "ArchitectureTrack"
   summary: >
    Level Up Your Product Skills!
