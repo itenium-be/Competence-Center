@@ -40,15 +40,15 @@
    
   level: Introduction
   duration: "2h"
-  image: ""
+  image: "assets/images-events/Spring-Boot-1.png"
   gallery:
-    - ""
-    - ""
-    - ""
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
+    - "assets/images-events/Spring-Boot-2.jpg"
+    - "assets/images-events/Spring-Boot-3.png"
+    - "assets/images-events/Spring-Boot-4.png"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-java-activity-7201523147114786816-wtlE?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/p/C7jFssRtS7Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  twitter: "https://x.com/itenium_be/status/1795757098862555451"
+  tldv: "https://tldv.io/app/meetings/664cd2da472a8000137c3951"
 
 
 - name: "Code Complete (Part 2)"
