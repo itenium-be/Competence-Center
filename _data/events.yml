@@ -36,6 +36,20 @@
   - name: "SpringBoot"
   date: 2024-05-22
   track: "ArchitectureTrack"
+  summary: >
+   
+  level: Introduction
+  duration: "2h"
+  image: ""
+  gallery:
+    - ""
+    - ""
+    - ""
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+
 
 - name: "Code Complete (Part 2)"
   subTitle: "The remaining 800 pages of Code Complete"
@@ -59,7 +73,6 @@
     - "assets/images-events/Code-Complete-4..jpg"
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-codecomplete-activity-7200798368653094912-f3ac?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/p/C7d8Gy1sfrH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-
 
 
 
