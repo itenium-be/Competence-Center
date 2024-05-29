@@ -33,6 +33,10 @@
   date: 2024-05-31
   track: "Bootcamp"
 
+  - name: "SpringBoot"
+  date: 2024-05-22
+  track: "ArchitectureTrack"
+
 - name: "Code Complete (Part 2)"
   subTitle: "The remaining 800 pages of Code Complete"
   date: 2024-05-16
