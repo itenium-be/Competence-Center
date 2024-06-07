@@ -1,4 +1,4 @@
-# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe, Bootcamp
+# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe, Bootcamp, Javatrack
 # Content: Hands-On, Code-Show, Theoretical, Demos, SoftSkill
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
@@ -35,7 +35,7 @@
 
 - name: "SpringBoot"
   date: 2024-05-22
-  track: "ArchitectureTrack"
+  track: "JavaTrack"
   summary: >
    Join us for our inaugural Java Competence Center 
    session featuring Spring Boot 3.X. Discover the 
