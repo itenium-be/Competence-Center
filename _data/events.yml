@@ -33,7 +33,13 @@
   date: 2024-05-31
   track: "Bootcamp"
   summary: >
-
+   Last week we organized our first full itenium Angular Day: 
+   great location & food but also a workshop to upgrade our 
+   (in)famous Socks Store with exercises on (standalone) components 
+   and templates, including the new control flow syntax, routing and 
+   auth, an in-depth look on RXJS, Redux and ReactiveForms as well as 
+   on the new zoneless Signals. With over 30 PRs in one day, it was 
+   quite the success! 
   level: Introduction
   duration: "4h"
   image: ""
@@ -42,9 +48,9 @@
     - ""
     - ""
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7205871579501580288-pc0z?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/p/C781nK5tmMY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  twitter: "https://x.com/itenium_be/status/1799380925823762847"
 
 - name: "Code Complete (Part 2)"
   subTitle: "The remaining 800 pages of Code Complete"
