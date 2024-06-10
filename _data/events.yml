@@ -42,15 +42,15 @@
    quite the success! 
   level: Introduction
   duration: "4h"
-  image: ""
+  image: "assets/images-events/Angular-Day-1.jpg"
   gallery:
-    - ""
-    - ""
-    - ""
-    - ""
+    - "assets/images-events/Angular-Day-2.jpg"
+    - "assets/images-events/Angular-Day-3.jpg"
+    - "assets/images-events/Angular-Day-4.jpg"
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7205871579501580288-pc0z?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/p/C781nK5tmMY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1799380925823762847"
+
 
 - name: "Code Complete (Part 2)"
   subTitle: "The remaining 800 pages of Code Complete"
