@@ -32,6 +32,19 @@
   subTitle: "Full day Angular immersion"
   date: 2024-05-31
   track: "Bootcamp"
+  summary: >
+
+  level: Introduction
+  duration: "4h"
+  image: ""
+  gallery:
+    - ""
+    - ""
+    - ""
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
 
 - name: "Code Complete (Part 2)"
   subTitle: "The remaining 800 pages of Code Complete"
