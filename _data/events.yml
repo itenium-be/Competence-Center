@@ -1,4 +1,4 @@
-# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe, Bootcamp
+# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe, Bootcamp, JavaTrack, DotNetTrack
 # Content: Hands-On, Code-Show, Theoretical, Demos, SoftSkill
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
@@ -51,6 +51,28 @@
   instagram: "https://www.instagram.com/p/C781nK5tmMY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1799380925823762847"
   githubURL: "https://github.com/itenium-be/Angular-Days"
+
+
+- name: "SpringBoot"
+  date: 2024-05-22
+  track: "JavaTrack"
+  summary: >
+   Join us for our inaugural Java Competence Center 
+   session featuring Spring Boot 3.X. Discover the 
+   latest advancements with Spring Boot 3.X and explore
+   cutting-edge features and enhancements designed to 
+   streamline your Java development experience.
+  level: Introduction
+  duration: "2h"
+  image: "assets/images-events/Spring-Boot-1.png"
+  gallery:
+    - "assets/images-events/Spring-Boot-2.jpg"
+    - "assets/images-events/Spring-Boot-3.png"
+    - "assets/images-events/Spring-Boot-4.png"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-java-activity-7201523147114786816-wtlE?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/p/C7jFssRtS7Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  twitter: "https://x.com/itenium_be/status/1795757098862555451"
+  tldv: "https://tldv.io/app/meetings/664cd2da472a8000137c3951"
 
 
 - name: "Code Complete (Part 2)"
