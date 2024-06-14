@@ -57,6 +57,25 @@
   subTitle: "The remaining 800 pages of Code Complete"
   date: 2024-05-16
   track: "ArchitectureTrack"
+  summary: >
+    Level up your coding! 
+    <br><br>
+    Unlock the secrets to writing clean, efficient, 
+    and maintainable code with 'Code Complete.' 
+    This definitive guide offers practical insights 
+    and proven techniques for every stage of software 
+    construction. It is an essential resource for 
+    developers committed to excellence in their craft.
+  level: Introduction
+  duration: "2h"
+  image: "assets/images-events/Code-Complete-1.jpg"
+  gallery:
+    - "assets/images-events/Code-Complete-2.jpg"
+    - "assets/images-events/Code-Complete-3.jpg"
+    - "assets/images-events/Code-Complete-4.jpg"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-codecomplete-activity-7200798368653094912-f3ac?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/p/C7d8Gy1sfrH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  tldv: "https://tldv.io/app/meetings/664644f903bc14001332c485/"
 
 
 - name: "Product & Analysis Competence Center"
