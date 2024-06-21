@@ -3,18 +3,6 @@
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
-# TODO: upload to youtube:
-# Alcatraz: Upload video to youtube: https://twitter.com/itenium_be/status/1583397805347196928
-# React: upload video https://x.com/itenium_be/status/1574319873978617861?s=20
-# Vue: upload video https://x.com/itenium_be/status/1571802274250522624?s=20
-# Git DeepDive: https://www.linkedin.com/feed/update/urn:li:activity:7009517899233075200/
-
-# TODO: still needs to be posted on socials:
-# - Interesting Docker Projects
-# - GraphQL
-# - Quiz by Mike
-# - Dockerfiles & Docker-Compose
-
 
 - name: "n-tier, Onion, Hexagonal"
   subTitle: "A closer look at probably the most used architectures out there"
@@ -26,6 +14,30 @@
   subTitle: "itenium Tech Cafe, where good food and cutting-edge technology collide"
   date: 2024-06-06
   track: "TechCafe"
+
+
+- name: "ASP.NET WebApi"
+  by: "Bert"
+  date: 2024-05-30
+  track: "DotNetTrack"
+  summary: >
+   Starting from the FullStackHero template, we did 
+   a deep dive into ASP.NET WebApi.
+   Our hands-on workshop included exercises on ModelBinding, 
+   custom middleware, compression & caching, JSON configuration,
+   DI and more!
+   We also had a quick look at the new MinimalAPI.
+  level: Introduction
+  duration: "4h"
+  image: "assets/images-events/Handson-Webapi-1.jpg"
+  gallery:
+    - "assets/images-events/Handson-Webapi-2.jpg"
+    - "assets/images-events/Handson-Webapi-3.jpg"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-productowners-activity-7204422176811180032-2zvF?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/reel/C73r_5_iBF-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  twitter: "https://x.com/itenium_be/status/1799024134086938984"
+  githubUrl: "https://github.com/itenium-be/ASP.NET-WebApi"
+  tldv: "https://tldv.io/app/meetings/6658b15890bc750013633637"
 
 
 - name: "Angular Days"
@@ -54,6 +66,7 @@
 
 
 - name: "SpringBoot"
+  by: "Michael"
   date: 2024-05-22
   track: "JavaTrack"
   summary: >
@@ -129,6 +142,7 @@
 
 
 - name: "Lockpicking"
+  by: "David"
   subTitle: "What to do if you lose your keys?"
   date: 2024-05-02
   track: "FunEvent"
