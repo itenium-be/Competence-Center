@@ -18,10 +18,15 @@
 
 - name: "ASP.NET WebApi"
   by: "Bert"
-  date: 2024-05-31
-  track: ""
+  date: 2024-05-30
+  track: "DotNetTrack"
   summary: >
-   
+   Starting from the FullStackHero template, we did 
+   a deep dive into ASP.NET WebApi.
+   Our hands-on workshop included exercises on ModelBinding, 
+   custom middleware, compression & caching, JSON configuration,
+   DI and more!
+   We also had a quick look at the new MinimalAPI.
   level: Introduction
   duration: "4h"
   image: ""
