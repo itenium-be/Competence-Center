@@ -19,7 +19,7 @@
 - name: "ASP.NET WebApi"
   by: "Bert"
   date: 2024-05-30
-  track: "Bootcamp"
+  track: "DotNetTrack"
   summary: >
    Starting from the FullStackHero template, we did 
    a deep dive into ASP.NET WebApi.
