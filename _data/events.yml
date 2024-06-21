@@ -3,18 +3,6 @@
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
-# TODO: upload to youtube:
-# Alcatraz: Upload video to youtube: https://twitter.com/itenium_be/status/1583397805347196928
-# React: upload video https://x.com/itenium_be/status/1574319873978617861?s=20
-# Vue: upload video https://x.com/itenium_be/status/1571802274250522624?s=20
-# Git DeepDive: https://www.linkedin.com/feed/update/urn:li:activity:7009517899233075200/
-
-# TODO: still needs to be posted on socials:
-# - Interesting Docker Projects
-# - GraphQL
-# - Quiz by Mike
-# - Dockerfiles & Docker-Compose
-
 
 - name: "n-tier, Onion, Hexagonal"
   subTitle: "A closer look at probably the most used architectures out there"
