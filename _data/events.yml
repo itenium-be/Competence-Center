@@ -42,6 +42,7 @@
 
 
 - name: "SpringBoot"
+  by: "Michael"
   date: 2024-05-22
   track: "JavaTrack"
   summary: >
@@ -116,6 +117,7 @@
 
 
 - name: "Lockpicking"
+  by: "David"
   subTitle: "What to do if you lose your keys?"
   date: 2024-05-02
   track: "FunEvent"
