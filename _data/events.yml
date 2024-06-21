@@ -14,6 +14,22 @@
   subTitle: "itenium Tech Cafe, where good food and cutting-edge technology collide"
   date: 2024-06-06
   track: "TechCafe"
+  summary: >
+   We hosted an exclusive Itenium Tech Café exploring 
+   OpenAI/Copilot, MicroExpressions, and MindMapping. 
+   Participants dived into AI technologies, non-verbal 
+   communication, and strategic thinking skills through 
+   mind mapping. It was a great opportunity for professional 
+   growth and networking with like-minded professionals!
+  level: Introduction
+  duration: "4h"
+  image: ""
+  gallery:
+    - ""
+    - ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7209857790268395523-P1gc?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/reel/C8eT9kCN6kD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  twitter: "https://x.com/itenium_be/status/1804091908735557876"
 
 
 - name: "ASP.NET WebApi"
