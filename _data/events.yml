@@ -16,6 +16,24 @@
   track: "TechCafe"
 
 
+- name: "ASP.NET WebApi"
+  by: "Bert"
+  date: 2024-05-31
+  track: ""
+  summary: >
+   
+  level: Introduction
+  duration: "4h"
+  image: ""
+  gallery:
+    - 
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-productowners-activity-7204422176811180032-2zvF?utm_source=share&utm_medium=member_desktop"
+  instagram: ""
+  twitter: ""
+  githubURL: "https://github.com/itenium-be/ASP.NET-WebApi"
+  tldv: "https://tldv.io/app/meetings/6658b15890bc750013633637"
+
+
 - name: "Angular Days"
   subTitle: "Full day Angular immersion"
   date: 2024-05-31
