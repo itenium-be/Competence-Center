@@ -23,7 +23,7 @@
    allowing for easy integration and adaptability. 
    Stay tuned for more insightful talks!
   level: Introduction
-  duration: "4h"
+  duration: "1h"
   image: "assets/images-events/n-tier-heagonal-&-onion-architectures-1.png"
   gallery:
     - "assets/images-events/n-tier-heagonal-&-onion-architectures-2.png"
@@ -32,6 +32,7 @@
   instagram: "https://www.instagram.com/p/C8onM12tLgE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1805541559774937096"
   githubUrl: "https://github.com/itenium-be/ntier-onion-hex"
+  tldv: "https://tldv.io/app/meetings/667469e5acf56d0013af6eb0/"
 
 
 - name: "Tech Café"
