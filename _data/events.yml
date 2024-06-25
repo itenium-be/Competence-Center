@@ -8,6 +8,32 @@
   subTitle: "A closer look at probably the most used architectures out there"
   date: 2024-06-20
   track: "ArchitectureTrack"
+  summary: >
+   Another great session in our ArchitectureTrack packed 
+   with examples, best practices, and real-world applications. 
+   We had a great time exploring how to design flexible, 
+   maintainable, and scalable systems. 
+   <br><br>
+   Key takeaways included an exploration of N-tier Architecture,
+   which divides an application into layers (Presentation, 
+   Business Logic, Data Access, etc.) to enhance separation of 
+   concerns and scalability, and Hexagonal Architecture 
+   (Ports and Adapters), which emphasizes the use of ports and 
+   adapters to decouple core business logic from external systems, 
+   allowing for easy integration and adaptability. 
+   Stay tuned for more insightful talks!
+  level: Introduction
+  duration: "1h"
+  image: "assets/images-events/n-tier-heagonal-&-onion-architectures-1.jpg"
+  gallery:
+    - "assets/images-events/n-tier-heagonal-&-onion-architectures-2.jpg"
+    - "assets/images-events/n-tier-heagonal-&-onion-architectures-3.jpg"
+    - "assets/images-events/n-tier-heagonal-&-onion-architectures-4.jpg"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7211307381836689410-3_Hx?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/p/C8onM12tLgE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  twitter: "https://x.com/itenium_be/status/1805541559774937096"
+  githubUrl: "https://github.com/itenium-be/ntier-onion-hex"
+  tldv: "https://tldv.io/app/meetings/667469e5acf56d0013af6eb0/"
 
 
 - name: "Tech Café"
