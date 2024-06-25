@@ -8,6 +8,17 @@
   subTitle: "A closer look at probably the most used architectures out there"
   date: 2024-06-20
   track: "ArchitectureTrack"
+  summary: >
+   
+  level: Introduction
+  duration: "4h"
+  image: 
+  gallery:
+    - 
+  linkedIn: 
+  instagram: 
+  twitter: 
+  githubUrl: "https://github.com/itenium-be/ntier-onion-hex"
 
 
 - name: "Tech Café"
