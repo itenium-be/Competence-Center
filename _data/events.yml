@@ -9,7 +9,19 @@
   date: 2024-06-20
   track: "ArchitectureTrack"
   summary: >
-   
+   Another great session in our ArchitectureTrack packed 
+   with examples, best practices, and real-world applications. 
+   We had a great time exploring how to design flexible, 
+   maintainable, and scalable systems. 
+   <br><br>
+   Key takeaways included an exploration of N-tier Architecture,
+   which divides an application into layers (Presentation, 
+   Business Logic, Data Access, etc.) to enhance separation of 
+   concerns and scalability, and Hexagonal Architecture 
+   (Ports and Adapters), which emphasizes the use of ports and 
+   adapters to decouple core business logic from external systems, 
+   allowing for easy integration and adaptability. 
+   Stay tuned for more insightful talks!
   level: Introduction
   duration: "4h"
   image: 
