@@ -3,24 +3,28 @@
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
+# Asana TODOs:
+# https://app.asana.com/0/1205067039053453/1205805435543002/f
+# https://app.asana.com/0/1205067039053453/1206348730110496
+
 
 - name: "n-tier, Onion, Hexagonal"
   subTitle: "A closer look at probably the most used architectures out there"
   date: 2024-06-20
   track: "ArchitectureTrack"
   summary: >
-   Another great session in our ArchitectureTrack packed 
-   with examples, best practices, and real-world applications. 
-   We had a great time exploring how to design flexible, 
-   maintainable, and scalable systems. 
+   Another great session in our ArchitectureTrack packed
+   with examples, best practices, and real-world applications.
+   We had a great time exploring how to design flexible,
+   maintainable, and scalable systems.
    <br><br>
    Key takeaways included an exploration of N-tier Architecture,
-   which divides an application into layers (Presentation, 
-   Business Logic, Data Access, etc.) to enhance separation of 
-   concerns and scalability, and Hexagonal Architecture 
-   (Ports and Adapters), which emphasizes the use of ports and 
-   adapters to decouple core business logic from external systems, 
-   allowing for easy integration and adaptability. 
+   which divides an application into layers (Presentation,
+   Business Logic, Data Access, etc.) to enhance separation of
+   concerns and scalability, and Hexagonal Architecture
+   (Ports and Adapters), which emphasizes the use of ports and
+   adapters to decouple core business logic from external systems,
+   allowing for easy integration and adaptability.
    Stay tuned for more insightful talks!
   level: Introduction
   duration: "1h"
@@ -41,11 +45,11 @@
   date: 2024-06-06
   track: "TechCafe"
   summary: >
-   We hosted an exclusive Itenium Tech Café exploring 
-   OpenAI/Copilot, MicroExpressions, and MindMapping. 
-   Participants dived into AI technologies, non-verbal 
-   communication, and strategic thinking skills through 
-   mind mapping. It was a great opportunity for professional 
+   We hosted an exclusive Itenium Tech Café exploring
+   OpenAI/Copilot, MicroExpressions, and MindMapping.
+   Participants dived into AI technologies, non-verbal
+   communication, and strategic thinking skills through
+   mind mapping. It was a great opportunity for professional
    growth and networking with like-minded professionals!
   level: Introduction
   duration: "4h"
@@ -63,9 +67,9 @@
   date: 2024-05-30
   track: "DotNetTrack"
   summary: >
-   Starting from the FullStackHero template, we did 
+   Starting from the FullStackHero template, we did
    a deep dive into ASP.NET WebApi.
-   Our hands-on workshop included exercises on ModelBinding, 
+   Our hands-on workshop included exercises on ModelBinding,
    custom middleware, compression & caching, JSON configuration,
    DI and more!
    We also had a quick look at the new MinimalAPI.
@@ -87,13 +91,13 @@
   date: 2024-05-31
   track: "Bootcamp"
   summary: >
-   Last week we organized our first full itenium Angular Day: 
-   great location & food but also a workshop to upgrade our 
-   (in)famous Socks Store with exercises on (standalone) components 
-   and templates, including the new control flow syntax, routing and 
-   auth, an in-depth look on RXJS, Redux and ReactiveForms as well as 
-   on the new zoneless Signals. With over 30 PRs in one day, it was 
-   quite the success! 
+   Last week we organized our first full itenium Angular Day:
+   great location & food but also a workshop to upgrade our
+   (in)famous Socks Store with exercises on (standalone) components
+   and templates, including the new control flow syntax, routing and
+   auth, an in-depth look on RXJS, Redux and ReactiveForms as well as
+   on the new zoneless Signals. With over 30 PRs in one day, it was
+   quite the success!
   level: Introduction
   duration: "8h"
   image: "assets/images-events/Angular-Day-1.jpg"
@@ -104,7 +108,7 @@
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7205871579501580288-pc0z?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/p/C781nK5tmMY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1799380925823762847"
-  githubURL: "https://github.com/itenium-be/Angular-Days"
+  githubUrl: "https://github.com/itenium-be/Angular-Days"
 
 
 - name: "SpringBoot"
@@ -112,10 +116,10 @@
   date: 2024-05-22
   track: "JavaTrack"
   summary: >
-   Join us for our inaugural Java Competence Center 
-   session featuring Spring Boot 3.X. Discover the 
+   Join us for our inaugural Java Competence Center
+   session featuring Spring Boot 3.X. Discover the
    latest advancements with Spring Boot 3.X and explore
-   cutting-edge features and enhancements designed to 
+   cutting-edge features and enhancements designed to
    streamline your Java development experience.
   level: Introduction
   duration: "2h"
@@ -135,13 +139,13 @@
   date: 2024-05-16
   track: "ArchitectureTrack"
   summary: >
-    Level up your coding! 
+    Level up your coding!
     <br><br>
-    Unlock the secrets to writing clean, efficient, 
-    and maintainable code with 'Code Complete.' 
-    This definitive guide offers practical insights 
-    and proven techniques for every stage of software 
-    construction. It is an essential resource for 
+    Unlock the secrets to writing clean, efficient,
+    and maintainable code with 'Code Complete.'
+    This definitive guide offers practical insights
+    and proven techniques for every stage of software
+    construction. It is an essential resource for
     developers committed to excellence in their craft.
   level: Introduction
   duration: "2h"
@@ -164,10 +168,10 @@
   summary: >
    Level Up Your Product Skills!
    <br><br>
-   Our first Product & Analysis Competence Center session kicked off thanks to Sofie! 
-   We brainstormed cool ideas, learned how to turn them into actionable user stories, 
-   and got to know each other. It was a great opportunity to connect, learn, and enhance 
-   our skills! Join the movement for continuous learning! 
+   Our first Product & Analysis Competence Center session kicked off thanks to Sofie!
+   We brainstormed cool ideas, learned how to turn them into actionable user stories,
+   and got to know each other. It was a great opportunity to connect, learn, and enhance
+   our skills! Join the movement for continuous learning!
   level: Introduction
   duration: "2h"
   image: "assets/images-events/Product-Competence-center-2.jpg"
@@ -190,14 +194,14 @@
   track: "FunEvent"
   content: "Hands-On"
   summary: >
-    Itenium had an amazing time delving into the intricacies 
-    of lockpicking at our recent workshop! 
-    The team delved into the art of unlocking mysteries, honed 
-    their skills, and unraveled challenges. It was a blast seeing 
-    everyone enjoy the thrill of cracking locks and learning new 
-    techniques. 
+    Itenium had an amazing time delving into the intricacies
+    of lockpicking at our recent workshop!
+    The team delved into the art of unlocking mysteries, honed
+    their skills, and unraveled challenges. It was a blast seeing
+    everyone enjoy the thrill of cracking locks and learning new
+    techniques.
     <br><br>
-    Can't wait for the next adventure! 
+    Can't wait for the next adventure!
   type: ["On-Site"]
   level: Introduction
   duration: "3h"
@@ -245,11 +249,11 @@
   date: 2024-03-07
   track: "FunEvent"
   summary: >
-    Team Itenium had a blast at the eDirt Bike fun event! 
-    From thrilling races to friendly competition, it was an 
-    electrifying day full of adrenaline & fun. 
+    Team Itenium had a blast at the eDirt Bike fun event!
+    From thrilling races to friendly competition, it was an
+    electrifying day full of adrenaline & fun.
     <br><br>
-    Here's to more exciting adventures ahead! 
+    Here's to more exciting adventures ahead!
   type: ["On-Site"]
   level: Introduction
   duration: "4h"
@@ -288,12 +292,12 @@
   subTitle: "Focus & Time Management"
   date: 2024-02-08
   summary: >
-    We were thrilled to have our recent event on Softskills: 
-    Time and Focus Management, with our amazing team at Itenium! 
-    The session delved into techniques and strategies 
-    to enhance time management skills and boost focus. 
-    Our team of talented professionals found the event 
-    incredibly insightful. 
+    We were thrilled to have our recent event on Softskills:
+    Time and Focus Management, with our amazing team at Itenium!
+    The session delved into techniques and strategies
+    to enhance time management skills and boost focus.
+    Our team of talented professionals found the event
+    incredibly insightful.
   content: "SoftSkill"
   type: ["On-Site"]
   level: Introduction
