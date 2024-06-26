@@ -7,6 +7,11 @@
 # https://app.asana.com/0/1207665151192492/board
 
 
+# For more details & a template:
+# https://github.com/itenium-be/Competence-Center/blob/master/_data/README.md
+
+
+
 - name: "n-tier, Onion, Hexagonal"
   subTitle: "A closer look at probably the most used architectures out there"
   date: 2024-06-20
@@ -26,6 +31,8 @@
    allowing for easy integration and adaptability.
    Stay tuned for more insightful talks!
   level: Introduction
+  content: "Theoretical"
+  type: ["Virtual"]
   duration: "1h"
   image: "assets/images-events/n-tier-heagonal-&-onion-architectures-1.jpg"
   gallery:
@@ -51,6 +58,8 @@
    mind mapping. It was a great opportunity for professional
    growth and networking with like-minded professionals!
   level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
   duration: "4h"
   video: "https://www.youtube.com/embed/Ugyq8ldYEqM?si=J1Bbw5udp_uTq_CA"
   image: "assets/images-events/OpenAICopilot-MicroExpressions-and-MindMapping-2.jpg"
@@ -73,6 +82,8 @@
    DI and more!
    We also had a quick look at the new MinimalAPI.
   level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
   duration: "4h"
   image: "assets/images-events/Handson-Webapi-1.jpg"
   gallery:
@@ -98,6 +109,8 @@
    on the new zoneless Signals. With over 30 PRs in one day, it was
    quite the success!
   level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
   duration: "8h"
   image: "assets/images-events/Angular-Day-1.jpg"
   gallery:
@@ -121,6 +134,8 @@
    cutting-edge features and enhancements designed to
    streamline your Java development experience.
   level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
   duration: "2h"
   image: "assets/images-events/Spring-Boot-1.png"
   gallery:
@@ -148,6 +163,8 @@
     construction. It is an essential resource for
     developers committed to excellence in their craft.
   level: Introduction
+  content: "Theoretical"
+  type: ["Virtual"]
   duration: "2h"
   image: "assets/images-events/Code-Complete-0.png"
   gallery:
@@ -164,7 +181,7 @@
 - name: "Product & Analysis Competence Center"
   by: "Sofie"
   date: 2024-05-15
-  track: "ArchitectureTrack"
+  track: "QAEvent"
   summary: >
    Level Up Your Product Skills!
    <br><br>
@@ -173,6 +190,8 @@
    and got to know each other. It was a great opportunity to connect, learn, and enhance
    our skills! Join the movement for continuous learning!
   level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
   duration: "2h"
   image: "assets/images-events/Product-Competence-center-2.jpg"
   gallery:
@@ -202,6 +221,7 @@
     techniques.
     <br><br>
     Can't wait for the next adventure!
+  content: "Hands-On"
   type: ["On-Site"]
   level: Introduction
   duration: "3h"
@@ -277,6 +297,7 @@
     some aggregate pipelines for the more exotic
     exercises.
   track: "TechEvent"
+  content: "Hands-On"
   type: ["On-Site"]
   level: Introduction
   duration: "2h"
