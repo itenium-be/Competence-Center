@@ -154,4 +154,14 @@ $Expert: black;
       background: $QAEvent !important;
       color: $QAEventText !important;
    }
+
+   &.JavaTrack {
+      background: #F8981D !important;
+      color: black !important;
+   }
+
+   &.DotNetTrack {
+      background: #1d8cf8 !important;
+      color: black !important;
+   }
 }
