@@ -1,5 +1,7 @@
 # Checklist
 
+See `_data/README.md` for more informations!
+
 - [ ] Check that the Yaml is valid
 - [ ] Check that the images have been properly resized
 - [ ] Carefully review all the changes **before** creating the PR

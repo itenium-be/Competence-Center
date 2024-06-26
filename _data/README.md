@@ -23,6 +23,7 @@ Use a [validator](https://www.yamllint.com/) to make sure the Yaml is valid.
 
   # track options:
   # TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe
+  # JavaTrack, DotNetTrack, Bootcamp
   # For a FunEvent/TechCafe, typically content, type & level can be deleted
   track: "CloudTrack"
 
@@ -68,6 +69,9 @@ Use a [validator](https://www.yamllint.com/) to make sure the Yaml is valid.
 
   # For all non FunEvent/TechCafes there is **always** a Github repository
   githubUrl: ""
+
+  # The link to the TL&DV video recording
+  tldv: ""
 ```
 
 Create a PR with the new images AND the changes to the Yaml.
