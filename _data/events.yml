@@ -6,11 +6,184 @@
 # Asana TODOs:
 # https://app.asana.com/0/1207665151192492/board
 
-
 # For more details & a template:
 # https://github.com/itenium-be/Competence-Center/blob/master/_data/README.md
 
 
+- name: "Angular KrisKras"
+  subTitle: "RXJS, ReactiveForms & Redux + UnitTesting (new)"
+  date: 2024-12-05
+  hide: true
+  track: "FrontendTrack"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Curling"
+  subTitle: "Promises to be very intensive, I'm sure 😃 (Zemst)"
+  date: 2024-11-04
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "DDD & BDD"
+  by: "Gaëtan"
+  subTitle: ""
+  date: 2024-11-07
+  hide: true
+  track: "ArchitectureTrack"
+  summary: >
+
+  level: Introduction
+  content: ""
+  type: [""]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+  tldv: ""
+
+- name: "MicroServices"
+  subTitle: "The next architecture to be covered in our ArchitectureTrack!"
+  date: 2024-10-24
+  hide: true
+  track: "ArchitectureTrack"
+  summary: >
+
+  level: Introduction
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+  tldv: ""
+
+- name: "SQL"
+  subTitle: "Exercises on SQL for devs, testers & analysts!"
+  date: 2024-10-03
+  hide: true
+  track: "QAEvent"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+  tldv: ""
+
+- name: "Blazor"
+  subTitle: "Let's build something with Blazor!"
+  date: 2024-09-19
+  hide: true
+  track: "DotNetTrack"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+  tldv: ""
+
+- name: "Minigolf"
+  subTitle: "Let's show Mike how it's done!"
+  date: 2024-09-05
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Github Actions"
+  subTitle: "Automate your workflow!"
+  date: 2024-08-01
+  hide: true
+  track: "TechEvent"
+  summary: >
+
+  level: Introduction
+  content: "Code-Show"
+  type: ["Virtual"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+  tldv: ""
 
 - name: "n-tier, Onion, Hexagonal"
   subTitle: "A closer look at probably the most used architectures out there"

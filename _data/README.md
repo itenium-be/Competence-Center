@@ -94,3 +94,31 @@ After a merge, you can see the current build/deploy status on the
 - Green circle: build is busy
 - Green V: build succeeded, new yaml is visible on the website
 - Red X: build failed, probably invalid Yaml
+
+
+## Template
+
+```yaml
+- name: ""
+  by: ""
+  subTitle: ""
+  date: 2024-09-01
+  hide: true
+  track: ""
+  summary: >
+
+  level: Introduction
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+  tldv: ""
+```
