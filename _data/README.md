@@ -21,6 +21,11 @@ Use a [validator](https://www.yamllint.com/) to make sure the Yaml is valid.
      for the LinkedIn post, ...
      <br><br>Use `<br>` for adding newlines to the summary.
 
+  # Hidden events are not displayed once their date has passed
+  # This is to avoid displaying an event in the past without any details added to it
+  # When adding the details to the event, remove this property!
+  hide: true
+
   # track options:
   # TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe
   # JavaTrack, DotNetTrack, Bootcamp
