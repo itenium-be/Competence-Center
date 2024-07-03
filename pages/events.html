@@ -52,6 +52,9 @@ permalink: /events
                         {% if date > now %}
                            <li>
                               {{event.date | date: '%d/%m/%Y'}}: {{event.name}}
+                              {% if event.by %}
+                                 by {{event.by}}
+                              {% endif %}
                               <small>
                                  ({{event.track}}: {{event.subTitle}})
                               </small>
