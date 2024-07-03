@@ -121,6 +121,7 @@
   tldv: ""
 
 - name: "Blazor"
+  by: Bert
   subTitle: "Let's build something with Blazor!"
   date: 2024-09-19
   hide: true
