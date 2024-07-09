@@ -121,5 +121,6 @@ After a merge, you can see the current build/deploy status on the
   twitter: ""
   githubUrl: ""
   blogPost: ""
+  facebook: ""
   tldv: ""
 ```
