@@ -143,6 +143,7 @@
   tldv: ""
 
 - name: "Handige tools &/of frameworks"
+  by: Simon
   subTitle: "Welke tools en/of frameworks zijn handig om te kennen?"
   date: 2024-09-25
   hide: true
