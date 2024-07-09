@@ -142,6 +142,28 @@
   blogPost: ""
   tldv: ""
 
+- name: "Handige tools &/of frameworks"
+  subTitle: "Welke tools en/of frameworks zijn handig om te kennen?"
+  date: 2024-09-25
+  hide: true
+  track: "JavaTrack"
+  summary: >
+
+  level: Introduction
+  content: "Code-Show"
+  type: [ "Virtual" ]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+     - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+  tldv: ""
+
 - name: "Blazor"
   by: Bert
   subTitle: "Let's build something with Blazor!"
