@@ -33,7 +33,7 @@
 
 
 - name: "Angular KrisKras"
-  subTitle: "RXJS, ReactiveForms & Redux + UnitTesting (new)"
+  subTitle: "RXJS, ReactiveForms, Redux & Angular Day"
   date: 2024-12-05
   hide: true
   track: "FrontendTrack"
