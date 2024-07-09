@@ -119,6 +119,18 @@ $Expert: black;
    }
 }
 
+.badge-type {
+   &.Virtual {
+      background: #2B32FF !important;
+      color: white !important;
+   }
+
+   &.On-Site {
+      background: #FF2723 !important;
+      color: white !important;
+   }
+}
+
 .badge-track {
    &.TechEvent {
       background: $TechEvent !important;

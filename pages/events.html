@@ -51,15 +51,16 @@ permalink: /events
                         {% capture date %}{{event.date | date: '%s' | plus: 0 }}{% endcapture %}
                         {% if date > now %}
                            <li>
-                              {{event.date | date: '%d/%m/%Y'}}: {{event.name}}
+                              {{event.date | date: '%a %d/%m/%Y'}}:
+                              <span class="badge badge-type {{ event.type | first }}">{{ event.type | first }}</span>
+                              <span class="badge badge-track {{ event.track }}">{{ event.track }}</span>
+                              {{event.name}}
                               {% if event.by %}
                                  by {{event.by}}
                               {% endif %}
                               <small>
                                  {% if event.subTitle and event.subTitle != "" %}
-                                    ({{event.track}}: {{event.subTitle}})
-                                 {% else %}
-                                    ({{event.track}})
+                                    : {{event.subTitle}}
                                  {% endif %}
                               </small>
                            </li>
