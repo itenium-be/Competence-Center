@@ -56,7 +56,11 @@ permalink: /events
                                  by {{event.by}}
                               {% endif %}
                               <small>
-                                 ({{event.track}}: {{event.subTitle}})
+                                 {% if event.subTitle %}
+                                    ({{event.track}}: {{event.subTitle}})
+                                 {% else %}
+                                    ({{event.track}})
+                                 {% endif %}
                               </small>
                            </li>
                         {% endif %}
