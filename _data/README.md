@@ -71,6 +71,7 @@ Use a [validator](https://www.yamllint.com/) to make sure the Yaml is valid.
   instagram: ""
   twitter: ""
   blogPost: ""
+  facebook: ""
 
   # For all non FunEvent/TechCafes there is **always** a Github repository
   githubUrl: ""
