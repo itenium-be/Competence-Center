@@ -3,6 +3,26 @@
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
+- name: "Itenium 2.0"
+  by: ""
+  subTitle: "Itenium 2.0 Kick-Off: A Sunny Start! "
+  date: 2024-06-13
+  track: ""
+  summary: >
+  level: "Introduction"
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+  tldv: ""
 
 - name: "n-tier, Onion, Hexagonal"
   subTitle: "A closer look at probably the most used architectures out there"
