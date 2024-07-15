@@ -4,7 +4,7 @@
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
 - name: "Itenium 2.0"
-  by: ""
+  by: "Steven"
   subTitle: "Itenium 2.0 Kick-Off: A Sunny Start! "
   date: 2024-06-13
   track: "FunEvent"
@@ -24,7 +24,7 @@
   content: "Hands-On"
   type: "On-Site"
   duration: "4h"
-  video: ""
+  video: "https://www.youtube.com/embed/QJYOJCslwjA?si=4mSN3uPptYlQyHWe"
   image: ""
   gallery:
     - ""
