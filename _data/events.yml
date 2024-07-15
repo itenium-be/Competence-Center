@@ -3,256 +3,26 @@
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
-# Asana TODOs:
-# https://app.asana.com/0/1207665151192492/board
-
-# For more details & a template:
-# https://github.com/itenium-be/Competence-Center/blob/master/_data/README.md
-
-
-
-- name: "New Year Event"
-  subTitle: ""
-  date: 2025-01-31
-  hide: true
-  track: "FunEvent"
-  summary: >
-
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
-
-- name: "Angular KrisKras"
-  subTitle: "RXJS, ReactiveForms, Redux & Angular Day"
-  date: 2024-12-05
-  hide: true
-  track: "FrontendTrack"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
-- name: "Curling"
-  subTitle: "Promises to be very intensive, I'm sure 😃 (Zemst)"
-  date: 2024-11-14
-  hide: true
-  track: "FunEvent"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: "DDD & BDD"
-  by: "Gaëtan"
-  subTitle: ""
-  date: 2024-11-07
-  hide: true
-  track: "ArchitectureTrack"
-  summary: >
-
-  level: Introduction
-  content: ""
-  type: [""]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
-
-- name: "MicroServices"
-  subTitle: "The next architecture to be covered in our ArchitectureTrack!"
-  date: 2024-10-17
-  hide: true
-  track: "ArchitectureTrack"
-  summary: >
-
-  level: Introduction
-  content: "Theoretical"
-  type: ["Virtual"]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
-
-- name: "SQL"
-  subTitle: "Exercises on SQL for devs, testers & analysts!"
-  date: 2024-10-03
-  hide: true
-  track: "QAEvent"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
-
-- name: "Handige tools &/of frameworks"
-  by: Simon
-  subTitle: "Welke tools en/of frameworks zijn handig om te kennen?"
-  date: 2024-09-25
-  hide: true
-  track: "JavaTrack"
-  summary: >
-
-  level: Introduction
-  content: "Code-Show"
-  type: [ "Virtual" ]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
-
-- name: "Blazor"
-  by: Bert
-  subTitle: "Let's build something with Blazor!"
-  date: 2024-09-19
-  hide: true
-  track: "DotNetTrack"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
-
-- name: "FunEvent"
-  subTitle: "TBD"
-  date: 2024-09-03
-  hide: true
-  track: "FunEvent"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: "Github Actions"
-  subTitle: "Automate your workflow!"
-  date: 2024-08-01
-  hide: true
-  track: "TechEvent"
-  summary: >
-
-  level: Introduction
-  content: "Code-Show"
-  type: ["Virtual"]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  facebook: ""
-  blogPost: ""
-  tldv: ""
 
 - name: "n-tier, Onion, Hexagonal"
   subTitle: "A closer look at probably the most used architectures out there"
   date: 2024-06-20
   track: "ArchitectureTrack"
   summary: >
-   Another great session in our ArchitectureTrack packed
-   with examples, best practices, and real-world applications.
-   We had a great time exploring how to design flexible,
-   maintainable, and scalable systems.
+   Another great session in our ArchitectureTrack packed 
+   with examples, best practices, and real-world applications. 
+   We had a great time exploring how to design flexible, 
+   maintainable, and scalable systems. 
    <br><br>
    Key takeaways included an exploration of N-tier Architecture,
-   which divides an application into layers (Presentation,
-   Business Logic, Data Access, etc.) to enhance separation of
-   concerns and scalability, and Hexagonal Architecture
-   (Ports and Adapters), which emphasizes the use of ports and
-   adapters to decouple core business logic from external systems,
-   allowing for easy integration and adaptability.
+   which divides an application into layers (Presentation, 
+   Business Logic, Data Access, etc.) to enhance separation of 
+   concerns and scalability, and Hexagonal Architecture 
+   (Ports and Adapters), which emphasizes the use of ports and 
+   adapters to decouple core business logic from external systems, 
+   allowing for easy integration and adaptability. 
    Stay tuned for more insightful talks!
   level: Introduction
-  content: "Theoretical"
-  type: ["Virtual"]
   duration: "1h"
   image: "assets/images-events/n-tier-heagonal-&-onion-architectures-1.jpg"
   gallery:
@@ -263,7 +33,6 @@
   instagram: "https://www.instagram.com/p/C8onM12tLgE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1805541559774937096"
   githubUrl: "https://github.com/itenium-be/ntier-onion-hex"
-  facebook: "https://www.facebook.com/share/p/dtHign4q1q67g8K4/"
   tldv: "https://tldv.io/app/meetings/667469e5acf56d0013af6eb0/"
 
 
@@ -272,15 +41,13 @@
   date: 2024-06-06
   track: "TechCafe"
   summary: >
-   We hosted an exclusive Itenium Tech Café exploring
-   OpenAI/Copilot, MicroExpressions, and MindMapping.
-   Participants dived into AI technologies, non-verbal
-   communication, and strategic thinking skills through
-   mind mapping. It was a great opportunity for professional
+   We hosted an exclusive Itenium Tech Café exploring 
+   OpenAI/Copilot, MicroExpressions, and MindMapping. 
+   Participants dived into AI technologies, non-verbal 
+   communication, and strategic thinking skills through 
+   mind mapping. It was a great opportunity for professional 
    growth and networking with like-minded professionals!
   level: Introduction
-  content: "SoftSkill"
-  type: ["On-Site"]
   duration: "4h"
   video: "https://www.youtube.com/embed/Ugyq8ldYEqM?si=J1Bbw5udp_uTq_CA"
   image: "assets/images-events/OpenAICopilot-MicroExpressions-and-MindMapping-2.jpg"
@@ -289,22 +56,20 @@
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7209857790268395523-P1gc?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/reel/C8eT9kCN6kD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1804091908735557876"
-  facebook: "https://www.facebook.com/share/v/u1DaMnvHhCKPEKsa/"
+
 
 - name: "ASP.NET WebApi"
   by: "Bert"
   date: 2024-05-30
   track: "DotNetTrack"
   summary: >
-   Starting from the FullStackHero template, we did
+   Starting from the FullStackHero template, we did 
    a deep dive into ASP.NET WebApi.
-   Our hands-on workshop included exercises on ModelBinding,
+   Our hands-on workshop included exercises on ModelBinding, 
    custom middleware, compression & caching, JSON configuration,
    DI and more!
    We also had a quick look at the new MinimalAPI.
   level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
   duration: "4h"
   image: "assets/images-events/Handson-Webapi-1.jpg"
   gallery:
@@ -322,16 +87,14 @@
   date: 2024-05-31
   track: "Bootcamp"
   summary: >
-   Last week we organized our first full itenium Angular Day:
-   great location & food but also a workshop to upgrade our
-   (in)famous Socks Store with exercises on (standalone) components
-   and templates, including the new control flow syntax, routing and
-   auth, an in-depth look on RXJS, Redux and ReactiveForms as well as
-   on the new zoneless Signals. With over 30 PRs in one day, it was
-   quite the success!
+   Last week we organized our first full itenium Angular Day: 
+   great location & food but also a workshop to upgrade our 
+   (in)famous Socks Store with exercises on (standalone) components 
+   and templates, including the new control flow syntax, routing and 
+   auth, an in-depth look on RXJS, Redux and ReactiveForms as well as 
+   on the new zoneless Signals. With over 30 PRs in one day, it was 
+   quite the success! 
   level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
   duration: "8h"
   image: "assets/images-events/Angular-Day-1.jpg"
   gallery:
@@ -341,8 +104,7 @@
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7205871579501580288-pc0z?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/p/C781nK5tmMY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1799380925823762847"
-  githubUrl: "https://github.com/itenium-be/Angular-Days"
-  facebook: "https://www.facebook.com/share/p/gTcdjN3ZDj1YbGe8/"
+  githubURL: "https://github.com/itenium-be/Angular-Days"
 
 
 - name: "SpringBoot"
@@ -350,14 +112,12 @@
   date: 2024-05-22
   track: "JavaTrack"
   summary: >
-   Join us for our inaugural Java Competence Center
-   session featuring Spring Boot 3.X. Discover the
+   Join us for our inaugural Java Competence Center 
+   session featuring Spring Boot 3.X. Discover the 
    latest advancements with Spring Boot 3.X and explore
-   cutting-edge features and enhancements designed to
+   cutting-edge features and enhancements designed to 
    streamline your Java development experience.
   level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
   duration: "2h"
   image: "assets/images-events/Spring-Boot-1.png"
   gallery:
@@ -368,7 +128,6 @@
   instagram: "https://www.instagram.com/p/C7jFssRtS7Y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1795757098862555451"
   tldv: "https://tldv.io/app/meetings/664cd2da472a8000137c3951"
-  githubUrl: "https://github.com/itenium-be/Spring"
 
 
 - name: "Code Complete (Part 2)"
@@ -376,17 +135,15 @@
   date: 2024-05-16
   track: "ArchitectureTrack"
   summary: >
-    Level up your coding!
+    Level up your coding! 
     <br><br>
-    Unlock the secrets to writing clean, efficient,
-    and maintainable code with 'Code Complete.'
-    This definitive guide offers practical insights
-    and proven techniques for every stage of software
-    construction. It is an essential resource for
+    Unlock the secrets to writing clean, efficient, 
+    and maintainable code with 'Code Complete.' 
+    This definitive guide offers practical insights 
+    and proven techniques for every stage of software 
+    construction. It is an essential resource for 
     developers committed to excellence in their craft.
   level: Introduction
-  content: "Theoretical"
-  type: ["Virtual"]
   duration: "2h"
   image: "assets/images-events/Code-Complete-0.png"
   gallery:
@@ -403,17 +160,15 @@
 - name: "Product & Analysis Competence Center"
   by: "Sofie"
   date: 2024-05-15
-  track: "QAEvent"
+  track: "ArchitectureTrack"
   summary: >
    Level Up Your Product Skills!
    <br><br>
-   Our first Product & Analysis Competence Center session kicked off thanks to Sofie!
-   We brainstormed cool ideas, learned how to turn them into actionable user stories,
-   and got to know each other. It was a great opportunity to connect, learn, and enhance
-   our skills! Join the movement for continuous learning!
+   Our first Product & Analysis Competence Center session kicked off thanks to Sofie! 
+   We brainstormed cool ideas, learned how to turn them into actionable user stories, 
+   and got to know each other. It was a great opportunity to connect, learn, and enhance 
+   our skills! Join the movement for continuous learning! 
   level: Introduction
-  content: "SoftSkill"
-  type: ["On-Site"]
   duration: "2h"
   image: "assets/images-events/Product-Competence-center-2.jpg"
   gallery:
@@ -435,15 +190,14 @@
   track: "FunEvent"
   content: "Hands-On"
   summary: >
-    Itenium had an amazing time delving into the intricacies
-    of lockpicking at our recent workshop!
-    The team delved into the art of unlocking mysteries, honed
-    their skills, and unraveled challenges. It was a blast seeing
-    everyone enjoy the thrill of cracking locks and learning new
-    techniques.
+    Itenium had an amazing time delving into the intricacies 
+    of lockpicking at our recent workshop! 
+    The team delved into the art of unlocking mysteries, honed 
+    their skills, and unraveled challenges. It was a blast seeing 
+    everyone enjoy the thrill of cracking locks and learning new 
+    techniques. 
     <br><br>
-    Can't wait for the next adventure!
-  content: "Hands-On"
+    Can't wait for the next adventure! 
   type: ["On-Site"]
   level: Introduction
   duration: "3h"
@@ -491,11 +245,11 @@
   date: 2024-03-07
   track: "FunEvent"
   summary: >
-    Team Itenium had a blast at the eDirt Bike fun event!
-    From thrilling races to friendly competition, it was an
-    electrifying day full of adrenaline & fun.
+    Team Itenium had a blast at the eDirt Bike fun event! 
+    From thrilling races to friendly competition, it was an 
+    electrifying day full of adrenaline & fun. 
     <br><br>
-    Here's to more exciting adventures ahead!
+    Here's to more exciting adventures ahead! 
   type: ["On-Site"]
   level: Introduction
   duration: "4h"
@@ -519,7 +273,6 @@
     some aggregate pipelines for the more exotic
     exercises.
   track: "TechEvent"
-  content: "Hands-On"
   type: ["On-Site"]
   level: Introduction
   duration: "2h"
@@ -535,12 +288,12 @@
   subTitle: "Focus & Time Management"
   date: 2024-02-08
   summary: >
-    We were thrilled to have our recent event on Softskills:
-    Time and Focus Management, with our amazing team at Itenium!
-    The session delved into techniques and strategies
-    to enhance time management skills and boost focus.
-    Our team of talented professionals found the event
-    incredibly insightful.
+    We were thrilled to have our recent event on Softskills: 
+    Time and Focus Management, with our amazing team at Itenium! 
+    The session delved into techniques and strategies 
+    to enhance time management skills and boost focus. 
+    Our team of talented professionals found the event 
+    incredibly insightful. 
   content: "SoftSkill"
   type: ["On-Site"]
   level: Introduction
@@ -593,7 +346,6 @@
   instagram: "https://www.instagram.com/p/C7yiYretAM_/?img_index=1"
   twitter: "https://x.com/itenium_be/status/1797958325042041203"
   tldv: "https://tldv.io/app/meetings/65848620047386001411cab0"
-  githubUrl: "https://github.com/itenium-be/Dockerfiles-DockerCompose"
 
 
 - name: "GraphQL"
@@ -1332,3 +1084,25 @@
 # Battle Cart: https://www.instagram.com/p/CamC_sOrgJr & https://x.com/itenium_be/status/1498935932938031106?s=20
 # Serverless: https://x.com/itenium_be/status/1497130816580771847?s=20
 # Flutter: https://x.com/itenium_be/status/1433769104574459904?s=20
+
+
+
+# - name: ""
+#   by:
+#   subTitle: ""
+#   date: 2023-
+#   summary: ""
+#   track: "CloudTrack"
+#   content: ""
+#   type: ["exercisesAtTheEnd", "Virtual"]
+#   level: Introduction
+#   duration: "3h"
+#   video: ""
+#   image: ""
+#   gallery:
+#     - "/assets/images-events/x-1.jpg"
+#   linkedIn: ""
+#   instagram: ""
+#   twitter: ""
+#   githubUrl: ""
+#   blogPost: ""
