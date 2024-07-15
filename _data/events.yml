@@ -232,6 +232,26 @@
   blogPost: ""
   tldv: ""
 
+- name: "Itenium 2.0"
+  subTitle: "Itenium 2.0 Kick-Off: A Sunny Start!"
+  date: 2024-06-13
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  facebook: ""
+  blogPost: ""
+  tldv: ""
+
 - name: "n-tier, Onion, Hexagonal"
   subTitle: "A closer look at probably the most used architectures out there"
   date: 2024-06-20
