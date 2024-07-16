@@ -267,7 +267,6 @@
   tldv: "https://tldv.io/app/meetings/667469e5acf56d0013af6eb0/"
 
 - name: "Itenium 2.0"
-  by: "Steven"
   subTitle: "Itenium 2.0 Kick-Off: A Sunny Start!"
   date: 2024-06-13
   track: "FunEvent"
@@ -283,10 +282,8 @@
    companies to thrive, innovate, and create lasting impact. 
    A huge shout out to Charlotte Ryckeboer for capturing all 
    the amazing moments!
-  level: "Introduction"
-  content: "Hands-On"
   type: "On-Site"
-  duration: "4h"
+  duration: "8h"
   video: "https://www.youtube.com/embed/QJYOJCslwjA?si=4mSN3uPptYlQyHWe"
   image: "assets/images-events/Itenium2.0-5.jpg"
   gallery:
