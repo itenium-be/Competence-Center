@@ -266,6 +266,39 @@
   facebook: "https://www.facebook.com/share/p/dtHign4q1q67g8K4/"
   tldv: "https://tldv.io/app/meetings/667469e5acf56d0013af6eb0/"
 
+- name: "Itenium 2.0"
+  by: "Steven"
+  subTitle: "Itenium 2.0 Kick-Off: A Sunny Start!"
+  date: 2024-06-13
+  track: "FunEvent"
+  summary: >
+   Building on the excitement from our kick-off event 
+   at Zuiderbad Mechelen, we're thrilled to announce 
+   Itenium 2.0! The sunny day was filled with laughter 
+   and fun as we redefined our vision, set ambitious goals, 
+   and prioritized what truly matters. While embracing 
+   our core values and traditions, we continue to build a 
+   future rooted in innovation, excellence, and community. 
+   Our company dream is to empower professionals and 
+   companies to thrive, innovate, and create lasting impact. 
+   A huge shout out to Charlotte Ryckeboer for capturing all 
+   the amazing moments!
+  level: "Introduction"
+  content: "Hands-On"
+  type: "On-Site"
+  duration: "4h"
+  video: "https://www.youtube.com/embed/QJYOJCslwjA?si=4mSN3uPptYlQyHWe"
+  image: "assets/images-events/Itenium2.0-5.jpg"
+  gallery:
+    - "assets/images-events/Itenium2.0-1.jpg"
+    - "assets/images-events/Itenium2.0-2.jpg"
+    - "assets/images-events/Itenium2.0-3.jpg"
+    - "assets/images-events/Itenium2.0-4.jpg"
+    - "assets/images-events/Itenium2.0-6.jpg"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7217105695958003712-Iou1?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/p/C9Rz4HXOPOL/"
+  twitter: "https://x.com/itenium_be/status/1811339825741472204"
+  facebook: "https://fb.watch/tfr2LJ46Ms/"
 
 - name: "Tech Café"
   subTitle: "itenium Tech Cafe, where good food and cutting-edge technology collide"
