@@ -1343,6 +1343,33 @@
   twitter: "https://twitter.com/itenium_be/status/1574320233984114688"
   githubUrl: "https://github.com/itenium-be/UnitTesting"
 
+- name: "Redux - What, Why when, It Depends"
+  by: ""
+  subTitle: ""
+  date: 2024-05-23
+  track: ""
+  summary: >
+    Yesterday we got an in-depth training about 
+    redux: what, why when, it depends...
+    More specifically, we talked about NGRX in Angular, 
+    its boilerplate code, and if it's worth the hassle. 
+    Awesome session.
+  level: Introduction
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: "https://x.com/itenium_be/status/1535268325646913537?s=20"
+  githubUrl: ""
+  blogPost: ""
+  facebook: ""
+  tldv: ""
+
 
 # TODO: events to add? (there are also FunEvents in between here!)
 # 2022-06-29 co2duino
