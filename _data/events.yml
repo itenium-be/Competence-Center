@@ -1343,11 +1343,10 @@
   twitter: "https://twitter.com/itenium_be/status/1574320233984114688"
   githubUrl: "https://github.com/itenium-be/UnitTesting"
 
-- name: "Redux - What, Why when, It Depends"
-  by: ""
-  subTitle: ""
+- name: "Redux - What, Why, When... It Depends"
+  subTitle: ""Frontend State Management with Unidirectional Data Flow"
   date: 2024-05-23
-  track: ""
+  track: "FrontendTrack"
   summary: >
     Yesterday we got an in-depth training about 
     redux: what, why when, it depends...
@@ -1357,7 +1356,7 @@
   level: Introduction
   content: "Theoretical"
   type: ["Virtual"]
-  duration: "2h"
+  duration: "1h"
   video: ""
   image: ""
   gallery:
