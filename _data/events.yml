@@ -1345,7 +1345,7 @@
 
 - name: "Redux - What, Why, When... It Depends"
   subTitle: ""Frontend State Management with Unidirectional Data Flow"
-  date: 2024-05-23
+  date: 2022-05-23
   track: "FrontendTrack"
   summary: >
     Yesterday we got an in-depth training about 
