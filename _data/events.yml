@@ -1358,6 +1358,9 @@
   type: ["Virtual"]
   duration: "1h"
   image: "assets/images-events/Redux-2022.png"
+  gallery:
+    - ""
+    - ""
   linkedIn: ""
   instagram: "https://www.instagram.com/p/CeoMtJgPgot"
   twitter: "https://x.com/itenium_be/status/1535268325646913537?s=20"
