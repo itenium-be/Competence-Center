@@ -1368,9 +1368,8 @@
 
 
 - name: "Spaced-based Architecture"
-  subTitle: ""
   date: 2022-05-14
-  track: ""
+  track: "FrontendTrack"
   summary: > 
     This time, we got our hands busy with Spaced-based 
     Architecture. Our thirst to be the best in what we 
