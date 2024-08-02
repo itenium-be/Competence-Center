@@ -1371,9 +1371,11 @@
   date: 2022-05-14
   track: "ArchitectureTrack"
   summary: > 
-    This time, we got our hands busy with Spaced-based 
-    Architecture. Our thirst to be the best in what we 
-    do is quenched for now, but not for long. 
+    In this technical session on Space-based architecture, 
+    we explored how distributing processing and storage 
+    across multiple nodes enhanced scalability and 
+    availability, effectively managing high transaction 
+    volumes and preventing bottlenecks.
   level: Introduction
   content: "Theoretical"
   type: ["Virtual"]
