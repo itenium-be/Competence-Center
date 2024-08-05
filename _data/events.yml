@@ -1408,8 +1408,6 @@
   githubUrl: "https://github.com/itenium-be/Space-Based-Architecture"
 
 - name: "Architecture Kick-Off"
-  by: ""
-  subTitle: ""
   date: 2022-04-28
   track: "ArchitectureTrack"
   summary: > 
