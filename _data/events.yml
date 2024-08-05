@@ -1343,6 +1343,26 @@
   twitter: "https://twitter.com/itenium_be/status/1574320233984114688"
   githubUrl: "https://github.com/itenium-be/UnitTesting"
 
+- name: "Microkernel"
+  date: 2022-06-15
+  track: "ArchitectureTrack"
+  summary: > 
+    A microkernel was a minimal operating system core that 
+    handled basic functions like communication and hardware 
+    management, aiming for improved stability and security 
+    by running most services in user space.
+  level: Introduction
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "1h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  githubUrl: "https://github.com/itenium-be/microkernel"
+  tldv: ""
+
+
 - name: "Redux - What, Why, When... It Depends"
   subTitle: "Frontend State Management with Unidirectional Data Flow"
   date: 2022-05-23
