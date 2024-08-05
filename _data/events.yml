@@ -1355,10 +1355,11 @@
   content: "Theoretical"
   type: ["Virtual"]
   duration: "1h"
-  video: ""
-  image: ""
+  image: "assets/images-events/Microkernel-2.jpg"
   gallery:
-    - ""
+    - "assets/images-events/Microkernel-1.jpg"
+    - "assets/images-events/Microkernel-3.jpg"
+    - "assets/images-events/Microkernel-4.jpg"
   githubUrl: "https://github.com/itenium-be/microkernel"
 
 
