@@ -1343,6 +1343,28 @@
   twitter: "https://twitter.com/itenium_be/status/1574320233984114688"
   githubUrl: "https://github.com/itenium-be/UnitTesting"
 
+- name: "Microkernel"
+  date: 2022-06-15
+  track: "ArchitectureTrack"
+  summary: > 
+    The microkernel architecture revolutionized software design 
+    by stripping down the core and letting most services run separately. 
+    This clever approach made systems more stable and flexible, making 
+    updates a breeze and reducing the chances of a meltdown. Think of it 
+    as the minimalist superhero of software architecture—lean, adaptable, 
+    and always ready for action!
+  level: Introduction
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "1h"
+  image: "assets/images-events/Microkernel-2.jpg"
+  gallery:
+    - "assets/images-events/Microkernel-1.jpg"
+    - "assets/images-events/Microkernel-3.jpg"
+    - "assets/images-events/Microkernel-4.jpg"
+  githubUrl: "https://github.com/itenium-be/microkernel"
+
+
 - name: "Redux - What, Why, When... It Depends"
   subTitle: "Frontend State Management with Unidirectional Data Flow"
   date: 2022-05-23
