@@ -1420,10 +1420,12 @@
   content: "Theoretical"
   type: ["Virtual"]
   duration: "1h"
-  video: ""
-  image: ""
+  image: "assets/images-events/Architecture-Kick-Off-2.jpg"
   gallery:
-    - ""
+    - "assets/images-events/Architecture-Kick-Off-1.jpg"
+    - "assets/images-events/Architecture-Kick-Off-3.jpg"
+    - "assets/images-events/Architecture-Kick-Off-4.jpg"
+    - "assets/images-events/Architecture-Kick-Off-5.jpg"
   githubUrl: "https://github.com/itenium-be/Architecture-KickOff"
 
 # TODO: events to add? (there are also FunEvents in between here!)
