@@ -224,12 +224,12 @@
   content: "Code-Show"
   type: ["Virtual"]
   duration: "1h"
-  image: "assets/images-events/github-actions-2.jpg"
+  image: ""
   gallery:
-    - "assets/images-events/github-actions-1.jpg"
-    - "assets/images-events/github-actions-3.jpg"
-    - "assets/images-events/github-actions-4.jpg"
-    - "assets/images-events/github-actions-5.jpg"
+    - ""
+    - ""
+    - ""
+    - ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-itenium2-keeponlearning-activity-7228702185734242304-8HdE?utm_source=share&utm_medium=member_desktop"
   instagram: "https://www.instagram.com/p/C-kNRXCt0y-/?img_index=1"
   twitter: "https://x.com/itenium_be/status/1822936146202005716"
