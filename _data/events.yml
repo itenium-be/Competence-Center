@@ -1420,12 +1420,13 @@
   content: "Theoretical"
   type: ["Virtual"]
   duration: "1h"
-  image: "assets/images-events/Architecture-Kick-Off-2.jpg"
+  image: "assets/images-events/Architecture-Kick-Off-6.png"
   gallery:
     - "assets/images-events/Architecture-Kick-Off-1.jpg"
     - "assets/images-events/Architecture-Kick-Off-3.jpg"
     - "assets/images-events/Architecture-Kick-Off-4.jpg"
     - "assets/images-events/Architecture-Kick-Off-5.jpg"
+    - "assets/images-events/Architecture-Kick-Off-2.jpg"
   twitter: "https://x.com/itenium_be/status/1521429966025793536?s=20"
   githubUrl: "https://github.com/itenium-be/Architecture-KickOff"
 
