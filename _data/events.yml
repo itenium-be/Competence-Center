@@ -212,7 +212,6 @@
 - name: "Github Actions"
   subTitle: "Automate your workflow!"
   date: 2024-08-01
-  hide: true
   track: "TechEvent"
   summary: >
    Just wrapped up an awesome session on GitHub Actions! 
