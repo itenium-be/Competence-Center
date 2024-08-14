@@ -215,7 +215,12 @@
   hide: true
   track: "TechEvent"
   summary: >
-
+   Just wrapped up an awesome session on GitHub Actions! 
+   We explored building & testing Node, .NET, and Java with 
+   multi-version matrices , dived into Docker integrations, 
+   and mastered reusable workflows to keep things DRY. Plus, 
+   we learned how to automate everything from Issues to PRs 
+   using GitHub Actions!
   level: Introduction
   content: "Code-Show"
   type: ["Virtual"]
