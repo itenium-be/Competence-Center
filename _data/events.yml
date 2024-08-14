@@ -219,18 +219,17 @@
   level: Introduction
   content: "Code-Show"
   type: ["Virtual"]
-  duration: "2h"
+  duration: "1h"
   video: ""
   image: ""
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  facebook: ""
-  blogPost: ""
-  tldv: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-itenium2-keeponlearning-activity-7228702185734242304-8HdE?utm_source=share&utm_medium=member_desktop"
+  instagram: "https://www.instagram.com/p/C-kNRXCt0y-/?img_index=1"
+  twitter: "https://x.com/itenium_be/status/1822936146202005716"
+  githubUrl: "https://github.com/itenium-be/Github-Actions"
+  facebook: "https://www.facebook.com/share/p/YtYAwc8AtZNdNB8e/?mibextid=oFDknk"
+  tldv: "https://tldv.io/app/meetings/66abc8511e36fa0013bcff7d"
 
 - name: "n-tier, Onion, Hexagonal"
   subTitle: "A closer look at probably the most used architectures out there"
