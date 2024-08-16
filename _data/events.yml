@@ -1458,13 +1458,9 @@
   image: ""
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  facebook: ""
-  tldv: ""
+  instagram: "https://www.instagram.com/p/CbNKKQ_NFnD"
+  twitter: "https://x.com/itenium_be/status/1504774889139490817?s=20"
+  githubUrl: "https://github.com/itenium-be/Chatbot-Bootcamp"
 
 # TODO: events to add? (there are also FunEvents in between here!)
 # 2022-06-29 co2duino
