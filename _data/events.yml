@@ -1449,12 +1449,18 @@
   date: 2024-03-11
   track: ""
   summary: >
-
+    At our recent bootcamp, we had an exciting hands-on 
+    experience where we developed our own chatbot using 
+    Google Dialogflow. The day was filled with learning, 
+    collaboration, and creativity as we delved into the 
+    intricacies of chatbot development. To top it all off,
+     we enjoyed a delicious lunch, snacks, and drinks. It 
+     was a perfect blend of tech exploration and team 
+     bonding!
   level: Introduction
   content: "Theoretical"
   type: ["Virtual"]
   duration: "2h"
-  video: ""
   image: ""
   gallery:
     - ""
