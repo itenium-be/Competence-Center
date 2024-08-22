@@ -1362,9 +1362,11 @@
   duration: "1h"
   image: "assets/images-events/CO2duino-1.jpeg"
   gallery:
-    - ""
-    - ""
-    - ""
+    - "assets/images-events/CO2duino-2.jpg"
+    - "assets/images-events/CO2duino-3.jpg"
+    - "assets/images-events/CO2duino-4.jpg"
+    - "assets/images-events/CO2duino-5.jpg"
+    - "assets/images-events/CO2duino-6.jpg"
   githubUrl: "https://github.com/itenium-be/CO2duino"
 
 
