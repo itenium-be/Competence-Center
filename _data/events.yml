@@ -1347,6 +1347,22 @@
   twitter: "https://twitter.com/itenium_be/status/1574320233984114688"
   githubUrl: "https://github.com/itenium-be/UnitTesting"
 
+
+- name: "CO2duino"
+  subTitle: "CO2 Meter"
+  date: 2022-06-29
+  track: ""
+  summary: >
+       Monitored and managed your indoor air quality with precision using the CO2 Meter—your key to a healthier, more comfortable environment."
+  level: Introduction
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "1h"
+  video: ""
+  image: ""
+  githubUrl: "https://github.com/itenium-be/CO2duino"
+
+
 - name: "Microkernel"
   date: 2022-06-15
   track: "ArchitectureTrack"
@@ -1437,7 +1453,7 @@
 
 
 - name: "Chatbots Bootcamp"
-  date: 2024-03-11
+  date: 2022-03-11
   track: "Bootcamp"
   summary: >
     At our recent bootcamp, we had an exciting hands-on 
