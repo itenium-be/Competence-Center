@@ -1353,9 +1353,12 @@
   date: 2022-06-29
   track: "TechEvent"
   summary: >
-       Monitored and managed your indoor air quality with 
-       precision using the CO2 Meter—your key to a healthier, 
-       more comfortable environment.
+       Enhance your indoor environment with the itenium CO2 
+       Meter—carefully assembled and programmed by hand during 
+       our hands-on TechEvent. This DIY project combines the 
+       precision of the Wemos S2 Pico dev board with the SGP30 
+       CO2 sensor, giving you accurate air quality monitoring and 
+       control for a healthier, more comfortable living space.
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
