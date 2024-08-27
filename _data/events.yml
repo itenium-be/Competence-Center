@@ -1516,6 +1516,24 @@
   githubUrl: "https://github.com/itenium-be/Chatbot-Bootcamp"
 
 
+- name: "Flutter"
+  date: 2021-09-03
+  track: ""
+  summary: >
+
+  level: Introduction
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: " https://x.com/itenium_be/status/1433769104574459904?s=20"
+  githubUrl: "https://github.com/itenium-be/Flutter-Intro"
+
 # TODO: events to add? (there are also FunEvents in between here!)
 # 2022-06-29 co2duino
 
