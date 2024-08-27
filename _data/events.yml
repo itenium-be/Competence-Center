@@ -1518,7 +1518,7 @@
 
 - name: "Serverless"
   date: 2022-02-25
-  track: "FrontendTrack"
+  track: "TechEvent"
   summary: >
     We recently organized a training session on Serverless 
     Architecture, which added another valuable layer to our 
@@ -1526,8 +1526,8 @@
     to grow and innovate. On to the next! Learning never
     stopped at Itenium!
   level: Introduction
-  content: "Theoretical"
-  type: ["Virtual"]
+  content: "Hands-On"
+  type: ["On-Site"]
   duration: "1h"
   image: "assets/images-events/Serverless-1.png"
   gallery:
