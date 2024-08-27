@@ -1518,9 +1518,15 @@
 
 - name: "Flutter"
   date: 2021-09-03
-  track: ""
+  track: "ArchitectureTrack"
   summary: >
-
+    Our team at Itenium got hands-on with Google's Flutter 
+    through an engaging virtual training session. We were 
+    eager to expand our knowledge and stay ahead in the 
+    tech world. The session was packed with insights into 
+    Flutter's capabilities, helping us enhance our skills 
+    and explore new possibilities. At Itenium, we never stop 
+    learning!
   level: Introduction
   content: "Theoretical"
   type: ["Virtual"]
