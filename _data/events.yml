@@ -1516,6 +1516,27 @@
   githubUrl: "https://github.com/itenium-be/Chatbot-Bootcamp"
 
 
+- name: "Serverless"
+  date: 2022-02-25
+  track: "ArchitectureTrack"
+  summary: >
+    We recently organized a training session on Serverless 
+    Architecture, which added another valuable layer to our 
+    team's knowledge base. With every session, we continued 
+    to grow and innovate. On to the next! Learning never
+    stopped at Itenium!
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "1h"
+  image: "assets/images-events/Serverless-1.png"
+  gallery:
+    - "assets/images-events/Serverless-3.jpg"
+    - "assets/images-events/Serverless-4.jpg"
+  twitter: "https://x.com/itenium_be/status/1497130816580771847?s=20"
+  githubUrl: "https://github.com/itenium-be/Serverless"
+  
+  
 - name: "Flutter"
   date: 2021-09-03
   track: "FrontendTrack"
@@ -1534,7 +1555,3 @@
   image: "assets/images-events/Flutter-1.jpeg"
   twitter: " https://x.com/itenium_be/status/1433769104574459904?s=20"
   githubUrl: "https://github.com/itenium-be/Flutter-Intro"
-
-
-# Socials
-# Serverless: https://x.com/itenium_be/status/1497130816580771847?s=20
