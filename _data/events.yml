@@ -1479,6 +1479,12 @@
   type: ["on-Site"]
   duration: "2h"
   image: ""
+  gallery:
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
   instagram: "https://www.instagram.com/p/CamC_sOrgJr"
   twitter: "https://x.com/itenium_be/status/1498935932938031106?s=20"
 
