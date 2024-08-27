@@ -1518,7 +1518,7 @@
 
 - name: "Flutter"
   date: 2021-09-03
-  track: "ArchitectureTrack"
+  track: "FrontendTrack"
   summary: >
     Our team at Itenium got hands-on with Google's Flutter 
     through an engaging virtual training session. We were 
