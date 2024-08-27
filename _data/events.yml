@@ -1471,39 +1471,22 @@
   track: "FunEvent"
   summary: >
        At our latest get-together, we took on 'battle karting,' 
-       which is basically Mario Kart in real life. Almost as 
-       tricky as dodging potholes on Belgian roads. Jokes aside, 
-       we had a blast! Just watch out for those speeding tickets 
-       on the way home 😁
+       which was like experiencing Mario Kart in real life. It 
+       was almost as challenging as dodging potholes on Belgian 
+       roads, but we had a blast! We just had to watch out for 
+       those speeding tickets on the way home 😁.
   level: Introduction
   type: ["on-Site"]
-  duration: "2h"
-  image: ""
+  duration: "4h"
+  image: "assets/images-events/Battle-Kart-1.png"
   gallery:
-    - ""
-    - ""
-    - ""
-    - ""
-    - ""
+    - "assets/images-events/Battle-Kart-2.jpg"
+    - "assets/images-events/Battle-Kart-3.jpg"
+    - "assets/images-events/Battle-Kart-4.jpg"
+    - "assets/images-events/Battle-Kart-5.jpg"
+    - "assets/images-events/Battle-Kart-6.jpg"
   instagram: "https://www.instagram.com/p/CamC_sOrgJr"
   twitter: "https://x.com/itenium_be/status/1498935932938031106?s=20"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 - name: "Chatbots Bootcamp"
