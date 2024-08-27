@@ -1525,10 +1525,7 @@
     team's knowledge base. With every session, we continued 
     to grow and innovate. On to the next! Learning never
     stopped at Itenium!
-  level: Introduction
-  content: "Theoretical"
-  type: ["Virtual"]
-  duration: "1h"
+
   image: "assets/images-events/Serverless-1.png"
   gallery:
     - "assets/images-events/Serverless-2.jpg"
@@ -1536,3 +1533,23 @@
     - "assets/images-events/Serverless-4.jpg"
   twitter: "https://x.com/itenium_be/status/1497130816580771847?s=20"
   githubUrl: "https://github.com/itenium-be/Serverless"
+  
+  
+- name: "Flutter"
+  date: 2021-09-03
+  track: "FrontendTrack"
+  summary: >
+    Our team at Itenium got hands-on with Google's Flutter 
+    through an engaging virtual training session. We were 
+    eager to expand our knowledge and stay ahead in the 
+    tech world. The session was packed with insights into 
+    Flutter's capabilities, helping us enhance our skills 
+    and explore new possibilities. At Itenium, we never stop 
+    learning!
+  level: Introduction
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "1h"
+  image: "assets/images-events/Flutter-1.jpeg"
+  twitter: " https://x.com/itenium_be/status/1433769104574459904?s=20"
+  githubUrl: "https://github.com/itenium-be/Flutter-Intro"
