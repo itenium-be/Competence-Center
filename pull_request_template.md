@@ -10,3 +10,4 @@ See `_data/README.md` for more informations!
    - [ ] Fields like level, content etc have predefined possibilities -- do they match?
    - [ ] Check that there are no filenames with spaces in them
    - [ ] Make sure the keys match EXACTLY (githubURL vs githubUrl -- only one works)
+   - [ ] Ensure that if an image is removed later, the corresponding file is also deleted.
