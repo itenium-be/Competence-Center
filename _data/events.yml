@@ -807,7 +807,7 @@
   type: ["Virtual"]
   level: Introduction
   duration: "1h"
-  image: "/assets/images-events/dont-make-me-think.jpg"
+  image: "assets/images-events/dont-make-me-think.jpg"
   githubUrl: "https://github.com/itenium-be/Talk-UI-UX"
   tldv: "https://tldv.io/app/meetings/64e79539ec4f5b0013914c4b"
 
@@ -826,10 +826,10 @@
   level: Introduction
   duration: "2h"
   video: "https://youtube.com/embed/fQPIVR_dVME"
-  image: "/assets/images-events/mythical-man-month.jpg"
+  image: "assets/images-events/mythical-man-month.jpg"
   gallery:
-    - "/assets/images-events/mythical-man-month-1.png"
-    - "/assets/images-events/mythical-man-month-2.png"
+    - "assets/images-events/mythical-man-month-1.png"
+    - "assets/images-events/mythical-man-month-2.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7108390037095923712"
   instagram: "https://www.instagram.com/reel/CxfHdZIh-XW"
   twitter: "https://twitter.com/itenium_be/status/1702624887645360269"
@@ -848,7 +848,7 @@
   track: "TechCafe"
   type: ["On-Site"]
   duration: "2h"
-  image: "/assets/images-events/tech-cafe-2023.jpg"
+  image: "assets/images-events/tech-cafe-2023.jpg"
   instagram: "https://www.instagram.com/p/CvcEB9MSh6D/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
   twitter: "https://twitter.com/itenium_be/status/1686682419494273024"
 
@@ -889,10 +889,10 @@
   type: ["Virtual"]
   level: Introduction
   duration: "1h30min"
-  image: "/assets/images-events/code-complete.jpg"
+  image: "assets/images-events/code-complete.jpg"
   gallery:
-    - "/assets/images-events/code-complete-1.png"
-    - "/assets/images-events/code-complete-2.png"
+    - "assets/images-events/code-complete-1.png"
+    - "assets/images-events/code-complete-2.png"
   githubUrl: "https://github.com/itenium-be/CodeComplete"
   tldv: "https://tldv.io/app/meetings/646f9d64b7b5c6001248aec1"
 
@@ -908,12 +908,12 @@
   type: ["On-Site"]
   level: On-Site
   duration: "4h"
-  image: "/assets/images-events/ai-lieven-scheiren.jpg"
+  image: "assets/images-events/ai-lieven-scheiren.jpg"
   gallery:
-    - "/assets/images-events/ai-lieven-scheiren-1.jpg"
-    - "/assets/images-events/ai-lieven-scheiren-2.jpg"
-    - "/assets/images-events/ai-lieven-scheiren-3.jpg"
-    - "/assets/images-events/ai-lieven-scheiren-4.jpg"
+    - "assets/images-events/ai-lieven-scheiren-1.jpg"
+    - "assets/images-events/ai-lieven-scheiren-2.jpg"
+    - "assets/images-events/ai-lieven-scheiren-3.jpg"
+    - "assets/images-events/ai-lieven-scheiren-4.jpg"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7066397918517178368"
   instagram: "https://www.instagram.com/p/Csi-ufORFHJ"
   twitter: "https://twitter.com/itenium_be/status/1660632201132744705"
@@ -975,14 +975,14 @@
   content: "Hands-On"
   level: Introduction
   duration: "3h"
-  image: "/assets/images-events/regex-intro.png"
+  image: "assets/images-events/regex-intro.png"
   gallery:
-    - "/assets/images-events/regex-1.png"
-    - "/assets/images-events/regex-2.png"
-    - "/assets/images-events/regex-3.png"
-    - "/assets/images-events/regex-4.png"
-    - "/assets/images-events/regex-5.png"
-    - "/assets/images-events/regex-6.png"
+    - "assets/images-events/regex-1.png"
+    - "assets/images-events/regex-2.png"
+    - "assets/images-events/regex-3.png"
+    - "assets/images-events/regex-4.png"
+    - "assets/images-events/regex-5.png"
+    - "assets/images-events/regex-6.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7072513057427468289"
   instagram: "https://www.instagram.com/p/Cs_CovavtbL"
   twitter: "https://x.com/itenium_be/status/1664572988669194241?s=20"
@@ -1009,7 +1009,7 @@
   type: ["Virtual"]
   level: Introduction
   duration: "1h30"
-  image: "/assets/images-events/security-bootcamp-the-hacks.png"
+  image: "assets/images-events/security-bootcamp-the-hacks.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7075414088297689088"
   tldv: "https://tldv.io/app/meetings/643ed50b7369a800136f4031"
 
@@ -1027,14 +1027,14 @@
   level: Introduction
   duration: "3h"
   video: ""
-  image: "/assets/images-events/unit-testing-tdd.jpg"
+  image: "assets/images-events/unit-testing-tdd.jpg"
   gallery:
-    - "/assets/images-events/unit-testing-1.jpg"
-    - "/assets/images-events/unit-testing-2.jpg"
-    - "/assets/images-events/unit-testing-3.jpg"
-    - "/assets/images-events/unit-testing-4.jpg"
-    - "/assets/images-events/unit-testing-6.png"
-    - "/assets/images-events/jasmine-jest.png"
+    - "assets/images-events/unit-testing-1.jpg"
+    - "assets/images-events/unit-testing-2.jpg"
+    - "assets/images-events/unit-testing-3.jpg"
+    - "assets/images-events/unit-testing-4.jpg"
+    - "assets/images-events/unit-testing-6.png"
+    - "assets/images-events/jasmine-jest.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7052219286932647936"
   instagram: ""
   twitter: ""
@@ -1053,21 +1053,21 @@
   level: Introduction
   duration: "8h"
   video: "https://youtube.com/embed/f-cvfwykanQ"
+  image: "assets/images-events/security-bootcamp-2.png"
   gallery:
-    - "/assets/images-events/security-bootcamp-0.png"
-    - "/assets/images-events/security-bootcamp-1.png"
-    - "/assets/images-events/security-bootcamp-2.png"
-    - "/assets/images-events/security-bootcamp-3.png"
-    - "/assets/images-events/security-bootcamp-4.png"
-    - "/assets/images-events/security-bootcamp-5.png"
-    - "/assets/images-events/security-bootcamp-6.png"
-    - "/assets/images-events/security-bootcamp-7.png"
-    - "/assets/images-events/security-bootcamp-8.png"
-    - "/assets/images-events/security-bootcamp-9.png"
-    - "/assets/images-events/security-bootcamp-10.png"
-    - "/assets/images-events/security-bootcamp-11.png"
-    - "/assets/images-events/security-bootcamp-12.png"
-    - "/assets/images-events/security-bootcamp-13.png"
+    - "assets/images-events/security-bootcamp-0.png"
+    - "assets/images-events/security-bootcamp-1.png"
+    - "assets/images-events/security-bootcamp-3.png"
+    - "assets/images-events/security-bootcamp-4.png"
+    - "assets/images-events/security-bootcamp-5.png"
+    - "assets/images-events/security-bootcamp-6.png"
+    - "assets/images-events/security-bootcamp-7.png"
+    - "assets/images-events/security-bootcamp-8.png"
+    - "assets/images-events/security-bootcamp-9.png"
+    - "assets/images-events/security-bootcamp-10.png"
+    - "assets/images-events/security-bootcamp-11.png"
+    - "assets/images-events/security-bootcamp-12.png"
+    - "assets/images-events/security-bootcamp-13.png"
   blogPost: "https://itenium.be/blog/security/introducing-the-security-bootcamp/"
 
 
@@ -1110,7 +1110,7 @@
   level: Introduction
   duration: "2h"
   video: "https://www.youtube.com/embed/Hv2EP2U4Jn0"
-  image: "/assets/images-events/react-component-profiling.png"
+  image: "assets/images-events/react-component-profiling.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7048595422143004672"
   instagram: "https://www.instagram.com/p/CrNr-Jvx57L/"
   githubUrl: "https://github.com/itenium-be/React-ComponentProfiling"
@@ -1146,7 +1146,7 @@
   track: "FunEvent"
   duration: "4h"
   video: "https://youtube.com/embed/L-31eAzmORY"
-  image: "/assets/images-events/new-year-9.png"
+  image: "assets/images-events/new-year-9.png"
   gallery:
     - "assets/images-events/new-year-1.png"
     - "assets/images-events/new-year-2.png"
@@ -1178,11 +1178,11 @@
   level: Introduction
   duration: "3h"
   video: ""
-  image: "/assets/images-events/angular-reactive-forms-4.jpg"
+  image: "assets/images-events/angular-reactive-forms-4.jpg"
   gallery:
-    - "/assets/images-events/angular-reactive-forms-1.jpg"
-    - "/assets/images-events/angular-reactive-forms-2.jpg"
-    - "/assets/images-events/angular-reactive-forms-3.jpg"
+    - "assets/images-events/angular-reactive-forms-1.jpg"
+    - "assets/images-events/angular-reactive-forms-2.jpg"
+    - "assets/images-events/angular-reactive-forms-3.jpg"
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -1205,10 +1205,10 @@
   level: Introduction
   duration: "2h"
   video: ""
-  image: "/assets/images-events/kubernetes-0.jpg"
+  image: "assets/images-events/kubernetes-0.jpg"
   gallery:
-    - "/assets/images-events/kubernetes-1.png"
-    - "/assets/images-events/kubernetes-2.png"
+    - "assets/images-events/kubernetes-1.png"
+    - "assets/images-events/kubernetes-2.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7019265593639919616"
   instagram: "https://www.instagram.com/p/CnUFdHsrzzi/"
   twitter: "https://twitter.com/itenium_be/status/1613500864290869248"
@@ -1224,9 +1224,9 @@
     It was a tough run escaping this maximum-security prison but the team persisted
   track: "FunEvent"
   duration: "3h"
-  image: "/assets/images-events/escape-room-2.png"
+  image: "assets/images-events/escape-room-2.png"
   gallery:
-    - "/assets/images-events/escape-room-1.png"
+    - "assets/images-events/escape-room-1.png"
   twitter: "https://twitter.com/itenium_be/status/1583397805347196928"
 
 
@@ -1314,7 +1314,7 @@
   type: ["exercisesAtTheEnd"]
   level: Introduction
   duration: "2h"
-  image: "/assets/images-events/react.png"
+  image: "assets/images-events/react.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:6975392743007158272"
   instagram: "https://www.instagram.com/p/Ci9rqVnO_ns/"
   twitter: "https://twitter.com/itenium_be/status/1574319873978617861"
@@ -1337,10 +1337,10 @@
   type: ["exercisesAtTheEnd"]
   level: Introduction
   duration: "2h"
-  image: "/assets/images-events/theoretical-unit-testing-1.png"
+  image: "assets/images-events/theoretical-unit-testing-1.png"
   gallery:
-    - "/assets/images-events/theoretical-unit-testing-2.png"
-    - "/assets/images-events/theoretical-unit-testing-3.png"
+    - "assets/images-events/theoretical-unit-testing-2.png"
+    - "assets/images-events/theoretical-unit-testing-3.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:6969966239171452928"
   instagram: "https://www.instagram.com/p/Ci9rx7aMW6d/"
   twitter: "https://twitter.com/itenium_be/status/1574320233984114688"
