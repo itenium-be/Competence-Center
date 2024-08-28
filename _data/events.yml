@@ -214,11 +214,11 @@
   date: 2024-08-01
   track: "TechEvent"
   summary: >
-   Just wrapped up an awesome session on GitHub Actions! 
-   We explored building & testing Node, .NET, and Java with 
-   multi-version matrices , dived into Docker integrations, 
-   and mastered reusable workflows to keep things DRY. Plus, 
-   we learned how to automate everything from Issues to PRs 
+   Just wrapped up an awesome session on GitHub Actions!
+   We explored building & testing Node, .NET, and Java with
+   multi-version matrices , dived into Docker integrations,
+   and mastered reusable workflows to keep things DRY. Plus,
+   we learned how to automate everything from Issues to PRs
    using GitHub Actions!
   level: Introduction
   content: "Code-Show"
@@ -275,16 +275,16 @@
   date: 2024-06-13
   track: "FunEvent"
   summary: >
-   Building on the excitement from our kick-off event 
-   at Zuiderbad Mechelen, we're thrilled to announce 
-   Itenium 2.0! The sunny day was filled with laughter 
-   and fun as we redefined our vision, set ambitious goals, 
-   and prioritized what truly matters. While embracing 
-   our core values and traditions, we continue to build a 
-   future rooted in innovation, excellence, and community. 
-   Our company dream is to empower professionals and 
-   companies to thrive, innovate, and create lasting impact. 
-   A huge shout out to Charlotte Ryckeboer for capturing all 
+   Building on the excitement from our kick-off event
+   at Zuiderbad Mechelen, we're thrilled to announce
+   Itenium 2.0! The sunny day was filled with laughter
+   and fun as we redefined our vision, set ambitious goals,
+   and prioritized what truly matters. While embracing
+   our core values and traditions, we continue to build a
+   future rooted in innovation, excellence, and community.
+   Our company dream is to empower professionals and
+   companies to thrive, innovate, and create lasting impact.
+   A huge shout out to Charlotte Ryckeboer for capturing all
    the amazing moments!
   type: "On-Site"
   duration: "8h"
@@ -1146,19 +1146,19 @@
   track: "FunEvent"
   duration: "4h"
   video: "https://youtube.com/embed/L-31eAzmORY"
+  image: "/assets/images-events/new-year-9.png"
   gallery:
-    - "/assets/images-events/new-year-1.png"
-    - "/assets/images-events/new-year-2.png"
-    - "/assets/images-events/new-year-3.png"
-    - "/assets/images-events/new-year-4.png"
-    - "/assets/images-events/new-year-5.png"
-    - "/assets/images-events/new-year-6.png"
-    - "/assets/images-events/new-year-7.png"
-    - "/assets/images-events/new-year-8.png"
-    - "/assets/images-events/new-year-9.png"
-    - "/assets/images-events/new-year-10.png"
-    - "/assets/images-events/new-year-11.png"
-    - "/assets/images-events/new-year-12.png"
+    - "assets/images-events/new-year-1.png"
+    - "assets/images-events/new-year-2.png"
+    - "assets/images-events/new-year-3.png"
+    - "assets/images-events/new-year-4.png"
+    - "assets/images-events/new-year-5.png"
+    - "assets/images-events/new-year-6.png"
+    - "assets/images-events/new-year-7.png"
+    - "assets/images-events/new-year-8.png"
+    - "assets/images-events/new-year-10.png"
+    - "assets/images-events/new-year-11.png"
+    - "assets/images-events/new-year-12.png"
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7025779755484377088"
   instagram: "https://www.instagram.com/reel/CoCXKaMs91z/"
   twitter: "https://twitter.com/itenium_be/status/1620014071939489792"
@@ -1224,10 +1224,9 @@
     It was a tough run escaping this maximum-security prison but the team persisted
   track: "FunEvent"
   duration: "3h"
-  video: ""
+  image: "/assets/images-events/escape-room-2.png"
   gallery:
     - "/assets/images-events/escape-room-1.png"
-    - "/assets/images-events/escape-room-2.png"
   twitter: "https://twitter.com/itenium_be/status/1583397805347196928"
 
 
@@ -1353,11 +1352,11 @@
   date: 2022-06-29
   track: "TechEvent"
   summary: >
-       Enhance your indoor environment with the itenium CO2 
-       Meter—carefully assembled and programmed by hand during 
-       our hands-on TechEvent. This DIY project combines the 
-       precision of the Wemos S2 Pico dev board with the SGP30 
-       CO2 sensor, giving you accurate air quality monitoring and 
+       Enhance your indoor environment with the itenium CO2
+       Meter—carefully assembled and programmed by hand during
+       our hands-on TechEvent. This DIY project combines the
+       precision of the Wemos S2 Pico dev board with the SGP30
+       CO2 sensor, giving you accurate air quality monitoring and
        control for a healthier, more comfortable living space.
   level: Introduction
   content: "Hands-On"
@@ -1380,12 +1379,12 @@
 - name: "Microkernel"
   date: 2022-06-15
   track: "ArchitectureTrack"
-  summary: > 
-    The microkernel architecture revolutionized software design 
-    by stripping down the core and letting most services run separately. 
-    This clever approach made systems more stable and flexible, making 
-    updates a breeze and reducing the chances of a meltdown. Think of it 
-    as the minimalist superhero of software architecture—lean, adaptable, 
+  summary: >
+    The microkernel architecture revolutionized software design
+    by stripping down the core and letting most services run separately.
+    This clever approach made systems more stable and flexible, making
+    updates a breeze and reducing the chances of a meltdown. Think of it
+    as the minimalist superhero of software architecture—lean, adaptable,
     and always ready for action!
   level: Introduction
   content: "Theoretical"
@@ -1404,10 +1403,10 @@
   date: 2022-05-23
   track: "FrontendTrack"
   summary: >
-    Yesterday we got an in-depth training about 
+    Yesterday we got an in-depth training about
     redux: what, why when, it depends...
-    More specifically, we talked about NGRX in Angular, 
-    its boilerplate code, and if it's worth the hassle. 
+    More specifically, we talked about NGRX in Angular,
+    its boilerplate code, and if it's worth the hassle.
     Awesome session.
   level: Introduction
   content: "Theoretical"
@@ -1426,11 +1425,11 @@
 - name: "Spaced-based Architecture"
   date: 2022-05-14
   track: "ArchitectureTrack"
-  summary: > 
-    In this technical session on Space-based architecture, 
-    we explored how distributing processing and storage 
-    across multiple nodes enhanced scalability and 
-    availability, effectively managing high transaction 
+  summary: >
+    In this technical session on Space-based architecture,
+    we explored how distributing processing and storage
+    across multiple nodes enhanced scalability and
+    availability, effectively managing high transaction
     volumes and preventing bottlenecks.
   level: Introduction
   content: "Theoretical"
@@ -1441,14 +1440,14 @@
   twitter: "https://x.com/itenium_be/status/1527635524273700864?s=20"
   githubUrl: "https://github.com/itenium-be/Space-Based-Architecture"
 
-  
+
 - name: "Architecture Kick-Off"
   date: 2022-04-28
   track: "ArchitectureTrack"
-  summary: > 
-    We recently had our Architecture Track kick-off session where 
-    we laid the foundations of IT architectural knowledge for our 
-    consultants. Another exciting topic to ensure that our team stays 
+  summary: >
+    We recently had our Architecture Track kick-off session where
+    we laid the foundations of IT architectural knowledge for our
+    consultants. Another exciting topic to ensure that our team stays
     on top of their game.
 
   level: Introduction
@@ -1470,10 +1469,10 @@
   date: 2022-03-22
   track: "FunEvent"
   summary: >
-       At our latest get-together, we took on 'battle karting,' 
-       which was like experiencing Mario Kart in real life. It 
-       was almost as challenging as dodging potholes on Belgian 
-       roads, but we had a blast! We just had to watch out for 
+       At our latest get-together, we took on 'battle karting,'
+       which was like experiencing Mario Kart in real life. It
+       was almost as challenging as dodging potholes on Belgian
+       roads, but we had a blast! We just had to watch out for
        those speeding tickets on the way home 😁.
   level: Introduction
   type: ["on-Site"]
@@ -1493,13 +1492,13 @@
   date: 2022-03-11
   track: "Bootcamp"
   summary: >
-    At our recent bootcamp, we had an exciting hands-on 
-    experience where we developed our own chatbot using 
-    Google Dialogflow. The day was filled with learning, 
-    collaboration, and creativity as we delved into the 
+    At our recent bootcamp, we had an exciting hands-on
+    experience where we developed our own chatbot using
+    Google Dialogflow. The day was filled with learning,
+    collaboration, and creativity as we delved into the
     intricacies of chatbot development. To top it all off,
-     we enjoyed a delicious lunch, snacks, and drinks. It 
-     was a perfect blend of tech exploration and team 
+     we enjoyed a delicious lunch, snacks, and drinks. It
+     was a perfect blend of tech exploration and team
      bonding!
   level: Introduction
   content: "Theoretical"
@@ -1520,9 +1519,9 @@
   date: 2022-02-25
   track: "ArchitectureTrack"
   summary: >
-    We recently organized a training session on Serverless 
-    Architecture, which added another valuable layer to our 
-    team's knowledge base. With every session, we continued 
+    We recently organized a training session on Serverless
+    Architecture, which added another valuable layer to our
+    team's knowledge base. With every session, we continued
     to grow and innovate. On to the next! Learning never
     stopped at Itenium!
   level: Introduction
@@ -1535,18 +1534,18 @@
     - "assets/images-events/Serverless-4.jpg"
   twitter: "https://x.com/itenium_be/status/1497130816580771847?s=20"
   githubUrl: "https://github.com/itenium-be/Serverless"
-  
-  
+
+
 - name: "Flutter"
   date: 2021-09-03
   track: "FrontendTrack"
   summary: >
-    Our team at Itenium got hands-on with Google's Flutter 
-    through an engaging virtual training session. We were 
-    eager to expand our knowledge and stay ahead in the 
-    tech world. The session was packed with insights into 
-    Flutter's capabilities, helping us enhance our skills 
-    and explore new possibilities. At Itenium, we never stop 
+    Our team at Itenium got hands-on with Google's Flutter
+    through an engaging virtual training session. We were
+    eager to expand our knowledge and stay ahead in the
+    tech world. The session was packed with insights into
+    Flutter's capabilities, helping us enhance our skills
+    and explore new possibilities. At Itenium, we never stop
     learning!
   level: Introduction
   content: "Theoretical"
