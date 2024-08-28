@@ -1,0 +1,39 @@
+---
+layout: default
+permalink: /events/old
+---
+
+
+<section data-bs-version="5" class="header3 cid-sz5dkQbkls bg-sessions" id="header03-0">
+   <div class="mbr-overlay header3-overlay"></div>
+   <div class="container">
+      <div class="row justify-content-center">
+         <div class="col-12 col-lg-8 align-left">
+            <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1">
+               <strong>Old Events</strong>
+            </h1>
+
+            <p class="mbr-text mbr-fonts-style display-7">
+               <b>The itenium technical agenda</b>
+
+               <br>
+               Discover what happened over two years ago @ itenium.
+            </p>
+         </div>
+      </div>
+   </div>
+</section>
+
+
+{% capture two_years_ago %}{{'now' | date: '%s' | minus: 46656000 }}{% endcapture %}
+
+{% assign events = site.data.events | sort: 'date' | reverse %}
+{% assign old_events = '' | split: '' %}
+{% for event in events %}
+   {% capture event_date %}{{event.date | date: '%s' }}{% endcapture %}
+   {% if event_date <= two_years_ago %}
+      {% assign old_events = old_events | push: event %}
+   {% endif %}
+{% endfor %}
+
+{% include events/event-list.html events=old_events %}

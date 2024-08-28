@@ -23,7 +23,7 @@ permalink: /events
    </div>
 </section>
 
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% capture now %}{{'now' | date: '%s' }}{% endcapture %}
 
 <section data-bs-version="5" class="article5 cid-sz5dt1rNPS" id="content05-3">
    <div class="align-center container">
@@ -79,42 +79,34 @@ permalink: /events
 {% include say-hello.html text="Past Events" %}
 
 
-
-{% assign isEvenCounter = 0 %}
+{% capture two_years_ago %}{{'now' | date: '%s' | minus: 46656000 }}{% endcapture %}
 
 {% assign events = site.data.events | sort: 'date' | reverse %}
+{% assign last_two_year_events = '' | split: '' %}
 {% for event in events %}
-   {% capture date %}{{event.date | date: '%s' | plus: 0 }}{% endcapture %}
-   {% unless event.hide %}
-   {% if date < now %}
-      <section data-bs-version="5" class="progress-bars1 cid-sz5eyO5MOT" id="progress01-a">
-         <div class="mbr-overlay" style="opacity: 0.1; background-color: rgb(255, 255, 255)"></div>
-         <div class="container">
-            <div class="row">
-               {% assign isEvenCounter = isEvenCounter | plus: 1 %}
-               {% assign isEven = isEvenCounter | modulo: 2 %}
-               {% if isEven == 0 %}
-                  <div class="col-md-12 col-lg-5 text-elements my-auto md-pb">
-                     <div class="image-wrapper">
-                        {% include events/event-image.html event=event %}
-                     </div>
-                  </div>
-                  <div class="progress_elements m-auto col-md-12 col-lg-7">
-                     {% include events/event-details.html event=event %}
-                  </div>
-               {% else %}
-                  <div class="progress_elements m-auto col-md-12 col-lg-7">
-                     <div class="image-wrapper" style="z-index: unset">
-                        {% include events/event-details.html event=event %}
-                     </div>
-                  </div>
-                  <div class="col-md-12 col-lg-5 text-elements my-auto md-pb" style="z-index: 10">
-                     {% include events/event-image.html event=event %}
-                  </div>
-               {% endif %}
+   {% capture event_date %}{{event.date | date: '%s' }}{% endcapture %}
+   {% if event_date > two_years_ago %}
+      {% assign last_two_year_events = last_two_year_events | push: event %}
+   {% endif %}
+{% endfor %}
+
+{% include events/event-list.html events=last_two_year_events %}
+
+<section data-bs-version="5" class="contacts6 cid-sz5dZ1isXX" id="contacts06-6">
+   <div class="align-center container">
+      <div class="row justify-content-center">
+         <div class="col-12 align-left col-lg-10">
+            <div class="card-wrapper">
+               <h1 class="mbr-section-title mbr-fonts-style mbr-white mb-3 display-4">
+                  Itenium: Where Passion Meets Profession
+               </h1>
+               <h2 class="mbr-section-subtitle mbr-fonts-style mbr-white mb-4 display-1">
+                  <a href="{{'/events/old' | relative_url}}">
+                     <strong>View Older Events</strong>
+                  </a>
+               </h2>
             </div>
          </div>
-      </section>
-   {% endif %}
-   {% endunless %}
-{% endfor %}
+      </div>
+   </div>
+</section>

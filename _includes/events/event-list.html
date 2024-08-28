@@ -1,0 +1,38 @@
+{% assign isEvenCounter = 0 %}
+{% capture now %}{{'now' | date: '%s' }}{% endcapture %}
+
+{% for event in include.events %}
+   {% capture date %}{{event.date | date: '%s' }}{% endcapture %}
+   {% unless event.hide %}
+   {% if date < now %}
+      <section data-bs-version="5" class="progress-bars1 cid-sz5eyO5MOT" id="progress01-a">
+         <div class="mbr-overlay" style="opacity: 0.1; background-color: rgb(255, 255, 255)"></div>
+         <div class="container">
+            <div class="row">
+               {% assign isEvenCounter = isEvenCounter | plus: 1 %}
+               {% assign isEven = isEvenCounter | modulo: 2 %}
+               {% if isEven == 0 %}
+                  <div class="col-md-12 col-lg-5 text-elements my-auto md-pb">
+                     <div class="image-wrapper">
+                        {% include events/event-image.html event=event %}
+                     </div>
+                  </div>
+                  <div class="progress_elements m-auto col-md-12 col-lg-7">
+                     {% include events/event-details.html event=event %}
+                  </div>
+               {% else %}
+                  <div class="progress_elements m-auto col-md-12 col-lg-7">
+                     <div class="image-wrapper" style="z-index: unset">
+                        {% include events/event-details.html event=event %}
+                     </div>
+                  </div>
+                  <div class="col-md-12 col-lg-5 text-elements my-auto md-pb" style="z-index: 10">
+                     {% include events/event-image.html event=event %}
+                  </div>
+               {% endif %}
+            </div>
+         </div>
+      </section>
+   {% endif %}
+   {% endunless %}
+{% endfor %}
