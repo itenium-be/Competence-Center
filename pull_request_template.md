@@ -10,4 +10,4 @@ See `_data/README.md` for more informations!
    - [ ] Fields like level, content etc have predefined possibilities -- do they match?
    - [ ] Check that there are no filenames with spaces in them
    - [ ] Make sure the keys match EXACTLY (githubURL vs githubUrl -- only one works)
-   - [ ] For [Addiitonal information before creating the PR](https://github.com/itenium-be/Competence-Center/tree/master/_data#additional-information), refer to the link or in `_data/README.md`
+   - [ ] For [Additional information before creating the PR](https://github.com/itenium-be/Competence-Center/tree/master/_data#additional-information), refer to the link or in `_data/README.md`
