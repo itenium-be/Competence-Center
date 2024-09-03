@@ -15,15 +15,23 @@
   image: "assets/images-events/Public-Speaking-Modern JS.png"
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-modernjs-publicspeaking-activity-7178345170629738496-LcR0?utm_source=share&utm_medium=member_desktop"
 
-- name: "Devoxx"
-  by: "Simon"
-  event: ""
+- name: "React Component Profiling"
+  by: "Wouter"
+  event: "React Brussels & MitTechCon"
   subTitle: ""
   date: 
   summary: >
-    
-  content: ""
-  level: 
-  duration: ""
+    Wouter Van Schandevijl of Itenium gave a detailed talk on 
+    March 21st in Detroit focused on React component profiling. 
+    He broke down how React's rendering process works, demonstrated 
+    the use of React DevTools Profiler for identifying performance 
+    bottlenecks, and shared practical strategies for optimizing 
+    component behavior. The session was geared towards developers, 
+    offering concrete techniques to make React apps faster and more 
+    efficient.
+  content: "Theoretical"
+  level: Introduction
+  duration: "1h"
   image: ""
-  linkedIn:
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-react-performanceoptimization-activity-7176171038290931713-r3mI?utm_source=share&utm_medium=member_desktop"
+  githubUrl: "https://github.com/itenium-be/React-ComponentProfiling/tree/master"
