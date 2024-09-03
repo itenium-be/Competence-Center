@@ -15,9 +15,9 @@
   image: "assets/images-events/Public-Speaking-Modern JS.png"
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-modernjs-publicspeaking-activity-7178345170629738496-LcR0?utm_source=share&utm_medium=member_desktop"
 
-- name: "React Brussels & MitTechCon"
+- name: "React Brussels & MITechCon"
   by: "Wouter"
-  event: "React Brussels & MitTechCon"
+  event: "MITechCon"
   date: 2024-03-21 
   summary: >
     Wouter Van Schandevijl of Itenium gave a detailed talk on 
@@ -28,9 +28,9 @@
     component behavior. The session was geared towards developers, 
     offering concrete techniques to make React apps faster and more 
     efficient.
-  content: "Theoretical"
+  content: "Code-Show"
   level: Introduction
   duration: "1h"
   image: "assets/images-events/React-Component-profiling-1.jpeg"
-  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-react-performanceoptimization-activity-7176171038290931713-r3mI?utm_source=share&utm_medium=member_desktop"
-  githubUrl: "https://github.com/itenium-be/React-ComponentProfiling/tree/master"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-react-performanceoptimization-activity-7176171038290931713-r3mI"
+  githubUrl: "https://github.com/itenium-be/React-ComponentProfiling"
