@@ -14,3 +14,20 @@
   duration: "40m"
   image: "assets/images-events/Public-Speaking-Modern JS.png"
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-modernjs-publicspeaking-activity-7178345170629738496-LcR0?utm_source=share&utm_medium=member_desktop"
+
+- name: "MITechCon"
+  by: "Wouter"
+  event: "MITechCon"
+  date: 2024-03-21 
+  summary: >
+    At MITechCon on March 21st, Wouter Van Schandevijl of Itenium 
+    discussed React component profiling, covering React's rendering 
+    process, using React DevTools Profiler, and optimizing performance. 
+    The session provided developers with key techniques for enhancing 
+    app efficiency.
+  content: "Code-Show"
+  level: Introduction
+  duration: "1h"
+  image: "assets/images-events/MITechCon-1.jpeg"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-react-performanceoptimization-activity-7176171038290931713-r3mI"
+  githubUrl: "https://github.com/itenium-be/React-ComponentProfiling"
