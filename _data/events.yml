@@ -791,7 +791,7 @@
   track: "FunEvent"
   image: "assets/images-events/axe-throwing-0.jpg"
   gallery:
-    - "assets/images-events/axe-throwing-1.jpg"
+    - "assets/images-events/axe-throwing-1.png"
     - "assets/images-events/axe-throwing-2.jpg"
     - "assets/images-events/axe-throwing-3.jpg"
     - "assets/images-events/axe-throwing-4.jpg"
@@ -900,8 +900,8 @@
   duration: "1h30min"
   image: "assets/images-events/code-complete.jpg"
   gallery:
-    - "assets/images-events/code-complete-1.png"
-    - "assets/images-events/code-complete-2.png"
+    - "assets/images-events/code-complete-1.jpg"
+    - "assets/images-events/code-complete-2.jpg"
   githubUrl: "https://github.com/itenium-be/CodeComplete"
   tldv: "https://tldv.io/app/meetings/646f9d64b7b5c6001248aec1"
 
