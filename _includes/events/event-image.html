@@ -1,15 +1,8 @@
 {% assign img = include.event.image %}
 
-{% if img == "" and include.event.video != "" %}
+{% if (img == null or img == "") and include.event.video != null and include.event.video != "" %}
    {% assign img = "video" %}
 {% endif %}
-
-{% if img == "" %}
-   {% if include.event.gallery %}
-      {% assign img = include.event.gallery | first %}
-   {% endif %}
-{% endif %}
-
 
 {% if img == "video" %}
    <iframe width="560" height="315" src="{{ include.event.video }}"
@@ -18,7 +11,7 @@
       allowfullscreen
    ></iframe>
 
-{% elsif img != "" %}
+{% elsif img != null and img != "" %}
    <img src="{{ img | relative_url }}" alt="" />
 {% elsif include.event.track == "TechCafe" %}
    <img src="{{ "/assets/images/features1.jpg" | relative_url }}" alt="" />

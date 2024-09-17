@@ -65,7 +65,9 @@ Use a [validator](https://www.yamllint.com/) to make sure the Yaml is valid.
   image: "/assets/images-events/dont-make-me-think.jpg"
   gallery:
     - "img1"
-    - "img2"
+    - img: "img2"
+      title: "img2 title"
+      text: "img2 text"
 
   # Links to the socials
   linkedIn: ""
@@ -79,7 +81,7 @@ Use a [validator](https://www.yamllint.com/) to make sure the Yaml is valid.
 
   # The link to the TL&DV video recording
   tldv: ""
-```    
+```
 Create a PR with the new images AND the changes to the Yaml.
 After creating the PR:
 - Check the Yaml manually one more time (valid, correct)
@@ -98,7 +100,7 @@ After creating the PR:
     # If the session is virtual, ensure the TL&DV includes the exact duration.
     # If the session is on-site, default the duration to 4 hours.
     # Review and validate the Content to ensure it aligns with the session's objectives and requirements.
-    
+
 ### Publish
 
 After a merge, you can see the current build/deploy status on the
@@ -128,6 +130,9 @@ After a merge, you can see the current build/deploy status on the
   image: ""
   gallery:
     - ""
+    - img: ""
+      title: ""
+      text: ""
   linkedIn: ""
   instagram: ""
   twitter: ""

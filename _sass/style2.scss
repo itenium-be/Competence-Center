@@ -656,28 +656,6 @@ input[type=range] {
   padding-right: 0 !important;
 }
 
-.modal-dialog,
-.modal-content {
-  height: 100%;
-}
-
-.modal-dialog .carousel-inner {
-  height: calc(100vh - 1.75rem);
-}
-@media (max-width: 575px) {
-  .modal-dialog .carousel-inner {
-    height: calc(100vh - 1rem);
-  }
-}
-
-.carousel-item {
-  text-align: center;
-}
-
-.carousel-item img {
-  margin: auto;
-}
-
 .navbar-toggler {
   align-self: flex-start;
   padding: 0.25rem 0.75rem;

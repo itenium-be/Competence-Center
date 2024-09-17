@@ -18,12 +18,12 @@
                      </div>
                   </div>
                   <div class="progress_elements m-auto col-md-12 col-lg-7">
-                     {% include events/event-details.html event=event %}
+                     {% include events/event-details.html event=event index=forloop.index %}
                   </div>
                {% else %}
                   <div class="progress_elements m-auto col-md-12 col-lg-7">
                      <div class="image-wrapper" style="z-index: unset">
-                        {% include events/event-details.html event=event %}
+                        {% include events/event-details.html event=event index=forloop.index %}
                      </div>
                   </div>
                   <div class="col-md-12 col-lg-5 text-elements my-auto md-pb img-right" style="z-index: 10">

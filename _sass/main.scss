@@ -177,3 +177,17 @@ $Expert: black;
       color: black !important;
    }
 }
+
+
+.carousel-inner,
+.carousel-item {
+   height: calc(100vh - 120px);
+   width: 100%;
+}
+
+.carousel-item img {
+   width: 100%;
+   height: 100%;
+   object-fit: contain;
+   object-position: center;
+}

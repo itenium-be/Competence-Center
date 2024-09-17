@@ -1,0 +1,52 @@
+{% if include.event.gallery %}
+   {% assign gallery = include.event.gallery %}
+   {% assign carouselId = "carousel" | append: include.index %}
+
+   <h3>Image Gallery</h3>
+   <div style="display: none;" id="{{ carouselId }}" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+         {% for slide in gallery %}
+            {% if forloop.first %}
+               {% assign activeClass = "active" %}
+            {% else %}
+               {% assign activeClass = "" %}
+            {% endif %}
+            <button type="button" data-bs-target="#{{ carouselId }}" data-bs-slide-to="{{ forloop.index0 }}" class="{{ activeClass}}" aria-current="true" aria-label="Slide {{ forloop.index }}"></button>
+         {% endfor %}
+      </div>
+      <div class="carousel-inner">
+         {% for slide in gallery %}
+            {% if forloop.first %}
+               {% assign activeClass = "active" %}
+            {% else %}
+               {% assign activeClass = "" %}
+            {% endif %}
+            <div class="carousel-item {{activeClass}}">
+               {% unless slide.img %}
+                  <img src="{{ slide | relative_url }}" class="d-block img-fluid">
+               {% else %}
+                  <img src="{{ slide.img | relative_url }}" class="d-block img-fluid" alt="{{ slide.text | escape }}">
+                  <div class="carousel-caption d-md-block">
+                     <h5>{{ slide.title }}</h5>
+                     <p>{{ slide.text }}</p>
+                  </div>
+               {% endunless %}
+            </div>
+         {% endfor %}
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#{{ carouselId }}" data-bs-slide="prev">
+         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+         <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#{{ carouselId }}" data-bs-slide="next">
+         <span class="carousel-control-next-icon" aria-hidden="true"></span>
+         <span class="visually-hidden">Next</span>
+      </button>
+   </div>
+
+   <button data-gallery-title="{{ include.event.name }}" data-gallery-id="{{ carouselId }}" type="button" class="btn btn-primary btn-event-gallery-modal" data-bs-toggle="modal" data-bs-target="#galleryModal">
+      Open Photo Gallery
+      &nbsp;
+      <small>({{ gallery | size }} pictures)</small>
+   </button>
+{% endif %}
