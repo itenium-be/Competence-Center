@@ -1,0 +1,12 @@
+---
+layout: null
+permalink: /events.csv
+---
+Welke opleiding;Type;Duurtijd;Hands-on;Required Niveau;Trainer
+{% for event in site.data.events -%}
+{% unless event.hide -%}
+{% if event.track != "FunEvent" and event.track != "TechCafe" -%}
+{{ event.name }};{{ event.track }};{{ event.duration }};{{ event.content }};{{ event.level }};{{ event.by | default: "Wouter" }}
+{% endif -%}
+{% endunless -%}
+{% endfor -%}
