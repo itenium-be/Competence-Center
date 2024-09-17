@@ -894,6 +894,10 @@ blockquote {
   .row > [class*=col] {
     padding-left: 16px;
     padding-right: 16px;
+
+    &.img-right {
+      padding-left: 45px;
+    }
   }
 }
 @media (min-width: 768px) {
