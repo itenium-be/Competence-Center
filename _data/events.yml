@@ -188,6 +188,12 @@
   blogPost: ""
   tldv: ""
 
+- name: "BBQ en Boardgames Bonanza™"
+  subTitle: ""
+  date: 2024-09-30
+  hide: true
+  track: "FunEvent"
+
 - name: "FunEvent"
   subTitle: "TBD"
   date: 2024-09-05
