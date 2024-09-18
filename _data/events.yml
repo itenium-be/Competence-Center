@@ -209,20 +209,24 @@
   hide: true
   track: "FunEvent"
   summary: >
+    BBQ + Boardgame Bonanza with Thomas Janssens was a hit! 
+    Itenium colleagues came together for an evening of grilling 
+    and board gaming. Games were competitive, and the atmosphere 
+    was relaxed, creating a fun break from the usual work routine. 
+    Whether it was rolling dice or flipping cards, everyone had a 
+    great time.
 
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
   duration: "2h"
-  video: ""
   image: ""
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7239211549385523201-Y0Qv"
+  instagram: "https://www.instagram.com/p/C_u4ZTNPlLD/?img_index=1"
+  twitter: "https://x.com/itenium_be/status/1833445493277352217"
+  facebook: "https://www.facebook.com/share/p/PR5QiYd9GRT2W9kq/"
 
 - name: "Github Actions"
   subTitle: "Automate your workflow!"
