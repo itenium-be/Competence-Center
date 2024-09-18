@@ -189,13 +189,22 @@
   tldv: ""
 
 - name: "BBQ en Boardgames Bonanza™"
-  subTitle: ""
   date: 2024-09-30
-  hide: true
   track: "FunEvent"
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "2h"
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
 
-- name: "FunEvent"
-  subTitle: "TBD"
+- name: "Yeti Prison Island"
   date: 2024-09-05
   hide: true
   track: "FunEvent"
