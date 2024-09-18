@@ -207,7 +207,6 @@
 
 - name: "BBQ en Boardgames Bonanza™"
   date: 2024-08-30
-  hide: true
   track: "FunEvent"
   summary: >
     BBQ + Boardgame Bonanza with Thomas Janssens was a hit! 
@@ -228,7 +227,7 @@
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-3.jpg"
       text: "Colleagues engage in a competitive board game, mixing strategy and IT camaraderie."
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-4.jpg"
-      text: "Thomas shows off the BBQ with a peace sign, adding a fun touch to the IT event."
+      text: "Thomas wasn't just the BBQ chef but also made delicious tiramisu with a lot of rhum"
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-5.jpg"
       text: "Board game action under evening lights, capturing IT team fun and strategy."
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-6.jpg"
