@@ -222,16 +222,14 @@
   duration: "4h"
   image: "assets/images-events/BBQ-and-Boardgame-Bonanza-1.jpg"
   gallery:
-    - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-2.jpg"
-      text: "The team is in a locker room, actively searching for clues and unlocking doors to 
-      solve the puzzle, focusing on logic, pattern recognition, and collaborative problem-solving."
+    - img: ""
+      text: ""
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-3.jpg"
       text: "Colleagues engage in a competitive board game, mixing strategy and IT camaraderie."
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-4.jpg"
       text: "Thomas wasn't just the BBQ chef but also made delicious tiramisu with a lot of rhum"
-    - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-5.jpg"
-      text: "The team is shown an instructional video on escaping Yeti Island Prison, setting the 
-      stage for a problem-solving challenge that requires logical thinking and collaboration."
+    - img: ""
+      text: ""
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-6.jpg"
       text: "The team shares a meal, enjoying food and conversations in a relaxed IT setting."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7239211549385523201-Y0Qv"
