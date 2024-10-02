@@ -195,7 +195,7 @@
   content: "Hands-On"
   type: ["On-Site"]
   duration: "2h"
-  image: ""assets/images-events/Yeti-Island-1.jpg
+  image: "assets/images-events/Yeti-Island-1.jpg"
   gallery:
     - img: "assets/images-events/Yeti-Island-2.jpg"
       text: "A focused team watches an escape room briefing video, learning essential strategies and tips for completing the challenging activity ahead."
