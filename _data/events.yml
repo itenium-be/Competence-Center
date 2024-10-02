@@ -195,15 +195,15 @@
   content: "Hands-On"
   type: ["On-Site"]
   duration: "2h"
-  image: ""
+  image: ""assets/images-events/Yeti-Island-1.jpg
   gallery:
-    - img: ""
+    - img: "assets/images-events/Yeti-Island-2.jpg"
       text: ""
     - img: ""
-      text: ""
+      text: "assets/images-events/Yeti-Island-3.jpg"
     - img: ""
       text: ""
-    - img: ""
+    - img: "assets/images-events/Yeti-Island-4.jpg"
       text: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-itenium-keeponlearning-activity-7242110225330094080-VGu-"
   instagram: "https://www.instagram.com/p/DADer2YNiwA/"
