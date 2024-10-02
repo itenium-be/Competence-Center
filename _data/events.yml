@@ -190,20 +190,23 @@
 
 - name: "Yeti Prison Island"
   date: 2024-09-05
-  hide: true
   track: "FunEvent"
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
   duration: "2h"
-  image: ""
+  image: ""assets/images-events/Yeti-Island-1.jpg
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+    - img: "assets/images-events/Yeti-Island-2.jpg"
+      text: "A focused team watches an escape room briefing video, learning essential strategies and tips for completing the challenging activity ahead."
+    - img: "assets/images-events/Yeti-Island-3.jpg"
+      text: "The scoreboard displays the team's results, highlighting their performance and ranking after completing the escape room challenge."
+    - img: "assets/images-events/Yeti-Island-4.jpg"
+      text: "The team engages with buttons in a puzzle-solving task, as the screen displays a Mastermind game, showing the remaining time and current score."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-itenium-keeponlearning-activity-7242110225330094080-VGu-"
+  instagram: "https://www.instagram.com/p/DADer2YNiwA/"
+  twitter: "https://x.com/itenium_be/status/1836344516862701591"
+  facebook: "https://www.facebook.com/share/p/FR3rpu68mH9t6yKg/"
 
 - name: "BBQ en Boardgames Bonanza™"
   date: 2024-08-30
