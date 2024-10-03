@@ -66,8 +66,9 @@ Use a [validator](https://www.yamllint.com/) to make sure the Yaml is valid.
   gallery:
     - "img1"
     - img: "img2"
-      title: "img2 title"
-      text: "img2 text"
+      alt: "if there is only generic AI generated text, use alt"
+      title: "optional title if there is also a text"
+      text: "if there is hand-written text, use this instead of alt"
 
   # Links to the socials
   linkedIn: ""
@@ -89,17 +90,18 @@ After creating the PR:
 - Hold the PR against this checklist
 
 ### Additional Information
-    # Paste all content from ChatGPT into the summary.
-    # Ensure the summary shuns all fluff and focuses on key points.
-    # Make the summary concise and suitable for formal communication, such as a social media post.
-    # Review the summary for clarity and relevance before finalizing.
-    # Ensure that new sessions always have an associated GitHub repository.
-    # Verify that a PowerPoint (PPTX) is created for each new session.
-    # Confirm that the PPTX specifies the Level and Track of the session.
-    # Ensure the agenda item specifies whether the session is virtual or on-site.
-    # If the session is virtual, ensure the TL&DV includes the exact duration.
-    # If the session is on-site, default the duration to 4 hours.
-    # Review and validate the Content to ensure it aligns with the session's objectives and requirements.
+
+- Paste all content from ChatGPT into the summary.
+- Ensure the summary shuns all fluff and focuses on key points.
+- Make the summary concise and suitable for formal communication, such as a social media post.
+- Review the summary for clarity and relevance before finalizing.
+- Ensure that new sessions always have an associated GitHub repository.
+- Verify that a PowerPoint (PPTX) is created for each new session.
+- Confirm that the PPTX specifies the Level and Track of the session.
+- Ensure the agenda item specifies whether the session is virtual or on-site.
+- If the session is virtual, ensure the TL&DV includes the exact duration.
+- If the session is on-site, default the duration to 4 hours.
+- Review and validate the Content to ensure it aligns with the session's objectives and requirements.
 
 ### Publish
 
@@ -131,6 +133,7 @@ After a merge, you can see the current build/deploy status on the
   gallery:
     - ""
     - img: ""
+      alt: ""
       title: ""
       text: ""
   linkedIn: ""

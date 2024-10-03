@@ -25,11 +25,13 @@
                {% unless slide.img %}
                   <img src="{{ slide | relative_url }}" class="d-block img-fluid">
                {% else %}
-                  <img src="{{ slide.img | relative_url }}" class="d-block img-fluid" alt="{{ slide.text | escape }}">
-                  <div class="carousel-caption d-md-block">
-                     <h5>{{ slide.title }}</h5>
-                     <p>{{ slide.text }}</p>
-                  </div>
+                  <img src="{{ slide.img | relative_url }}" class="d-block img-fluid" alt="{{ slide.alt | default: slide.text | escape }}">
+                  {% if slide.text %}
+                     <div class="carousel-caption d-md-block">
+                        <h5>{{ slide.title }}</h5>
+                        <p>{{ slide.text }}</p>
+                     </div>
+                  {% endif %}
                {% endunless %}
             </div>
          {% endfor %}
