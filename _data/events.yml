@@ -184,21 +184,48 @@
   blogPost: ""
   tldv: ""
 
+
+- name: "Interstellar"
+  subTitle: "10 Year Anniversary @ Kinepolis Antwerp"
+  date: 2024-10-01
+  track: FunEvent
+  summary: >
+    Being big fans of Interstellar, the stellar scifi from Christopher Nolan,
+    we couldn't pass up on the opportunity to watch it in the cinema again (!)
+    for the 10 year anniversary.
+    <br><br>
+    It was still as awesome as we remembered!
+  image: "assets/images-events/interstellar-2.jpg"
+  gallery:
+    - img: "assets/images-events/interstellar.png"
+      text: "Some couldn't make it because of huge accident in Mechelen 😭"
+
+
 - name: "Yeti Prison Island"
   date: 2024-09-05
   track: "FunEvent"
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
+  summary: >
+     No one knew what to expect from Yeti Prison Island. Turned out you can basically do
+     anything at the Yeti Island but in our formula we were divided into small teams
+     and entered rooms to solve a puzzle, coordinate as a team, climb around
+     to push buttons and other small games.
+     <br><br>
+     We had teams called "Leeroy" and "Jenkins" but the Jenkins team ended up
+     peforming a bit too good and ended up with a higher score than Leeroy.
+     So close!!
+     <br><br>
+     It was still a lot of fun, and in the end everyone did manage to escape 😮‍💨
   duration: "2h"
   image: "assets/images-events/Yeti-Island-1.jpg"
   gallery:
+    - img: "assets/images-events/Yeti-Island-5.webp"
+      text: "Leeroy and Jenkins, two of our teams at Yeti Island"
     - img: "assets/images-events/Yeti-Island-2.jpg"
-      text: "A focused team watches an escape room briefing video, learning essential strategies and tips for completing the challenging activity ahead."
+      alt: "A focused team watches an escape room briefing video, learning essential strategies and tips for completing the challenging activity ahead."
     - img: "assets/images-events/Yeti-Island-3.jpg"
-      text: "The scoreboard displays the team's results, highlighting their performance and ranking after completing the escape room challenge."
+      alt: "The scoreboard displays the team's results, highlighting their performance and ranking after completing the escape room challenge."
     - img: "assets/images-events/Yeti-Island-4.jpg"
-      text: "The team engages with buttons in a puzzle-solving task, as the screen displays a Mastermind game, showing the remaining time and current score."
+      alt: "The team engages with buttons in a puzzle-solving task, as the screen displays a Mastermind game, showing the remaining time and current score."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-itenium-keeponlearning-activity-7242110225330094080-VGu-"
   instagram: "https://www.instagram.com/p/DADer2YNiwA/"
   twitter: "https://x.com/itenium_be/status/1836344516862701591"
@@ -218,15 +245,15 @@
   image: "assets/images-events/BBQ-and-Boardgame-Bonanza-1.jpg"
   gallery:
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-2.jpg"
-      text: "Food and drinks are lined up on a long table, ready for the BBQ feast."
+      alt: "Food and drinks are lined up on a long table, ready for the BBQ feast."
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-3.jpg"
-      text: "Colleagues engage in a competitive board game, mixing strategy and IT camaraderie."
+      alt: "Colleagues engage in a competitive board game, mixing strategy and IT camaraderie."
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-4.jpg"
       text: "Thomas wasn't just the BBQ chef but also made delicious tiramisu with a lot of rhum"
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-5.jpg"
-      text: "The team chats outdoors, enjoying the break while waiting for the BBQ."
+      alt: "The team chats outdoors, enjoying the break while waiting for the BBQ."
     - img: "assets/images-events/BBQ-and-Boardgame-Bonanza-6.jpg"
-      text: "The team shares a meal, enjoying food and conversations in a relaxed IT setting."
+      alt: "The team shares a meal, enjoying food and conversations in a relaxed IT setting."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7239211549385523201-Y0Qv"
   instagram: "https://www.instagram.com/p/C_u4ZTNPlLD/?img_index=1"
   twitter: "https://x.com/itenium_be/status/1833445493277352217"
