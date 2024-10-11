@@ -142,7 +142,6 @@
   by: Simon
   subTitle: "Welke tools en/of frameworks zijn handig om te kennen?"
   date: 2024-09-25
-  hide: true
   track: "JavaTrack"
   summary: >
 
@@ -150,16 +149,14 @@
   content: "Code-Show"
   type: [ "Virtual" ]
   duration: "2h"
-  video: ""
   image: ""
   gallery:
      - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7250445265281724416-yEg4?"
+  instagram: "https://www.instagram.com/p/DA-tG0XPkIE/?img_index=1"
+  twitter: "https://x.com/itenium_be/status/1844679452954907121"
   githubUrl: ""
-  blogPost: ""
-  tldv: ""
+  tldv: "https://tldv.io/app/meetings/66f449d06b60f500124c1ee5"
 
 - name: "Blazor"
   by: Bert
