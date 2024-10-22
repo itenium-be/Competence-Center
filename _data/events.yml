@@ -157,10 +157,10 @@
   gallery:
     - img: "assets/images-events/Java-Track-Handige-Tools-2.png"
       alt: "Simon Verhoeven is presenting VisualVM, a powerful Java troubleshooting tool that offers real-time monitoring, profiling, and memory analysis, essential for developers optimizing JVM performance."
-    - img: ""
-      alt: ""
-    - img: ""
-      alt: ""
+    - img: "assets/images-events/Java-Track-Handige-Tools-3.png"
+      alt: "A presentation of the Spring Boot initializer interface, allowing developers to configure a new Spring Boot project by selecting the language (Java, Kotlin, or Groovy), build tool (Gradle or Maven), Spring Boot version, and other project metadata, making it quick and efficient to set up Java-based applications."
+    - img: "assets/images-events/Java-Track-Handige-Tools-4.png"
+      alt: "Presenting OpenRewrite, a tool by Moderne used to migrate applications to the latest Spring Boot versions. The interface details a migration recipe for Spring Boot 3.1, which helps developers modify build files, address deprecated APIs, and adjust configuration settings for newer Spring Boot versions, streamlining the upgrade process for Java-based applications."
 
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7250445265281724416-yEg4?"
   instagram: "https://www.instagram.com/p/DA-tG0XPkIE/?img_index=1"
