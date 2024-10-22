@@ -144,7 +144,7 @@
   date: 2024-09-25
   track: "JavaTrack"
   summary: >
-    The **Java Track: Handige Tool** session covered tools to 
+    The Java Track: Handige Tool session covered tools to 
     enhance Java development, including debugging, code quality 
     checkers, dependency management, and performance monitoring, 
     with developers sharing practical tips for everyday 
@@ -153,13 +153,18 @@
   content: "Code-Show"
   type: [ "Virtual" ]
   duration: "2h"
-  image: ""
+  image: "assets/images-events/Java-Track-Handige-Tools-1.png"
   gallery:
-     - ""
+    - img: "assets/images-events/Java-Track-Handige-Tools-2.png"
+      alt: "Simon Verhoeven is presenting VisualVM, a powerful Java troubleshooting tool that offers real-time monitoring, profiling, and memory analysis, essential for developers optimizing JVM performance."
+    - img: ""
+      alt: ""
+    - img: ""
+      alt: ""
+
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7250445265281724416-yEg4?"
   instagram: "https://www.instagram.com/p/DA-tG0XPkIE/?img_index=1"
   twitter: "https://x.com/itenium_be/status/1844679452954907121"
-  githubUrl: ""
   tldv: "https://tldv.io/app/meetings/66f449d06b60f500124c1ee5"
 
 - name: "Blazor"
