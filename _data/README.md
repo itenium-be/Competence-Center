@@ -102,6 +102,9 @@ After creating the PR:
 - If the session is virtual, ensure the TL&DV includes the exact duration.
 - If the session is on-site, default the duration to 4 hours.
 - Review and validate the Content to ensure it aligns with the session's objectives and requirements.
+- When it's posted on the socials, update the YAML with the social links.
+- Always remove the letters and characters after the "?" in LinkedIn URLs to ensure they work on both phone and PC.
+- For the YAML, everything is case-sensitive! Always verify that everything works correctly.
 
 ### Publish
 
