@@ -134,9 +134,14 @@
   content: "Hands-On"
   type: ["On-Site"]
   duration: "2h"
-  image: ""
+  image: "assets/images-events/SQL-Training-1.jpg"
   gallery:
-    - ""
+    - img: "assets/images-events/SQL-Training-2.jpg"
+      alt: ""
+    - img: "assets/images-events/SQL-Training-3.jpg"
+      alt: "The itenium developer competition challenges SQL experts with point-based exercises in Postgres and SQL Server, featuring scoreboards, prizes, and fun memes for an engaging coding experience."
+    - img: "assets/images-events/SQL-Training-4.jpg"
+      alt: "Developers collaborate on coding tasks around a checkered table, creating a focused, dynamic environment for problem-solving."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7254793912874070016-qDrS"
   instagram: "https://www.instagram.com/p/DBdmiBfOVq2/?img_index=1"
   twitter: "https://x.com/itenium_be/status/1849028067395576032"
