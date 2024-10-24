@@ -145,7 +145,7 @@
   content: "Hands-On"
   type: ["On-Site"]
   duration: "2h"
-  image: "assets/images-events/SQL-Training-1.jpg"
+  image: "assets/images-events/SQL-Training-1.png"
   gallery:
     - img: "assets/images-events/SQL-Training-2.jpg"
       alt: "The developers intensely collaborating around a checkered table, focused on laptops in a warm, tech-driven environment, embodying the essence of teamwork, agile development, and real-time problem-solving."
