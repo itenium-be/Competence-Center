@@ -135,7 +135,7 @@
     <br><br>
     Even though we had definitely said "no cheating", Alexander came 
     to the correct amount of penalties by doing <pre>COUNT(0)+4</pre> 
-    nd Mike found the countries with a GDP > Europe by doing 
+    and Mike found the countries with a GDP > Europe by doing 
     <pre>WHERE GDP>3425956000000</pre>. Straight to jail!
     <br><br>
     In the end Michael proved too strong and with 63 points, he went 
