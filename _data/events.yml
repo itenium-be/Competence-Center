@@ -99,7 +99,11 @@
   date: 2024-10-17
   track: "ArchitectureTrack"
   summary: >
-
+    In our recent session, led by Wouter Van Schandevijl, 
+    we explored how microservices reshape software architecture, 
+    covering why they are essential for scalable applications, 
+    the core differences from monolithic designs, and best 
+    practices for designing and deploying resilient systems.
   level: Introduction
   content: "Theoretical"
   type: ["Virtual"]
