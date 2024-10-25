@@ -119,24 +119,54 @@
 - name: "SQL"
   subTitle: "Exercises on SQL for devs, testers & analysts!"
   date: 2024-10-03
-  hide: true
   track: "QAEvent"
   summary: >
+    The game that was the SQL Training started with a hickup, 
+    other machines were not discoverable on the guest network 
+    so the leaderboard server had to be deployed on an external 
+    server -- while everyone was already solving exercises! This 
+    messed up our scoreboard considerably, especially the ranking 
+    for "solved fastest" :smile:
+    <br><br>
+    After this it was pretty smooth sailing. Tom found an error in 
+    the calculation of the query to calculate the average GDP per 
+    capita in South America. That and other small issues were fixed 
+    on the spot, on production -- as it should! :wink:
+    <br><br>
+    Even though we had definitely said "no cheating", Alexander came 
+    to the correct amount of penalties by doing <pre>COUNT(0)+4</pre> 
+    nd Mike found the countries with a GDP > Europe by doing 
+    <pre>WHERE GDP>3425956000000</pre>. Straight to jail!
+    <br><br>
+    In the end Michael proved too strong and with 63 points, he went 
+    home with the title of itenium SQL Master and the gaming cup!
 
-  level: Introduction
+  level: Intermediate 
   content: "Hands-On"
   type: ["On-Site"]
   duration: "2h"
-  video: ""
-  image: ""
+  image: "assets/images-events/SQL-Training-1.png"
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
+    - img: "assets/images-events/SQL-Training-2.jpg"
+      alt: "The developers intensely collaborating around a checkered table, focused on laptops in a warm, tech-driven environment, embodying the essence of teamwork, agile development, and real-time problem-solving."
+    - img: "assets/images-events/SQL-Training-6.png"
+      alt: "In this epic showdown of database technologies, one brave soul dares to suggest good old SQL in a NoSQL meeting—only to take a fast track out the window. Some legends say he's still falling."
+    - img: "assets/images-events/SQL-Training-3.jpg"
+      alt: "The itenium developer competition challenges SQL experts with point-based exercises in Postgres and SQL Server, featuring scoreboards, prizes, and fun memes for an engaging coding experience."
+    - img: "assets/images-events/SQL-Training-4.jpg"
+      alt: "Developers collaborate on coding tasks around a checkered table, creating a focused, dynamic environment for problem-solving."
+    - img: "assets/images-events/SQL-Training-7.png"
+      alt: "SQL programmers be like — ready to stretch, crack their knuckles, and hit that Caps Lock like they're prepping for the Olympic all-caps SELECT statement."
+    - img: "assets/images-events/SQL-Training-5.png"
+      alt: "A black ceramic mug designed like a gaming controller, with handles mimicking a gamepad's D-pad and colorful buttons—a perfect prize for Michael's gaming victory."
+    - img: "assets/images-events/SQL-Training-8.png"  
+      alt: "PostgreSQL training interface with exercises on joining teachers and departments data and calculating GDP per capita for countries with over 20 million people."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7254793912874070016-qDrS"
+  instagram: "https://www.instagram.com/p/DBdmiBfOVq2/?img_index=1"
+  twitter: "https://x.com/itenium_be/status/1849028067395576032"
+  facebook: "https://www.facebook.com/share/p/RapsBDQFpZCtCDEF/"
+  githubUrl: "https://github.com/itenium-be/sql-training"
+  blogPost: "https://itenium.be/blog/databases/sql-training/"
 
 - name: "Handige tools &/of frameworks"
   by: Simon
