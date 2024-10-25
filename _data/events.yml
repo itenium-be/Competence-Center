@@ -134,9 +134,9 @@
     on the spot, on production -- as it should! 😉
     <br><br>
     Even though we had definitely said "no cheating", Alexander came 
-    to the correct amount of penalties by doing `COUNT(0)+4` 
+    to the correct amount of penalties by doing <code>COUNT(0)+4</code> 
     and Mike found the countries with a GDP > Europe by doing 
-    `WHERE GDP>3425956000000`. Straight to jail!
+    <code>WHERE GDP>3425956000000</code>. Straight to jail!
     <br><br>
     In the end Michael proved too strong and with 63 points, he went 
     home with the title of itenium SQL Master and the gaming cup!
