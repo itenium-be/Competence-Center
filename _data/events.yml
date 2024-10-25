@@ -97,24 +97,54 @@
 - name: "MicroServices"
   subTitle: "The next architecture to be covered in our ArchitectureTrack!"
   date: 2024-10-17
-  hide: true
   track: "ArchitectureTrack"
   summary: >
-
+    Our latest ArchitectureTrack session covered "Microservices Patterns" 
+    from Chris Richardson. Highlighting the huge advantages of a Microservice 
+    architecture while also being a cautionary tale: there are significant 
+    obstacles to overcome before you can be successful with them; and building 
+    a monolith with for example a hexagonal architecture could just be much 
+    better for your team(s)!
+    <br><br>
+    That being said, "<i>if you find yourself in a hole, stop digging</i>", 
+    we discussed how it's typically best to start with a monolith but how you 
+    can refactor towards microservices using different strategies and what 
+    application and infrastructure patterns you need to apply to avoid every 
+    outage being like a murder mystery.
+    <br><br>
+    Some of the topics covered:
+    <ul>
+    <li>Interprocess communication: to API or to message? How to handle the missing Isolation in your beloved ACID?</li>
+    <li>Queries: API composition or reporting databases (with EventSourcing)</li>
+    <li>Getting production ready: security, configurability and observability</li>
+    <li>Deployment: needs to be highly automated -- what are your options</li>
+    </ul>
   level: Introduction
   content: "Theoretical"
   type: ["Virtual"]
-  duration: "2h"
-  video: ""
-  image: ""
+  duration: "1h49min"
+  image: "assets/images-events/Microservices-1.png"
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
+    - img: "assets/images-events/Microservices-2.jpg"
+      alt: "The image outlines microservices benefits: small, scalable, deployable services, enabling team autonomy, fault isolation, and rapid tech adoption."
+    - img: "assets/images-events/Microservices-5.png"
+      alt: "Showcasing a towering monolith surrounded by clouds, symbolizing legacy monolithic applications, inspiring developers to break free and adopt more scalable architectures like microservices."
+    - img: "assets/images-events/Microservices-3.jpg"
+      alt: "The Refactoring: Moving to MicroServices slide highlights splitting the UI, domain splitting with hexagonal architecture, and database refactoring by moving data and using triggers."
+    - img: "assets/images-events/Microservices-8.jpg"
+      alt: "Chris Richardson's 'Microservices Patterns' is a must-read for developers, offering practical Java examples to solve real-world challenges in building resilient microservice architectures."
+    - img: "assets/images-events/Microservices-4.jpg"
+      alt: "The Loosely Coupled Services slide highlights independent APIs, hidden internals, and separate databases, offering flexibility but challenging data consistency and query complexity."
+    - img: "assets/images-events/Microservices-6.png"
+      alt: "Illustrates the scaling cube for system architecture, highlighting X-axis cloning, Y-axis functional decomposition, and Z-axis data partitioning, offering developers a clear roadmap for scaling applications from monoliths to microservices."
+    - img: "assets/images-events/Microservices-7.jpg"
+      alt: "Switching from monolithic architecture to microservices turns every system failure into a complex and intriguing 'murder mystery' for developers to debug."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7255518817294905344-Ho4f"
+  instagram: "https://www.instagram.com/p/DBiwE54OYO3/"
+  twitter: "https://x.com/itenium_be/status/1849752803666735604"
+  facebook: "https://www.facebook.com/share/p/cy3M6HRQKsPPBUZJ/"
+  githubUrl: "https://github.com/itenium-be/MicroServices"
+  tldv: "https://tldv.io/app/meetings/67114ccaf353910013e2c7e7"
 
 - name: "SQL"
   subTitle: "Exercises on SQL for devs, testers & analysts!"
