@@ -99,7 +99,7 @@
   date: 2024-10-17
   track: "ArchitectureTrack"
   summary: >
-    In our recent session, led by Wouter Van Schandevijl, 
+    In the Microservices session, led by Wouter Van Schandevijl, 
     we explored how microservices reshape software architecture, 
     covering why they are essential for scalable applications, 
     the core differences from monolithic designs, and best 
@@ -111,11 +111,11 @@
   image: "assets/images-events/Microservices-1.png"
   gallery:
     - img: "assets/images-events/Microservices-2.jpg"
-      alt: ""
+      alt: "The image outlines microservices benefits: small, scalable, deployable services, enabling team autonomy, fault isolation, and rapid tech adoption."
     - img: "assets/images-events/Microservices-3.jpg"
-      alt: ""
+      alt: "The Refactoring: Moving to MicroServices slide highlights splitting the UI, domain splitting with hexagonal architecture, and database refactoring by moving data and using triggers."
     - img: "assets/images-events/Microservices-4.jpg"
-      alt: ""
+      alt: "The Loosely Coupled Services slide highlights independent APIs, hidden internals, and separate databases, offering flexibility but challenging data consistency and query complexity."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7255518817294905344-Ho4f"
   instagram: "https://www.instagram.com/p/DBiwE54OYO3/"
   twitter: "https://x.com/itenium_be/status/1849752803666735604"
