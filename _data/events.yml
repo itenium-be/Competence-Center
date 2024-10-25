@@ -108,10 +108,14 @@
   content: "Theoretical"
   type: ["Virtual"]
   duration: "1h49min"
-  video: ""
-  image: ""
+  image: "assets/images-events/Microservices-1.png"
   gallery:
-    - ""
+    - img: "assets/images-events/Microservices-2.jpg"
+      alt: ""
+    - img: "assets/images-events/Microservices-3.jpg"
+      alt: ""
+    - img: "assets/images-events/Microservices-4.jpg"
+      alt: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7255518817294905344-Ho4f"
   instagram: "https://www.instagram.com/p/DBiwE54OYO3/"
   twitter: "https://x.com/itenium_be/status/1849752803666735604"
