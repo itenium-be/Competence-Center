@@ -32,11 +32,10 @@
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-react-performanceoptimization-activity-7176171038290931713-r3mI"
   githubUrl: "https://github.com/itenium-be/React-ComponentProfiling"
 
-- name: ""
-  by: ""
-  event: ""
-  subTitle: ""
-  date: 
+- name: "React Component Profiling"
+  by: "Wouter"
+  event: "ReactJS Brussels"
+  date: 2023-10-13
   summary: >
     
   content: ""
