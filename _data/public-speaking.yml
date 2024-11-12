@@ -37,12 +37,17 @@
   event: "ReactJS Brussels"
   date: 2023-10-13
   summary: >
-    
-  content: ""
-  level: 
-  duration: ""
+    At ReactJS Brussels, Wouter Van Schandevijl from Itenium discussed 
+    how React component profiling boosts performance by identifying and
+    minimizing slow or redundant renders. Using React DevTools Profiler, 
+    he highlighted techniques like memoization and hooks 
+    (`React.memo`, `useCallback`) to manage state and optimize component 
+    rendering, resulting in a more responsive and efficient user experience.
+  content: "Code-Show"
+  level: Introduction
+  duration: "1h"
   image: ""
-  linkedIn: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_react-performanceoptimization-techsuccess-activity-7137740739454640128-nSdr"
 
 - name: ""
   by: ""
