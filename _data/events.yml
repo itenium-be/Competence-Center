@@ -1048,8 +1048,10 @@
   level: Introduction
   duration: "2h"
   video: "https://youtube.com/embed/h_n4-oa_Czc"
+  image: "assets/images-events/EventSourcing-and-CQRS-1.jpg"
   githubUrl: "https://github.com/itenium-be/EventSourcing-CQRS"
   tldv: "https://tldv.io/app/meetings/645d28a51ecad90013bf515e"
+  blogPost: "https://itenium.be/blog/design/CQRS-Ramble/"
 
 
 - name: "Rest / JWT / Postman / DevTools"
