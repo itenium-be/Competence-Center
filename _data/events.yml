@@ -56,20 +56,28 @@
 - name: "Curling"
   subTitle: "Promises to be very intensive, I'm sure 😃 (Zemst)"
   date: 2024-11-14
-  hide: true
   track: "FunEvent"
   summary: >
-
+    We swept our way to victory! Our Curling event in Zemst was an 
+    absolute delight! From rookie sliders to seasoned pros, everyone
+    had a fantastic time on the ice.
+    <br><br>
+    We laughed, cheered, and embraced some unexpected twists and turns 
+    along the way. Who is ready to take on the curling challenge next?
   duration: "2h"
-  video: ""
-  image: ""
+  image: "assets/images-events/Curling-1.jpg"
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+    - img: "assets/images-events/Curling-2.jpg"
+      alt: "A dynamic indoor curling session with players and a coach emphasizes teamwork, precision, and the growing appeal of the sport in a modern, well-equipped facility."
+    - img: "assets/images-events/Curling-3.jpg"
+      alt: "A group curling session in a professional indoor arena highlights coaching, teamwork, and precision, showcasing the sports community and engaging atmosphere."
+    - img: "assets/images-events/Curling-4.jpg"
+      alt: "Itenium's curling crew slides, sweeps, and scores their way to fun and friendly competition on the ice."
+    - img: "assets/images-events/Curling-5.jpg"
+      alt: "Itenium teammates bond over a competitive curling match, with one player expertly sliding a stone while others strategize, all set against a backdrop of scoreboards and local ads in a dedicated curling facility."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7265318266653360128-q4Hu"
+  twitter: "https://x.com/itenium_be/status/1859552439352910029"
+  facebook: "https://www.facebook.com/share/p/14MyZEf6yo/"
 
 - name: "DDD & BDD"
   by: "Gaëtan"
