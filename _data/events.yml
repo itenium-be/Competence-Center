@@ -56,20 +56,21 @@
 - name: "Curling"
   subTitle: "Promises to be very intensive, I'm sure 😃 (Zemst)"
   date: 2024-11-14
-  hide: true
   track: "FunEvent"
   summary: >
-
+    We swept our way to victory! Our Curling event in Zemst was an 
+    absolute delight! From rookie sliders to seasoned pros, everyone
+    had a fantastic time on the ice.
+    <br><br>
+    We laughed, cheered, and embraced some unexpected twists and turns 
+    along the way. Who is ready to take on the curling challenge next?
   duration: "2h"
-  video: ""
   image: ""
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7265318266653360128-q4Hu"
+  twitter: "https://x.com/itenium_be/status/1859552439352910029"
+  facebook: "https://www.facebook.com/share/p/14MyZEf6yo/"
 
 - name: "DDD & BDD"
   by: "Gaëtan"
