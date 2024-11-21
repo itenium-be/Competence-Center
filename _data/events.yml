@@ -65,15 +65,15 @@
     We laughed, cheered, and embraced some unexpected twists and turns 
     along the way. Who is ready to take on the curling challenge next?
   duration: "2h"
-  image: ""
+  image: "assets/images-events/Curling-1.jpg"
   gallery:
-    - img: ""
+    - img: "assets/images-events/Curling-2.jpg"
       alt: ""
-    - img: ""
+    - img: "assets/images-events/Curling-3.jpg"
       alt: ""
-    - img: ""
+    - img: "assets/images-events/Curling-4.jpg"
       alt: ""
-    - img: ""
+    - img: "assets/images-events/Curling-5.jpg"
       alt: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7265318266653360128-q4Hu"
   twitter: "https://x.com/itenium_be/status/1859552439352910029"
