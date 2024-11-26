@@ -1,3 +1,42 @@
+- name: ""
+  by: ""
+  event: ""
+  subTitle: ""
+  date: 
+  summary: >
+    
+  content: ""
+  level: 
+  duration: ""
+  image: ""
+  linkedIn: ""
+
+  - name: ""
+  by: ""
+  event: ""
+  subTitle: ""
+  date: 
+  summary: >
+    
+  content: ""
+  level: 
+  duration: ""
+  image: ""
+  linkedIn: ""
+
+  - name: ""
+  by: ""
+  event: ""
+  subTitle: ""
+  date: 
+  summary: >
+    
+  content: ""
+  level: 
+  duration: ""
+  image: ""
+  linkedIn: ""
+
 - name: "ModernJS"
   by: "Wouter"
   event: "gent.devs"
@@ -49,23 +88,18 @@
   image: "assets/images-events/React-Component-Profiling-1.jpg"
   linkedIn: "https://www.linkedin.com/posts/itenium_react-performanceoptimization-techsuccess-activity-7137740739454640128-nSdr"
 
-- name: "The Evolution of C# and JavaScript"
-  by: "Wouter"
-  event: "Visug Event: Evolution of C# and JavaScript"
-  date: 2018-11-22
+- name: ""
+  by: ""
+  event: ""
+  subTitle: ""
+  date: 
   summary: >
-    At the Visug event, Wouter led a session on the evolution of C# 
-    and JavaScript, examining the major changes and advancements in 
-    each language. He explored how both languages had adapted to modern 
-    development needs, comparing key features and the impact of recent 
-    updates on development workflows. This session provided valuable 
-    insights into the future direction of these languages and best 
-    practices for effectively leveraging their latest features.
-  content: "Theoretical"
-  level: Intermediate
-  duration: "2h"
-  image: "assets/images-events/The-Evolution-of-C#-and-JavaScrip-1.png"
-  githubUrl: "https://github.com/itenium-be/CSharp-JavaScript-New-Features"
+    
+  content: ""
+  level: 
+  duration: ""
+  image: ""
+  linkedIn: ""
 
 - name: ""
   by: ""
