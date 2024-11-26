@@ -24,26 +24,6 @@
   image: ""
   linkedIn: ""
 
-  - name: "DDD & BDD"
-  by: "Talisa & Mike"
-  event: "Soft Skills"
-  subTitle: "Talking in Front of a Group and Presentation Techniques"
-  date: 2024-11-07
-  summary: >
-    The session focused on practical techniques for presenting to groups and 
-    structuring ideas clearly. Highlights included managing stage presence, 
-    keeping an audience engaged, and conveying complex ideas effectively—key 
-    skills for anyone who is ever had to explain code in a meeting or present 
-    a project update.
-    <br>
-    Big thanks to Talisa and Mike for sharing insights that are bound to make 
-    a difference in our day-to-day!
-  content: "SoftSkill"
-  level: Introduction
-  duration: "4h"
-  image: "assets/images-events/Soft-Skills-1.png"
-  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7265680994786029568-ba70"
-
 - name: "ModernJS"
   by: "Wouter"
   event: "gent.devs"
