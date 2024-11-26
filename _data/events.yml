@@ -79,28 +79,38 @@
   twitter: "https://x.com/itenium_be/status/1859552439352910029"
   facebook: "https://www.facebook.com/share/p/14MyZEf6yo/"
 
-- name: "DDD & BDD"
-  by: "Gaëtan"
-  subTitle: ""
+- name: "Soft Skill Sessie"
+  by: "Talisa & Mike"
+  subTitle: "Talking in Front of a Group and Presentation Techniques"
   date: 2024-11-07
-  hide: true
   track: "ArchitectureTrack"
   summary: >
-
+    The session focused on practical techniques for presenting to groups and 
+    structuring ideas clearly. Highlights included managing stage presence, 
+    keeping an audience engaged, and conveying complex ideas effectively—key 
+    skills for anyone who is ever had to explain code in a meeting or present 
+    a project update.
+    <br>
+    Big thanks to Talisa and Mike for sharing insights that are bound to make 
+    a difference in our day-to-day!
   level: Introduction
-  content: ""
-  type: [""]
-  duration: "2h"
-  video: ""
-  image: ""
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  image: "assets/images-events/Soft-Skills-Event-1.png"
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
+    - img: "assets/images-events/Soft-Skills-Event-2.jpg"
+      alt: "Mike in action during Itenium Soft Skill Sessie: Presentatietechnieken en Spreken voor Groep. This hands-on session focuses on mastering presentation techniques and speaking confidently in front of a group—ideal for developers aiming to enhance their communication skills and engage effectively with audiences."
+    - img: "assets/images-events/Soft-Skills-Event-3.jpg"
+      alt: "Talisa leads the discussion at Itenium Soft Skill Sessie: Presentatietechnieken en Spreken voor Groep, sharing valuable insights on how to captivate an audience and deliver impactful presentations with confidence."
+    - img: "assets/images-events/Soft-Skills-Event-4.jpg"
+      alt: "A presentation slide on effective presentation techniques highlights strategies such as PowerPoint design, audience interaction, Pecha Kucha, elevator pitches, TED Talk styles, and live drawing, all aimed at enhancing engaging communication skills and captivating your audience."
+    - img: "assets/images-events/Soft-Skills-Event-5.jpg"
+      alt: "Participants are gathered around a checkered table in a cozy, rustic room with warm lighting and an elegant chandelier, setting the stage for a relaxed yet focused environment. Talisa leads the session at the front, presenting a slide titled *Wat is een goede presentatie?*, while attendees engage attentively, contributing to an interactive and collaborative learning atmosphere."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7265680994786029568-ba70"
+  facebook: "https://www.facebook.com/share/p/19FKHTTBL5/"
+  twitter: "https://x.com/itenium_be/status/1859914843165262266"
+
 
 - name: "MicroServices"
   subTitle: "The next architecture to be covered in our ArchitectureTrack!"
@@ -234,29 +244,6 @@
   twitter: "https://x.com/itenium_be/status/1844679452954907121"
   facebook: "https://www.facebook.com/share/p/9LthuTqbWnVVkyiD/"
   tldv: "https://tldv.io/app/meetings/66f449d06b60f500124c1ee5"
-
-- name: "Blazor"
-  by: Bert
-  subTitle: "Let's build something with Blazor!"
-  date: 2024-09-19
-  hide: true
-  track: "DotNetTrack"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
 
 
 - name: "Interstellar"
