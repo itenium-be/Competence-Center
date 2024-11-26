@@ -238,29 +238,6 @@
   facebook: "https://www.facebook.com/share/p/9LthuTqbWnVVkyiD/"
   tldv: "https://tldv.io/app/meetings/66f449d06b60f500124c1ee5"
 
-- name: "Blazor"
-  by: Bert
-  subTitle: "Let's build something with Blazor!"
-  date: 2024-09-19
-  hide: true
-  track: "DotNetTrack"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
-
 
 - name: "Interstellar"
   subTitle: "10 Year Anniversary @ Kinepolis Antwerp"
