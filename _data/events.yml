@@ -97,15 +97,13 @@
   content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
-  image: ""
+  image: "assets/images-events/Soft-Skills-Event-1.png"
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-  tldv: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7265680994786029568-ba70"
+  facebook: "https://www.facebook.com/share/p/19FKHTTBL5/"
+  twitter: "https://x.com/itenium_be/status/1859914843165262266"
+
 
 - name: "MicroServices"
   subTitle: "The next architecture to be covered in our ArchitectureTrack!"
