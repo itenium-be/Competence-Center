@@ -1,3 +1,17 @@
+- name: "Devoxx"
+  by: "Simon"
+  event: "Devoxx"
+  date: 2024-10-03
+  summary: >
+    Devoxx 2024 was an incredible event, offering insightful 
+    experiences and a great chance to reconnect with familiar 
+    faces while meeting new ones.
+  content: "Code-Show"
+  level: Introduction
+  duration: "2h58min"
+  image: ""
+  linkedIn: "https://www.linkedin.com/posts/simonverhoeven_devoxx-activity-7250694845541838848-NoDw"
+
 - name: "ModernJS"
   by: "Wouter"
   event: "gent.devs"
