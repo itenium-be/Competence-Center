@@ -1,14 +1,16 @@
-- name: "Devoxx"
+- name: "We all grow older, but do our projects really have to"
   by: "Simon"
   event: "Devoxx"
-  date: 2024-10-03
+  date: 2023-10-03
   summary: >
-    Devoxx 2024 was an incredible event, offering insightful 
-    experiences and a great chance to reconnect with familiar 
-    faces while meeting new ones.
+    Simon Verhoeven's talk demonstrated how OpenRewrite automates 
+    the updating of legacy projects, including dependency migrations 
+    and security fixes. Using semantic analysis, the tool helps 
+    developers efficiently upgrade codebases and transition to newer 
+    technologies with minimal manual effort.
   content: "Code-Show"
   level: Introduction
-  duration: "2h58min"
+  duration: "30min"
   image: "assets/images-events/Devoxx-1.png"
   linkedIn: "https://www.linkedin.com/posts/simonverhoeven_devoxx-activity-7250694845541838848-NoDw"
 
@@ -27,7 +29,7 @@
   level: Introduction
   duration: "40m"
   image: "assets/images-events/Public-Speaking-Modern JS.png"
-  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-modernjs-publicspeaking-activity-7178345170629738496-LcR0?utm_source=share&utm_medium=member_desktop"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-modernjs-publicspeaking-activity-7178345170629738496-LcR0"
 
 - name: "MITechCon"
   by: "Wouter"
