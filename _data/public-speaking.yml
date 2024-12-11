@@ -11,7 +11,7 @@
   content: "Code-Show"
   level: Introduction
   duration: "30min"
-  image: ""
+  image: "assets/images-events/Devoxx-Simon-1.png"
   linkedIn: "https://www.linkedin.com/posts/simonverhoeven_devoxx-activity-7250694845541838848-NoDw"
 
 - name: "ModernJS"
