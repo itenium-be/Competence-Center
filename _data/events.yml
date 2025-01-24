@@ -11,6 +11,94 @@
 
 
 
+- name: "Tech Café 1"
+  subTitle: ""
+  date: 2025-02-28
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "PO & Analyse - sessie 1"
+  subTitle: ""
+  date: 2025-02-05
+  hide: true
+  track: "QAEvent"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Interviewing and interviewing techniques"
+  subTitle: ""
+  date: 2025-02-12
+  hide: true
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Kantoordagje - itenium on the move"
+  subTitle: ""
+  date: 2025-02-18
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
 - name: "New Year Event"
   subTitle: ""
   date: 2025-01-31
@@ -18,6 +106,75 @@
   track: "FunEvent"
   summary: >
 
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Performance oriented Spring Data JPA & Hibernate"
+  subTitle: ""
+  date: 2025-01-30
+  hide: true
+  track: "JavaTrack"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: ".NET Sessie 1"
+  subTitle: ""
+  date: 2025-01-23
+  hide: true
+  track: "DotNetTrack"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "QA minded: support & sharesession"
+  subTitle: ""
+  date: 2025-01-09
+  hide: true
+  track: "QAEvent
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
   duration: "4h"
   video: ""
   image: ""
@@ -229,7 +386,7 @@
   level: Introduction
   content: "Code-Show"
   type: [ "Virtual" ]
-  duration: "1h17m"
+  duration: "1h17m" 
   image: "assets/images-events/Java-Track-Handige-Tools-1.png"
   gallery:
     - img: "assets/images-events/Java-Track-Handige-Tools-2.png"
