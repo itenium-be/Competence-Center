@@ -67,7 +67,7 @@
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
-  duration: "4h"
+  duration: "8h"
   video: ""
   image: ""
   gallery:
@@ -79,7 +79,7 @@
   blogPost: ""
 
 
-- name: "Test managment: tools and experience"
+- name: "Test management: tools and experience"
   subTitle: ""
   date: 2025-04-24
   hide: true
@@ -174,7 +174,7 @@
   summary: >
 
   type: ["On-Site"]
-  duration: "4h"
+  duration: "8h"
   video: ""
   image: ""
   gallery:
@@ -230,17 +230,17 @@
 
 
 
-- name: ".NET Sessie 1"
-  subTitle: ""
+- name: "Evolution of C#"
+  subTitle: "What's new in C# and how has it evolved over time?"
   date: 2025-01-23
   hide: true
   track: "DotNetTrack"
   summary: >
 
   level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "4h"
+  content: "Code-Show"
+  type: ["Virtual"]
+  duration: "1h30m"
   video: ""
   image: ""
   gallery:
@@ -248,7 +248,7 @@
   linkedIn: ""
   instagram: ""
   twitter: ""
-  githubUrl: ""
+  githubUrl: "https://github.com/itenium-be/CSharp-Features"
   blogPost: ""
 
 
@@ -262,6 +262,28 @@
 
   level: Introduction
   content: "Hands-On"
+  type: ["Virtual"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Kerstdrink itenium"
+  subTitle: ""
+  date: 2025-01-09
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -273,7 +295,6 @@
   twitter: ""
   githubUrl: ""
   blogPost: ""
-
 
 
 - name: "Angular KrisKras"
