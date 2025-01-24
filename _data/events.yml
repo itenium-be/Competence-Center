@@ -11,6 +11,94 @@
 
 
 
+- name: "Tech Café 2"
+  subTitle: ""
+  date: 2025-04-30
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Fun Event - TBD"
+  subTitle: ""
+  date: 2025-03-13
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
+- name: "Bootcamp"
+  subTitle: ""
+  date: 2025-03-28
+  hide: true
+  track: "Bootcamp"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Test managment: tools and experience"
+  subTitle: ""
+  date: 2025-04-24
+  hide: true
+  summary: >
+
+  type: ["Virtual"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+
 - name: "Tech Café 1"
   subTitle: ""
   date: 2025-02-28
