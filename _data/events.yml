@@ -295,24 +295,21 @@
 
 
 - name: "Kerstdrink itenium"
-  subTitle: ""
   date: 2025-01-09
-  hide: true
   track: "FunEvent"
   summary: >
 
   level: Introduction
   type: ["On-Site"]
   duration: "4h"
-  video: ""
   image: ""
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_kerstdrink-itenium-goodvibes-activity-7292859981446467584-CmSL"
+  instagram: "https://www.instagram.com/p/DF7afIXBKcu"
+  twitter: "https://x.com/itenium_be/status/1887093862914543718"
+  facebook: "https://www.facebook.com/share/p/14wT4X5T7q/"
+
 
 
 - name: "Angular KrisKras"
