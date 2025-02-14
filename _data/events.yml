@@ -298,13 +298,24 @@
   date: 2025-01-09
   track: "FunEvent"
   summary: >
-
+    A festive recap of Itenium Kerstdrink!
+    <br><br>
+    Great food, drinks, and company made for a warm 
+    celebration at the office. From homemade pulled 
+    pork to a festive veggie alternative, there was 
+    something for everyone. And the Christmas sweaters? 
+    A perfect mix of stylish and hilariously questionable!
+    <br><br>
+    Thanks to everyone who joined—here is to an amazing 2025!
   level: Introduction
   type: ["On-Site"]
   duration: "4h"
-  image: ""
+  image: "assets/images-events/Kerstdrink-Itenium-1.jpg"
   gallery:
-    - ""
+    - img: "assets/images-events/Kerstdrink-Itenium-2.jpg"
+      alt: "Colleagues together for a festive outdoor celebration, featuring warm drinks, a crackling fire, and joyful holiday vibes."
+    - img: "assets/images-events/Kerstdrink-Itenium-3.jpg"
+      alt: "Itenium colleagues around a warm fire, enjoying festive drinks, good company, and the holiday spirit under the winter night sky."
   linkedIn: "https://www.linkedin.com/posts/itenium_kerstdrink-itenium-goodvibes-activity-7292859981446467584-CmSL"
   instagram: "https://www.instagram.com/p/DF7afIXBKcu"
   twitter: "https://x.com/itenium_be/status/1887093862914543718"
