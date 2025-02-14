@@ -208,17 +208,15 @@
     Here is to another year of achievements and unexpected adventures!
   duration: "4h"
   video: "https://www.youtube.com/embed/XJh5hFL1DBM?si=N_Z3-vVSRxeQxia2"
-  image: ""
+  image: "assets/images-events/New-Year-Event-2025-1.jpg"
   gallery:
-   - img: ""
+   - img: "assets/images-events/New-Year-Event-2025-2.jpg"
      alt: 
-   - img: ""
+   - img: "assets/images-events/New-Year-Event-2025-3.jpg"
      alt: 
-     - img: ""
+   - img: "assets/images-events/New-Year-Event-2025-4.jpg"
      alt: 
-   - img: ""
-     alt: 
-   - img: ""
+   - img: "assets/images-events/New-Year-Event-2025-5.jpg"
      alt: 
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-techevents-competencecenters-activity-7295396521607376897-qR9p"
   instagram: "https://www.instagram.com/reel/DF-GY8xiqzO/"
