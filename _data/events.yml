@@ -188,9 +188,7 @@
 
 
 - name: "New Year Event"
-  subTitle: ""
   date: 2025-01-31
-  hide: true
   track: "FunEvent"
   summary: >
     At our New Year event at Seminariecentrum Gent, we looked back 
