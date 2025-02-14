@@ -188,22 +188,40 @@
 
 
 - name: "New Year Event"
-  subTitle: ""
   date: 2025-01-31
-  hide: true
   track: "FunEvent"
   summary: >
-
+    At our New Year event at Seminariecentrum Gent, we looked back 
+    on Iteniums 2024 achievements and shared our vision for 2025—featuring 
+    more tech sessions, exciting events, and engaging projects.
+    <br><br>
+    We outlined plans for our Java, .NET, QA, and PO&Analysis Competence 
+    Centers, reinforcing our commitment to top-tier IT consultancy. After 
+    the speeches, we enjoyed a great dinner before the first-ever Itenium 
+    World Championship Oude Volksspelen, where Bert and Wouter showed their 
+    competitive edge beyond .NET.
+    <br><br>
+    The night wrapped up with drinks, socializing, and a fun challenge—matching 
+    wild personal anecdotes to their owners. From WWII bomb discoveries to a 
+    secret office soup mafia, some stories were truly explosive. 
+    <br><br>
+    Here is to another year of achievements and unexpected adventures!
   duration: "4h"
-  video: ""
-  image: ""
+  video: "https://www.youtube.com/embed/XJh5hFL1DBM?si=N_Z3-vVSRxeQxia2"
+  image: "assets/images-events/New-Year-Event-2025-1.jpg"
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+   - img: "assets/images-events/New-Year-Event-2025-2.jpg"
+     alt: "Colleagues at Itenium’s New Year Event 2025 enjoy wooden tabletop games in a stylish venue, fostering teamwork and fun."
+   - img: "assets/images-events/New-Year-Event-2025-3.jpg"
+     alt: "Attendees at Itenium’s New Year Event 2025 listen as Steven presents highlights of past and upcoming fun events, showcasing team activities and engagement."
+   - img: "assets/images-events/New-Year-Event-2025-4.jpg"
+     alt: "Colleagues at Itenium’s New Year Event 2025 compete in a tabletop game, focusing on strategy and precision while enjoying friendly competition."
+   - img: "assets/images-events/New-Year-Event-2025-5.jpg"
+     alt: "A setup of various wooden tabletop games ready for play at Itenium’s New Year Event 2025, creating an inviting space for fun and friendly competition."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-techevents-competencecenters-activity-7295396521607376897-qR9p"
+  instagram: "https://www.instagram.com/reel/DF-GY8xiqzO/"
+  twitter: "https://x.com/itenium_be/status/1889630603101773874"
+  facebook: "https://www.facebook.com/share/v/15c8EKePq1/"
 
 
 
