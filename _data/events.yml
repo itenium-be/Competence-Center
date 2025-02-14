@@ -210,7 +210,16 @@
   video: "https://www.youtube.com/embed/XJh5hFL1DBM?si=N_Z3-vVSRxeQxia2"
   image: ""
   gallery:
-    - ""
+   - img: ""
+     alt: 
+   - img: ""
+     alt: 
+     - img: ""
+     alt: 
+   - img: ""
+     alt: 
+   - img: ""
+     alt: 
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-techevents-competencecenters-activity-7295396521607376897-qR9p"
   instagram: "https://www.instagram.com/reel/DF-GY8xiqzO/"
   twitter: "https://x.com/itenium_be/status/1889630603101773874"
