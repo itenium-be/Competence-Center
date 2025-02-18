@@ -11,18 +11,22 @@
   image: ""
   linkedIn: ""
 
-- name: ""
-  by: ""
-  event: ""
-  subTitle: ""
-  date: 
+- name: "Redux Reborn: Embracing Modern State Management with Redux Toolkit (RTK) v5"
+  by: "Wouter"
+  event: "devs.gent"
+  date: 2025-01-29
   summary: >
-    
-  content: ""
-  level: 
-  duration: ""
+    Itenium’s Wouter Van Schandevijl led a deep dive into 
+    ReduxJS/Toolkit—the modern way to handle state management—at 
+    Aikido, 9000 Gent. Starting with a classic "TODO App," he 
+    guided attendees through the Mythical Zoos and Enchanted 
+    Gardens of RTK Query and createAsyncThunk. A great session 
+    filled with hands-on learning and fun!
+  content: "Code-Show"
+  level: Intorduction
+  duration: "1h"
   image: ""
-  linkedIn: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_reduxjs-react-rtk-activity-7290262796825513985-T3qC"
 
 - name: "We all grow older, but do our projects really have to"
   by: "Simon"
