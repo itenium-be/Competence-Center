@@ -161,7 +161,10 @@
   duration: "4h"
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
+  - img: ""
+    alt: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-techcareers-interviewskills-activity-7297208506766491648-3dT1"
   facebook: "https://www.facebook.com/share/p/19sAoNeveB/"
   twitter: "https://x.com/itenium_be/status/1891442717537788251"
@@ -180,7 +183,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -264,7 +268,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -287,7 +292,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -339,7 +345,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
