@@ -146,24 +146,26 @@
 
 
 - name: "Interviewing and interviewing techniques"
-  subTitle: ""
+  by: "Talisa &  Michael Branders"
   date: 2025-02-12
-  hide: true
   summary: >
-
+    We explored the art of interviewing from both sides of 
+    the table. Talisa and Michael Branders shared valuable 
+    insights on asking the right questions, identifying top 
+    talent, and presenting yourself effectively. A session 
+    filled with practical tips and real-world scenarios—thanks 
+    to everyone who joined!
   level: Introduction
   content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
-  video: ""
   image: ""
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-techcareers-interviewskills-activity-7297208506766491648-3dT1"
+  facebook: "https://www.facebook.com/share/p/19sAoNeveB/"
+  twitter: "https://x.com/itenium_be/status/1891442717537788251"
+
 
 
 - name: "Kantoordagje - itenium on the move"
