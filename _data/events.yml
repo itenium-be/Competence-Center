@@ -159,12 +159,12 @@
   content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
-  image: ""
+  image: "assets/images-events/Interviewing-and-Interviewing-Techniques-1.jpg"
   gallery:
-  - img: ""
-    alt: ""
-  - img: ""
-    alt: ""
+  - img: "assets/images-events/Interviewing-and-Interviewing-Techniques-2.jpg"
+    alt: "Itenium colleagues networking over a meal during a break in the Interviewing and Interviewing Techniques workshop."
+  - img: "assets/images-events/Interviewing-and-Interviewing-Techniques-3.jpg"
+    alt: "Itenium colleagues engaged in an interactive Interviewing and Interviewing Techniques workshop, with facilitators leading a discussion in a professional setting."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-techcareers-interviewskills-activity-7297208506766491648-3dT1"
   facebook: "https://www.facebook.com/share/p/19sAoNeveB/"
   twitter: "https://x.com/itenium_be/status/1891442717537788251"
