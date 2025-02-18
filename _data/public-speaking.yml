@@ -16,12 +16,9 @@
   event: "devs.gent"
   date: 2025-01-29
   summary: >
-    Wouter Van Schandevijl from Itenium led a deep dive into 
-    ReduxJS/Toolkit—the modern way to handle state management—at 
-    Aikido, 9000 Gent. Starting with a classic "TODO App," he 
-    guided attendees through the Mythical Zoos and Enchanted 
-    Gardens of RTK Query and createAsyncThunk. A great session 
-    filled with hands-on learning and fun!
+    A great session demonstrating the power of the toolkit, 
+    filled with practical tips on getting started and migrating 
+    from legacy Redux.
   content: "Code-Show"
   level: Intorduction
   duration: "1h"
