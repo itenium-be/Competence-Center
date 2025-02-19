@@ -346,10 +346,12 @@
   content: "Hands-On"
   type: ["On-Site"]
   duration: "2h"
-  image: ""
+  image: "assets/images-events/Angular-Kriskras-1.png"
   gallery:
-  - img: ""
-    alt: ""
+  - img: "assets/images-events/Angular-Kriskras-2.jpg"
+    alt: "A focused Angular Kriskras coding session in a stylish venue, where developers engage in hands-on programming, collaboration, and knowledge-sharing, illuminated by a projected code display."
+  - img: "assets/images-events/Angular-Kriskras-3.jpg"
+    alt: "An interactive Angular Kriskras coding workshop, where developers collaborate in a cozy venue, immersed in live coding, problem-solving, and a fun, engaging atmosphere."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-ugcPost-7285656235830304768-YQ1r/"
   instagram: "https://www.instagram.com/p/DE7Jtwutbqv"
   facebook: "https://www.facebook.com/share/p/15r64FA1GG/"
