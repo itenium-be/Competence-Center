@@ -334,24 +334,24 @@
 - name: "Angular KrisKras"
   subTitle: "RXJS, ReactiveForms, Redux & Angular Day"
   date: 2024-12-05
-  hide: true
   track: "FrontendTrack"
   summary: >
+    What a session! We covered Angular and TypeScript best practices 
+    (should you use inheritance for components?), folder structures, 
+    Redux (shoutout to the ReduxJS Toolkit Style Guide!), and even 
+    the latest Angular 19 updates like the new template syntax and 
+    Signals. 
 
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
   duration: "2h"
-  video: ""
-  image: ""
-  gallery:
-  - img: ""
-    alt: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  image: "assets/images-events/Angular-Kriskras-1.png"
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-ugcPost-7285656235830304768-YQ1r/"
+  instagram: "https://www.instagram.com/p/DE7Jtwutbqv"
+  facebook: "https://www.facebook.com/share/p/15r64FA1GG/"
+  twitter: "https://x.com/itenium_be/status/1880208450916941910"
+
 
 
 - name: "Curling"
