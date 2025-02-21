@@ -172,12 +172,20 @@
 
 
 - name: "Kantoordagje - itenium on the move"
-  subTitle: ""
   date: 2025-02-18
-  hide: true
   track: "FunEvent"
   summary: >
-
+    We kicked off our very first Itenium Office Day, bringing colleagues 
+    together for a mix of work, food, and knowledge-sharing. While the 
+    search for our new office continues, we gathered in Gent @ Buro532 to 
+    connect and collaborate.
+    <br><br>
+    To wrap up the day, we held an open-space session, where everyone voted
+    on and discussed key topics, including SonarQube, Dependabot, Agile in
+    Practice, and Integrating AI in Projects.
+    <br><br>
+    A great start to what promises to be an exciting tradition! Shoutout to 
+    our competence coaches for putting this day together!
   type: ["On-Site"]
   duration: "8h"
   video: ""
@@ -185,11 +193,11 @@
   gallery:
   - img: ""
     alt: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-officeday-techtalks-activity-7298657768989749249-HY4J"
+  instagram: "https://www.instagram.com/p/DGVRj6GCgxV/"
+  twitter: "https://x.com/itenium_be/status/1892892067791090026"
+  facebook: "https://www.facebook.com/share/p/16E2VHADcS/"
+
 
 
 
