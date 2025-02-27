@@ -188,11 +188,12 @@
     our competence coaches for putting this day together!
   type: ["On-Site"]
   duration: "8h"
-  video: ""
-  image: ""
+  image: "assets/images-events/Kantoordagje-1.jpg"
   gallery:
-  - img: ""
-    alt: ""
+  - img: "assets/images-events/Kantoordagje-2.jpg"
+    alt: "Itenium colleagues are actively engaged in high-impact tasks, from coding and problem-solving to brainstorming and tech discussions."
+  - img: "assets/images-events/Kerstdrink-Itenium-3.jpg"
+    alt: "A dynamic coworking session at Buro532 in Gent, where Itenium professionals collaborate, innovate, and deep-dive into coding and knowledge-sharing. The modern workspace, productivity-driven setup, and engaging discussions foster teamwork and professional growth."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-officeday-techtalks-activity-7298657768989749249-HY4J"
   instagram: "https://www.instagram.com/p/DGVRj6GCgxV/"
   twitter: "https://x.com/itenium_be/status/1892892067791090026"
