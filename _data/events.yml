@@ -238,6 +238,7 @@
 
 
 - name: "Evolution of C#"
+  by: "Bert"
   subTitle: "What's new in C# and how has it evolved over time?"
   date: 2025-01-23
   track: "DotNetTrack"
@@ -252,12 +253,14 @@
   content: "Code-Show"
   type: ["Virtual"]
   duration: "1h30m"
-  image: "assets/images-events/Evolution-of-C#-1.jpg"
+  image: ""
   gallery:
-  - img: "assets/images-events/Evolution-of-C#-2.jpg"
-    alt: "Presentation slide on advanced C# features, covering anonymous functions, lambda expressions, local functions, and exception handling with when guards."
-  - img: "assets/images-events/Evolution-of-C#-3.jpg"
-    alt: "Presentation slide explaining C# record classes, focusing on immutability, value comparison, and the with expression for copying objects."
+  - img: ""
+    alt: ""
+  - img: ""
+    alt: ""
+  - img: ""
+    alt: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_csharp-dotnet-development-activity-7291047680162607105-SRR_"
   instagram: "https://www.instagram.com/p/DF7abCChxH3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1885281970566856890"
