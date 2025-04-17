@@ -207,6 +207,7 @@
 
 
 - name: "Performance oriented Spring Data JPA & Hibernate"
+  by: "Michael" 
   date: 2025-01-30
   track: "JavaTrack"
   summary: >
