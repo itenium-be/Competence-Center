@@ -254,12 +254,16 @@
 
 
 - name: "Performance oriented Spring Data JPA & Hibernate"
-  subTitle: ""
   date: 2025-01-30
-  hide: true
   track: "JavaTrack"
   summary: >
-
+    At our latest Itenium event, we dove deep into optimizing 
+    Spring Data JPA & Hibernate for high-performance applications. 
+    From query efficiency to caching strategies, attendees 
+    explored best practices to avoid common pitfalls and boost 
+    database performance.
+    Missed out? Keep an eye on our upcoming events—more tech 
+    deep dives coming soon!
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
@@ -267,12 +271,17 @@
   video: ""
   image: ""
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+    - img: ""
+      alt: ""
+    - img: ""
+      alt: ""
+    - img: ""
+      alt: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_springdatajpa-hibernate-performanceoptimization-activity-7311341501941178370-G8Vf"
+  facebook: "https://www.facebook.com/share/p/196Ha2v3VC/"
+  twitter: "https://x.com/itenium_be/status/1905575766282137761"
+  githubUrl: "https://github.com/itenium-be/JPA-Hibernate-Performance"
+
 
 
 
