@@ -239,6 +239,7 @@
 
 
 - name: "Evolution of C#"
+  by: "Bert"
   subTitle: "What's new in C# and how has it evolved over time?"
   date: 2025-01-23
   track: "DotNetTrack"
@@ -253,12 +254,14 @@
   content: "Code-Show"
   type: ["Virtual"]
   duration: "1h30m"
-  image: "assets/images-events/Evolution-of-C#-1.jpg"
+  image: "assets/images-events/Evolution-of-C#-1.png"
   gallery:
   - img: "assets/images-events/Evolution-of-C#-2.jpg"
-    alt: "Presentation slide on advanced C# features, covering anonymous functions, lambda expressions, local functions, and exception handling with when guards."
+    alt: "Explore raw and multiline strings for cleaner formatting, dynamic text insertion, and easier text manipulation in C#. Improve code readability with practical examples."
   - img: "assets/images-events/Evolution-of-C#-3.jpg"
-    alt: "Presentation slide explaining C# record classes, focusing on immutability, value comparison, and the with expression for copying objects."
+    alt: "Learn how object initializers, anonymous types, and auto properties simplify object creation in C#. Write more concise, readable, and maintainable code."
+  - img: "assets/images-events/Evolution-of-C#-4.jpg"
+    alt: "Discover C# 8's null safety features like nullable reference types and the null-coalescing assignment to write safer and more reliable code."
   linkedIn: "https://www.linkedin.com/posts/itenium_csharp-dotnet-development-activity-7291047680162607105-SRR_"
   instagram: "https://www.instagram.com/p/DF7abCChxH3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   twitter: "https://x.com/itenium_be/status/1885281970566856890"
