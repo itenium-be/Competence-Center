@@ -34,26 +34,30 @@
 
 
 
-- name: "Fun Event - TBD"
-  subTitle: ""
+- name: "BattleKart 2025"
   date: 2025-03-13
-  hide: true
   track: "FunEvent"
   summary: >
-
+    Itenium BattleKart Madness Recap!
+    Speed, strategy, and some serious drifting skills—our 
+    BattleKart event was an epic ride! From power-ups to 
+    last-second takeovers, the competition was fierce, 
+    but in the end, Thomas claimed 1st place!
+    A huge shoutout to everyone who joined the race—whether 
+    you were boosting ahead or getting hit by a well-placed 
+    oil patch, it was a night to remember!
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
-  video: ""
+  video: "https://www.youtube.com/embed/XdLrrJPebvA?si=WhkS4GAX6Og8L2PK"
   image: ""
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-battlekart-iteniumevents-activity-7308805049344815104-f-EF"
+  instagram: "https://www.instagram.com/reel/DHdYVIwhgJQ/"
+  twitter: "https://x.com/itenium_be/status/1903039046211060002"
+  facebook: "https://www.facebook.com/share/v/1BAtTAXGw4/"
 
 
 
