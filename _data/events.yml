@@ -109,53 +109,6 @@
   blogPost: ""
 
 
-
-- name: "Tech Café 1"
-  subTitle: ""
-  date: 2025-02-28
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkill"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
-
-- name: "PO & Analyse - sessie 1"
-  subTitle: ""
-  date: 2025-02-05
-  hide: true
-  track: "QAEvent"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
-
 - name: "Interviewing and interviewing techniques"
   by: "Talisa &  Michael Branders"
   date: 2025-02-12
@@ -268,14 +221,13 @@
   content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
-  video: ""
-  image: ""
+  image: "assets/images-events/Performance-Oriented-Spring-Data-JPA-&-Hibernate-1.jpg"
   gallery:
-    - img: ""
+    - img: "assets/images-events/Performance-Oriented-Spring-Data-JPA-&-Hibernate-2.jpg"
       alt: ""
-    - img: ""
+    - img: "assets/images-events/Performance-Oriented-Spring-Data-JPA-&-Hibernate-3.jpg"
       alt: ""
-    - img: ""
+    - img: "assets/images-events/Performance-Oriented-Spring-Data-JPA-&-Hibernate-4.jpg"
       alt: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_springdatajpa-hibernate-performanceoptimization-activity-7311341501941178370-G8Vf"
   facebook: "https://www.facebook.com/share/p/196Ha2v3VC/"
