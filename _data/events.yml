@@ -109,53 +109,6 @@
   blogPost: ""
 
 
-
-- name: "Tech Café 1"
-  subTitle: ""
-  date: 2025-02-28
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkill"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
-
-- name: "PO & Analyse - sessie 1"
-  subTitle: ""
-  date: 2025-02-05
-  hide: true
-  track: "QAEvent"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
-
 - name: "Interviewing and interviewing techniques"
   by: "Talisa &  Michael Branders"
   date: 2025-02-12
@@ -254,25 +207,34 @@
 
 
 - name: "Performance oriented Spring Data JPA & Hibernate"
-  subTitle: ""
+  by: "Michael" 
   date: 2025-01-30
-  hide: true
   track: "JavaTrack"
   summary: >
-
+    At our latest Itenium event, we dove deep into optimizing 
+    Spring Data JPA & Hibernate for high-performance applications. 
+    From query efficiency to caching strategies, attendees 
+    explored best practices to avoid common pitfalls and boost 
+    database performance.
+    Missed out? Keep an eye on our upcoming events—more tech 
+    deep dives coming soon!
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
-  video: ""
-  image: ""
+  image: "assets/images-events/Performance-Oriented-Spring-Data-JPA-&-Hibernate-1.jpg"
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+    - img: "assets/images-events/Performance-Oriented-Spring-Data-JPA-&-Hibernate-2.jpg"
+      alt: "Slide about PostgreSQL performance showing that each connection creates a new OS process, uses 5–10MB of RAM, and causes CPU context switching — highlighting database efficiency tips."
+    - img: "assets/images-events/Performance-Oriented-Spring-Data-JPA-&-Hibernate-3.jpg"
+      alt: "Diagram showing database connection flow from application to database via DataSource and JDBC Driver, highlighting the role of the network. Includes key processes: TCP handshake, TLS negotiation, and authentication for secure database communication."
+    - img: "assets/images-events/Performance-Oriented-Spring-Data-JPA-&-Hibernate-4.jpg"
+      alt: "Code editor displaying Java Spring controller with a DIGMA overlay highlighting suspected N+1 query issue and low usage warning — showcasing real-time code observability and performance insights."
+  linkedIn: "https://www.linkedin.com/posts/itenium_springdatajpa-hibernate-performanceoptimization-activity-7311341501941178370-G8Vf"
+  facebook: "https://www.facebook.com/share/p/196Ha2v3VC/"
+  twitter: "https://x.com/itenium_be/status/1905575766282137761"
+  githubUrl: "https://github.com/itenium-be/JPA-Hibernate-Performance"
+
 
 
 
