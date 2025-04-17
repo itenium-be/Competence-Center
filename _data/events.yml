@@ -267,6 +267,7 @@
 
 
 - name: "QA minded: support & sharesession"
+  by: "Alexander"
   date: 2025-01-09
   track: "QAEvent"
   summary: >
