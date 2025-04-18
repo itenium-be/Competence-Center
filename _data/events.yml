@@ -69,25 +69,49 @@
 
 
 - name: "Bootcamp"
-  subTitle: ""
+  subTitle: "Home Automation"
+  by: "Mike"
   date: 2025-03-28
-  hide: true
   track: "Bootcamp"
   summary: >
-
+    The itenium bootcamp this year was all about "Home Automation". 
+    We kicked things off, as tradition goes, with breakfast, 
+    followed by the legendary "SMART HOUSE - REMA 1000" clip, 
+    a perfect reminder that maybe not everything should be 
+    automated.
+    <br><br>
+    Then it was time to get hands-on: teams like the Burnt 
+    Fingers Club and The Sparkonauts brought the heat -- literally, 
+    as they went about soldering their own smart sockets.
+    <br><br>
+    After dinner, we took things up a notch as we hooked the 
+    sockets and our sensor-loaded mini-houses to Home Assistant 
+    via one of the Raspberries. From the Cloud Cottage or 
+    The Overengineered Hut, everyone got a taste of smart living.
+    <br><br>
+    From solder fumes to smart rooms -- fueled by good vibes, 
+    snacks, and a closing reception. Till next year! 
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
   duration: "8h"
   video: ""
-  image: ""
+  image: "assets/images-events/Bootcamp-2025-1.jpg"
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+    - img: "assets/images-events/Bootcamp-2025-2.jpg"
+      alt: "A neatly arranged set of hand tools on a gray tiled surface, including screwdrivers, pliers, wrenches, utility knives, scissors, and a crimping tool—ready for various repair, construction, or DIY tasks."
+    - img: "assets/images-events/Bootcamp-2025-3.jpg"
+      alt: "A group of participants work intently on electronics projects at a long table, using circuit boards, wires, and laptops. Overhead ring lights brighten the collaborative, tech-focused workshop. One man in an orange shirt is particularly animated, capturing the hands-on, innovative spirit of the event."
+    - img: "assets/images-events/Bootcamp-2025-4.jpg"
+      alt: "In a bright, focused workspace, participants work on robotics and electronics projects with tools, wires, and laptops. The scene reflects active learning, teamwork, and creative problem-solving in a hands-on tech environment."
+    - img: "assets/images-events/Bootcamp-2025-5.jpg"
+      alt: "A hand holds a 3D-printed gray enclosure filled with organized wires, a blue relay module, and a microcontroller board. Set against a cutting mat and wood surface, the image highlights detail-oriented electronics work nearing completion."
+    - img: "assets/images-events/Bootcamp-2025-6.jpg"
+      alt: "Colorful LED string lights are wired to a small open enclosure containing a blue module and connected components. The setup sits on a wooden surface, illustrating a working DIY lighting project with custom control."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-bootcamp-levelup-activity-7315312606049689601-6lsb"
+  instagram: "https://www.instagram.com/p/DHdYVIwhgJQ/"
+  twitter: "https://x.com/itenium_be/status/1909546845803512016"
+  facebook: "https://www.facebook.com/share/v/1AJ26BX5SZ/"
 
 
 - name: "Test management: tools and experience"
