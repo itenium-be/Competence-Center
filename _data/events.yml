@@ -70,6 +70,7 @@
 
 - name: "Bootcamp"
   subTitle: "Home Automation"
+  by: "Mike"
   date: 2025-03-28
   track: "Bootcamp"
   summary: >
@@ -98,11 +99,10 @@
   image: ""
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-bootcamp-levelup-activity-7315312606049689601-6lsb"
+  instagram: "https://www.instagram.com/p/DHdYVIwhgJQ/"
+  twitter: "https://x.com/itenium_be/status/1909546845803512016"
+  facebook: "https://www.facebook.com/share/v/1AJ26BX5SZ/"
 
 
 - name: "Test management: tools and experience"
