@@ -69,12 +69,27 @@
 
 
 - name: "Bootcamp"
-  subTitle: ""
+  subTitle: "Home Automation"
   date: 2025-03-28
-  hide: true
   track: "Bootcamp"
   summary: >
-
+    The itenium bootcamp this year was all about "Home Automation". 
+    We kicked things off, as tradition goes, with breakfast, 
+    followed by the legendary "SMART HOUSE - REMA 1000" clip, 
+    a perfect reminder that maybe not everything should be 
+    automated.
+    <br><br>
+    Then it was time to get hands-on: teams like the Burnt 
+    Fingers Club and The Sparkonauts brought the heat -- literally, 
+    as they went about soldering their own smart sockets.
+    <br><br>
+    After dinner, we took things up a notch as we hooked the 
+    sockets and our sensor-loaded mini-houses to Home Assistant 
+    via one of the Raspberries. From the Cloud Cottage or 
+    The Overengineered Hut, everyone got a taste of smart living.
+    <br><br>
+    From solder fumes to smart rooms -- fueled by good vibes, 
+    snacks, and a closing reception. Till next year! 
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
