@@ -7,7 +7,9 @@
       <strong>{{event.name}}</strong>
    </h4>
    <strong>{{event.subTitle}}</strong>
-
+   {% if event.by %}
+      by {{ event.by | join: ', ' }}
+   {% endif %}
 
    {% if event.image != null and event.image != "" and event.video != null and event.video != "" %}
       <iframe width="560" height="315" src="{{ include.event.video }}"
