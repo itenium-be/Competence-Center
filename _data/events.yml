@@ -3,9 +3,6 @@
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
 
-# Asana TODOs:
-# https://app.asana.com/0/1207665151192492/board
-
 # For more details & a template:
 # https://github.com/itenium-be/Competence-Center/blob/master/_data/README.md
 
@@ -39,12 +36,12 @@
   track: "FunEvent"
   summary: >
     Itenium BattleKart Madness Recap!
-    Speed, strategy, and some serious drifting skills—our 
-    BattleKart event was an epic ride! From power-ups to 
-    last-second takeovers, the competition was fierce, 
+    Speed, strategy, and some serious drifting skills—our
+    BattleKart event was an epic ride! From power-ups to
+    last-second takeovers, the competition was fierce,
     but in the end,Thomas claimed 1st place!
-    A huge shoutout to everyone who joined the race—whether 
-    you were boosting ahead or getting hit by a well-placed 
+    A huge shoutout to everyone who joined the race—whether
+    you were boosting ahead or getting hit by a well-placed
     oil patch, it was a night to remember!
   level: Introduction
   content: "Hands-On"
@@ -110,14 +107,16 @@
 
 
 - name: "Interviewing and interviewing techniques"
-  by: "Talisa &  Michael Branders"
+  by:
+    - "Talisa Orens"
+    - "Michael Branders"
   date: 2025-02-12
   summary: >
-    We explored the art of interviewing from both sides of 
-    the table. Talisa and Michael Branders shared valuable 
-    insights on asking the right questions, identifying top 
-    talent, and presenting yourself effectively. A session 
-    filled with practical tips and real-world scenarios—thanks 
+    We explored the art of interviewing from both sides of
+    the table. Talisa and Michael Branders shared valuable
+    insights on asking the right questions, identifying top
+    talent, and presenting yourself effectively. A session
+    filled with practical tips and real-world scenarios—thanks
     to everyone who joined!
   level: Introduction
   content: "SoftSkill"
@@ -143,16 +142,16 @@
   date: 2025-02-18
   track: "FunEvent"
   summary: >
-    We kicked off our very first Itenium Office Day, bringing colleagues 
-    together for a mix of work, food, and knowledge-sharing. While the 
-    search for our new office continues, we gathered in Gent @ Buro532 to 
+    We kicked off our very first Itenium Office Day, bringing colleagues
+    together for a mix of work, food, and knowledge-sharing. While the
+    search for our new office continues, we gathered in Gent @ Buro532 to
     connect and collaborate.
     <br><br>
     To wrap up the day, we held an open-space session, where everyone voted
     on and discussed key topics, including SonarQube, Dependabot, Agile in
     Practice, and Integrating AI in Projects.
     <br><br>
-    A great start to what promises to be an exciting tradition! Shoutout to 
+    A great start to what promises to be an exciting tradition! Shoutout to
     our competence coaches for putting this day together!
   type: ["On-Site"]
   duration: "8h"
@@ -172,19 +171,19 @@
   date: 2025-01-31
   track: "FunEvent"
   summary: >
-    At our New Year event at Seminariecentrum Gent, we looked back 
-    on Iteniums 2024 achievements and shared our vision for 2025—featuring 
+    At our New Year event at Seminariecentrum Gent, we looked back
+    on Iteniums 2024 achievements and shared our vision for 2025—featuring
     more tech sessions, exciting events, and engaging projects.
     <br><br>
-    We outlined plans for our Java, .NET, QA, and PO&Analysis Competence 
-    Centers, reinforcing our commitment to top-tier IT consultancy. After 
-    the speeches, we enjoyed a great dinner before the first-ever Itenium 
-    World Championship Oude Volksspelen, where Bert and Wouter showed their 
+    We outlined plans for our Java, .NET, QA, and PO&Analysis Competence
+    Centers, reinforcing our commitment to top-tier IT consultancy. After
+    the speeches, we enjoyed a great dinner before the first-ever Itenium
+    World Championship Oude Volksspelen, where Bert and Wouter showed their
     competitive edge beyond .NET.
     <br><br>
-    The night wrapped up with drinks, socializing, and a fun challenge—matching 
-    wild personal anecdotes to their owners. From WWII bomb discoveries to a 
-    secret office soup mafia, some stories were truly explosive. 
+    The night wrapped up with drinks, socializing, and a fun challenge—matching
+    wild personal anecdotes to their owners. From WWII bomb discoveries to a
+    secret office soup mafia, some stories were truly explosive.
     <br><br>
     Here is to another year of achievements and unexpected adventures!
   duration: "4h"
@@ -207,16 +206,16 @@
 
 
 - name: "Performance oriented Spring Data JPA & Hibernate"
-  by: "Michael" 
+  by: "Michael Branders"
   date: 2025-01-30
   track: "JavaTrack"
   summary: >
-    At our latest Itenium event, we dove deep into optimizing 
-    Spring Data JPA & Hibernate for high-performance applications. 
-    From query efficiency to caching strategies, attendees 
-    explored best practices to avoid common pitfalls and boost 
+    At our latest Itenium event, we dove deep into optimizing
+    Spring Data JPA & Hibernate for high-performance applications.
+    From query efficiency to caching strategies, attendees
+    explored best practices to avoid common pitfalls and boost
     database performance.
-    Missed out? Keep an eye on our upcoming events—more tech 
+    Missed out? Keep an eye on our upcoming events—more tech
     deep dives coming soon!
   level: Introduction
   content: "Hands-On"
@@ -239,16 +238,16 @@
 
 
 - name: "Evolution of C#"
-  by: "Bert"
+  by: "Bert Vermorgen"
   subTitle: "What's new in C# and how has it evolved over time?"
   date: 2025-01-23
   track: "DotNetTrack"
   summary: >
-    During the .NET session *Evolution of C#*, we explored the 
-    language’s progression and its latest features in a live 
-    code showcase. We covered topics like pattern matching, 
-    nullability, records, structs, list initializers, and 
-    more—highlighting not just how they worked but why they 
+    During the .NET session *Evolution of C#*, we explored the
+    language’s progression and its latest features in a live
+    code showcase. We covered topics like pattern matching,
+    nullability, records, structs, list initializers, and
+    more—highlighting not just how they worked but why they
     improved code efficiency and expressiveness.
   level: Introduction
   content: "Code-Show"
@@ -271,20 +270,20 @@
 
 
 - name: "QA minded: support & sharesession"
-  by: "Alexander"
+  by: "Alexander Ryckeboer"
   date: 2025-01-09
   track: "QAEvent"
   summary: >
-    Itenium team gathered for a focused QA session, diving 
-    into real-world challenges, solutions, and war stories 
-    from the field. The goal? Exchanging insights and pressing 
+    Itenium team gathered for a focused QA session, diving
+    into real-world challenges, solutions, and war stories
+    from the field. The goal? Exchanging insights and pressing
     questions to elevate our QA and development practices.
-    Alexander also led a lively brainstorming session where 
-    everyone shared their thoughts on all things QA-related—from 
-    testing strategies to team collaboration. 
-    Key takeaway: When QA professionals and developers come 
-    together, the result is a stronger, more aligned approach 
-    to building quality software. 
+    Alexander also led a lively brainstorming session where
+    everyone shared their thoughts on all things QA-related—from
+    testing strategies to team collaboration.
+    Key takeaway: When QA professionals and developers come
+    together, the result is a stronger, more aligned approach
+    to building quality software.
   level: Introduction
   content: "Hands-On"
   type: ["Virtual"]
@@ -302,10 +301,10 @@
   summary: >
     A festive recap of Itenium Kerstdrink!
     <br><br>
-    Great food, drinks, and company made for a warm 
-    celebration at the office. From homemade pulled 
-    pork to a festive veggie alternative, there was 
-    something for everyone. And the Christmas sweaters? 
+    Great food, drinks, and company made for a warm
+    celebration at the office. From homemade pulled
+    pork to a festive veggie alternative, there was
+    something for everyone. And the Christmas sweaters?
     A perfect mix of stylish and hilariously questionable!
     <br><br>
     Thanks to everyone who joined—here is to an amazing 2025!
@@ -330,11 +329,11 @@
   date: 2024-12-05
   track: "FrontendTrack"
   summary: >
-    What a session! We covered Angular and TypeScript best practices 
-    (should you use inheritance for components?), folder structures, 
-    Redux (shoutout to the ReduxJS Toolkit Style Guide!), and even 
-    the latest Angular 19 updates like the new template syntax and 
-    Signals. 
+    What a session! We covered Angular and TypeScript best practices
+    (should you use inheritance for components?), folder structures,
+    Redux (shoutout to the ReduxJS Toolkit Style Guide!), and even
+    the latest Angular 19 updates like the new template syntax and
+    Signals.
 
   level: Introduction
   content: "Hands-On"
@@ -353,11 +352,11 @@
   date: 2024-11-14
   track: "FunEvent"
   summary: >
-    We swept our way to victory! Our Curling event in Zemst was an 
+    We swept our way to victory! Our Curling event in Zemst was an
     absolute delight! From rookie sliders to seasoned pros, everyone
     had a fantastic time on the ice.
     <br><br>
-    We laughed, cheered, and embraced some unexpected twists and turns 
+    We laughed, cheered, and embraced some unexpected twists and turns
     along the way. Who is ready to take on the curling challenge next?
   duration: "2h"
   image: "assets/images-events/Curling-1.jpg"
@@ -375,17 +374,19 @@
   facebook: "https://www.facebook.com/share/p/14MyZEf6yo/"
 
 - name: "Soft Skill Sessie"
-  by: "Talisa & Mike"
+  by:
+    - "Talisa Orens"
+    - "Mike Dumportier"
   subTitle: "Talking in Front of a Group and Presentation Techniques"
   date: 2024-11-07
   summary: >
-    The session focused on practical techniques for presenting to groups and 
-    structuring ideas clearly. Highlights included managing stage presence, 
-    keeping an audience engaged, and conveying complex ideas effectively—key 
-    skills for anyone who is ever had to explain code in a meeting or present 
+    The session focused on practical techniques for presenting to groups and
+    structuring ideas clearly. Highlights included managing stage presence,
+    keeping an audience engaged, and conveying complex ideas effectively—key
+    skills for anyone who is ever had to explain code in a meeting or present
     a project update.
     <br>
-    Big thanks to Talisa and Mike for sharing insights that are bound to make 
+    Big thanks to Talisa and Mike for sharing insights that are bound to make
     a difference in our day-to-day!
   level: Introduction
   content: "SoftSkill"
@@ -411,17 +412,17 @@
   date: 2024-10-17
   track: "ArchitectureTrack"
   summary: >
-    Our latest ArchitectureTrack session covered "Microservices Patterns" 
-    from Chris Richardson. Highlighting the huge advantages of a Microservice 
-    architecture while also being a cautionary tale: there are significant 
-    obstacles to overcome before you can be successful with them; and building 
-    a monolith with for example a hexagonal architecture could just be much 
+    Our latest ArchitectureTrack session covered "Microservices Patterns"
+    from Chris Richardson. Highlighting the huge advantages of a Microservice
+    architecture while also being a cautionary tale: there are significant
+    obstacles to overcome before you can be successful with them; and building
+    a monolith with for example a hexagonal architecture could just be much
     better for your team(s)!
     <br><br>
-    That being said, "<i>if you find yourself in a hole, stop digging</i>", 
-    we discussed how it's typically best to start with a monolith but how you 
-    can refactor towards microservices using different strategies and what 
-    application and infrastructure patterns you need to apply to avoid every 
+    That being said, "<i>if you find yourself in a hole, stop digging</i>",
+    we discussed how it's typically best to start with a monolith but how you
+    can refactor towards microservices using different strategies and what
+    application and infrastructure patterns you need to apply to avoid every
     outage being like a murder mystery.
     <br><br>
     Some of the topics covered:
@@ -463,27 +464,27 @@
   date: 2024-10-03
   track: "QAEvent"
   summary: >
-    The game that was the SQL Training started with a hickup, 
-    other machines were not discoverable on the guest network 
-    so the leaderboard server had to be deployed on an external 
-    server -- while everyone was already solving exercises! This 
-    messed up our scoreboard considerably, especially the ranking 
+    The game that was the SQL Training started with a hickup,
+    other machines were not discoverable on the guest network
+    so the leaderboard server had to be deployed on an external
+    server -- while everyone was already solving exercises! This
+    messed up our scoreboard considerably, especially the ranking
     for "solved fastest" 😊
     <br><br>
-    After this it was pretty smooth sailing. Tom found an error in 
-    the calculation of the query to calculate the average GDP per 
-    capita in South America. That and other small issues were fixed 
+    After this it was pretty smooth sailing. Tom found an error in
+    the calculation of the query to calculate the average GDP per
+    capita in South America. That and other small issues were fixed
     on the spot, on production -- as it should! 😉
     <br><br>
-    Even though we had definitely said "no cheating", Alexander came 
-    to the correct amount of penalties by doing <code>COUNT(0)+4</code> 
-    and Mike found the countries with a GDP > Europe by doing 
+    Even though we had definitely said "no cheating", Alexander came
+    to the correct amount of penalties by doing <code>COUNT(0)+4</code>
+    and Mike found the countries with a GDP > Europe by doing
     <code>WHERE GDP>3425956000000</code>. Straight to jail!
     <br><br>
-    In the end Michael proved too strong and with 63 points, he went 
+    In the end Michael proved too strong and with 63 points, he went
     home with the title of itenium SQL Master and the gaming cup!
 
-  level: Intermediate 
+  level: Intermediate
   content: "Hands-On"
   type: ["On-Site"]
   duration: "2h"
@@ -501,7 +502,7 @@
       alt: "SQL programmers be like — ready to stretch, crack their knuckles, and hit that Caps Lock like they're prepping for the Olympic all-caps SELECT statement."
     - img: "assets/images-events/SQL-Training-5.png"
       alt: "A black ceramic mug designed like a gaming controller, with handles mimicking a gamepad's D-pad and colorful buttons—a perfect prize for Michael's gaming victory."
-    - img: "assets/images-events/SQL-Training-8.png"  
+    - img: "assets/images-events/SQL-Training-8.png"
       alt: "PostgreSQL training interface with exercises on joining teachers and departments data and calculating GDP per capita for countries with over 20 million people."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-itdevelopment-activity-7254793912874070016-qDrS"
   instagram: "https://www.instagram.com/p/DBdmiBfOVq2/?img_index=1"
@@ -511,20 +512,20 @@
   blogPost: "https://itenium.be/blog/databases/sql-training/"
 
 - name: "Handige tools &/of frameworks"
-  by: Simon
+  by: Simon Verhoeven
   subTitle: "Welke tools en/of frameworks zijn handig om te kennen?"
   date: 2024-09-25
   track: "JavaTrack"
   summary: >
-    The Java Track: Handige Tool session covered tools to 
-    enhance Java development, including debugging, code quality 
-    checkers, dependency management, and performance monitoring, 
-    with developers sharing practical tips for everyday 
+    The Java Track: Handige Tool session covered tools to
+    enhance Java development, including debugging, code quality
+    checkers, dependency management, and performance monitoring,
+    with developers sharing practical tips for everyday
     challenges.
   level: Introduction
   content: "Code-Show"
   type: [ "Virtual" ]
-  duration: "1h17m" 
+  duration: "1h17m"
   image: "assets/images-events/Java-Track-Handige-Tools-1.png"
   gallery:
     - img: "assets/images-events/Java-Track-Handige-Tools-2.png"
@@ -729,7 +730,7 @@
   facebook: "https://www.facebook.com/share/v/u1DaMnvHhCKPEKsa/"
 
 - name: "ASP.NET WebApi"
-  by: "Bert"
+  by: "Bert Vermorgen"
   date: 2024-05-30
   track: "DotNetTrack"
   summary: >
@@ -783,7 +784,7 @@
 
 
 - name: "SpringBoot"
-  by: "Michael"
+  by: "Michael Branders"
   date: 2024-05-22
   track: "JavaTrack"
   summary: >
@@ -838,7 +839,7 @@
 
 
 - name: "Product & Analysis Competence Center"
-  by: "Sofie"
+  by: "Sofie Vinck"
   date: 2024-05-15
   track: "QAEvent"
   summary: >
@@ -866,7 +867,7 @@
 
 
 - name: "Lockpicking"
-  by: "David"
+  by: "David Sverdlov"
   subTitle: "What to do if you lose your keys?"
   date: 2024-05-02
   track: "FunEvent"
@@ -900,7 +901,7 @@
 
 
 - name: "3D-Modelling"
-  by: "Tom"
+  by: "Tom Pauwaert"
   subTitle: "Create your first 3D model / world."
   date: 2024-03-15
   summary: >
@@ -1057,7 +1058,7 @@
 
 
 - name: "Quiz by Mike!"
-  by: Mike
+  by: Mike Dumortier
   date: 2023-11-09
   summary: >
     Today, we reflect on a delightfully entertaining quiz hosted by Mike—an all-encompassing
@@ -1123,7 +1124,7 @@
 
 
 - name: "Build your own MacroPad"
-  by: "Michiel"
+  by: "Michiel Ryvers"
   subTitle: "Our team, led by the incredible Michiel, tackled the mission to create the ultimate macropad!"
   date: 2023-10-05
   summary: >
@@ -1758,7 +1759,7 @@
 
 
 - name: "CO2duino"
-  by: "Michiel"
+  by: "Michiel Ryvers"
   subTitle: "We built our own CO2 Meter!"
   date: 2022-06-29
   track: "TechEvent"
