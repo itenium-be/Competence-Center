@@ -96,7 +96,7 @@
   type: ["On-Site"]
   duration: "8h"
   video: ""
-  image: "assets/images-events/Bootcamp-2025-1.jpg"
+  image: "assets/images-events/Bootcamp-2025-1.png"
   gallery:
     - img: "assets/images-events/Bootcamp-2025-2.jpg"
       title: "The tools we'd be needing during the bootcamp"
