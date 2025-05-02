@@ -68,9 +68,9 @@
 
 
 
-- name: "Bootcamp"
-  subTitle: "Home Automation"
-  by: "Mike"
+- name: "Bootcamp:Home Automation"
+  subTitle: "Smart Socket Soldering + Home Assistant Integration"
+  by: "Bert Vervaele"
   date: 2025-03-28
   track: "Bootcamp"
   summary: >
@@ -99,15 +99,15 @@
   image: "assets/images-events/Bootcamp-2025-1.jpg"
   gallery:
     - img: "assets/images-events/Bootcamp-2025-2.jpg"
-      alt: "A neatly arranged set of hand tools on a gray tiled surface, including screwdrivers, pliers, wrenches, utility knives, scissors, and a crimping tool—ready for various repair, construction, or DIY tasks."
+      title: ""
     - img: "assets/images-events/Bootcamp-2025-3.jpg"
-      alt: "A group of participants work intently on electronics projects at a long table, using circuit boards, wires, and laptops. Overhead ring lights brighten the collaborative, tech-focused workshop. One man in an orange shirt is particularly animated, capturing the hands-on, innovative spirit of the event."
+      title: ""
     - img: "assets/images-events/Bootcamp-2025-4.jpg"
-      alt: "In a bright, focused workspace, participants work on robotics and electronics projects with tools, wires, and laptops. The scene reflects active learning, teamwork, and creative problem-solving in a hands-on tech environment."
+      title: ""
     - img: "assets/images-events/Bootcamp-2025-5.jpg"
-      alt: "A hand holds a 3D-printed gray enclosure filled with organized wires, a blue relay module, and a microcontroller board. Set against a cutting mat and wood surface, the image highlights detail-oriented electronics work nearing completion."
+      title: ""
     - img: "assets/images-events/Bootcamp-2025-6.jpg"
-      alt: "Colorful LED string lights are wired to a small open enclosure containing a blue module and connected components. The setup sits on a wooden surface, illustrating a working DIY lighting project with custom control."
+      title: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-bootcamp-levelup-activity-7315312606049689601-6lsb"
   instagram: "https://www.instagram.com/p/DHdYVIwhgJQ/"
   twitter: "https://x.com/itenium_be/status/1909546845803512016"
