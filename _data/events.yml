@@ -164,16 +164,16 @@
     This week, we dove into the first chapters of "Pattern Hatching" 
     by John Vlissides (GoF author). We tackled common misconceptions 
     about Design Patterns and explored a real-world OO FileSystem using:
-    <ul>
-    <li>Composite</li>
-    <li>Proxy</li>
-    <li>Visitor (the most intriguing—and potentially dangerous—pattern 
-    of the night!)</li>
-    </ul>
-    <p>We compared a C# implementation with Julia’s multiple dispatch, 
+    <br><br>
+    - Composite
+    <br>- Proxy
+    <br>- Visitor (the most intriguing—and potentially dangerous—pattern 
+    of the night!)
+    <br><br>
+    We compared a C# implementation with Julia’s multiple dispatch, 
     sparking debate: Are design patterns just missing language features?
     <br><br>
-    Great discussion—excited for the next session!</p>
+    Great discussion—excited for the next session!
   type: ["Virtual"]
   duration: "1h"
   image: "assets/images-events/Boekenclub-1.png"
