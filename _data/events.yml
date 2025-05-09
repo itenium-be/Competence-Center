@@ -11,7 +11,7 @@
 
 
 
-- name: "Tech Café 2"
+- name: ".NET Session 2: Blazor Intro Session"
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -158,9 +158,9 @@
   facebook: "https://www.facebook.com/share/v/1AJ26BX5SZ/"
 
 
-- name: "Test management: tools and experience"
+- name: "Boekenclub: Pattern Hatching"
   subTitle: ""
-  date: 2025-04-24
+  date: 2025-04-22
   hide: true
   summary: >
 
