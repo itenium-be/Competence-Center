@@ -158,17 +158,18 @@
 
 
 - name: "Boekenclub: Pattern Hatching"
+  subTitle: "Kickoff of the itenium boekenclub! 🎉"
   date: 2025-04-22
   summary: >
-    Kickoff of the itenium boekenclub! 🎉 
     This week, we dove into the first chapters of "Pattern Hatching" 
     by John Vlissides (GoF author). We tackled common misconceptions 
     about Design Patterns and explored a real-world OO FileSystem using:
     <ul>
-    <li>- Composite<li>
-    <li>- Proxy<li>
-    <li>- Visitor (the most intriguing—and potentially dangerous—pattern 
-    of the night!)<li>
+    <li>Composite</li>
+    <li>Proxy</li>
+    <li>Visitor (the most intriguing—and potentially dangerous—pattern 
+    of the night!)</li>
+    </ul>
     <br><br>
     We compared a C# implementation with Julia’s multiple dispatch, 
     sparking debate: Are design patterns just missing language features?
