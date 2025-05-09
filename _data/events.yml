@@ -170,11 +170,10 @@
     <li>Visitor (the most intriguing—and potentially dangerous—pattern 
     of the night!)</li>
     </ul>
-    <br><br>
-    We compared a C# implementation with Julia’s multiple dispatch, 
+    <p>We compared a C# implementation with Julia’s multiple dispatch, 
     sparking debate: Are design patterns just missing language features?
     <br><br>
-    Great discussion—excited for the next session!
+    Great discussion—excited for the next session!</p>
   type: ["Virtual"]
   duration: "1h"
   image: "assets/images-events/Boekenclub-1.png"
