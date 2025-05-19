@@ -8,6 +8,7 @@
 
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -30,6 +31,7 @@
 
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -51,6 +53,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -72,6 +75,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -93,6 +97,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -114,6 +119,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -135,6 +141,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -156,6 +163,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -177,6 +185,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -198,6 +207,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -219,6 +229,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -240,6 +251,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -261,6 +273,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -282,6 +295,7 @@
   blogPost: ""
 
 - name: ""
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -302,7 +316,8 @@
   githubUrl: ""
   blogPost: ""
 
-- name: ""
+- name: "New features van Java 17 tot 24"
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -325,6 +340,7 @@
 
 
 - name: "Boekenclub: Pattern Hatching"
+  by:
   subTitle: ""
   date: 2025-05-19
   hide: true
@@ -347,6 +363,7 @@
 
 
 - name: ".NET Session 2: Blazor Intro Session"
+  by:
   subTitle: ""
   date: 2025-04-30
   hide: true
