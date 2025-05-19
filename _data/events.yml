@@ -8,7 +8,7 @@
 
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -31,7 +31,7 @@
 
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -53,7 +53,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -75,7 +75,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -97,7 +97,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -119,7 +119,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -141,7 +141,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -163,7 +163,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -185,7 +185,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -207,7 +207,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -229,7 +229,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -251,7 +251,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -273,7 +273,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -295,7 +295,7 @@
   blogPost: ""
 
 - name: ""
-  by:
+  by: ""
   subTitle: ""
   date: 2025-04-30
   hide: true
@@ -317,11 +317,11 @@
   blogPost: ""
 
 - name: "New features van Java 17 tot 24"
-  by:
+  by: "Simon Verhoeven"
   subTitle: ""
   date: 2025-04-30
   hide: true
-  track: "TechCafe"
+  track: "JavaTrack"
   summary: >
 
   level: Introduction
@@ -340,7 +340,7 @@
 
 
 - name: "Boekenclub: Pattern Hatching"
-  by:
+  by: ""
   subTitle: ""
   date: 2025-05-19
   hide: true
@@ -363,7 +363,7 @@
 
 
 - name: ".NET Session 2: Blazor Intro Session"
-  by:
+  by: "Bert  Vermorgen"
   subTitle: ""
   date: 2025-04-30
   hide: true
