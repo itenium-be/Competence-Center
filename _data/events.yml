@@ -7,6 +7,364 @@
 # https://github.com/itenium-be/Competence-Center/blob/master/_data/README.md
 
 
+- name: "TBD : voor iedereen wat wils? + Kerstdrink"
+  by: ""
+  subTitle: ""
+  date: 2025-12-18
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Testing shift left: do or don't?"
+  by: ""
+  subTitle: ""
+  date: 2025-11-20
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["Virtual"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "SoftSkill"
+  by: ""
+  subTitle: ""
+  date: 2025-11-12
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Fun Event"
+  by: ""
+  subTitle: ""
+  date: 2025-11-06
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: ".NET/Java Unit Testing"
+  by: ""
+  subTitle: ""
+  date: 2025-10-23
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "PO & Analyse TBD"
+  by: ""
+  subTitle: ""
+  date: 2025-10-08
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Tech Café 3"
+  by: ""
+  subTitle: ""
+  date: 2025-10-02
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "QA minded: code complete? - online"
+  by: ""
+  subTitle: ""
+  date: 2025-09-25
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "QA minded: analysis complete? - online"
+  by: ""
+  subTitle: ""
+  date: 2025-09-18
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "SoftSkill"
+  by: ""
+  subTitle: ""
+  date: 2025-09-10
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Fun Event"
+  by: ""
+  subTitle: ""
+  date: 2025-09-04
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Testing Track: deel 4 -  Unit testingTestcontainers"
+  by: ""
+  subTitle: ""
+  date: 2025-07-17
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Testing Track: deel 3 - Cypress"
+  by: ""
+  subTitle: ""
+  date: 2025-07-03
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Testing Track: deel 2.2 - Unit Testing (.NET & Java)"
+  by: ""
+  subTitle: ""
+  date: 2025-06-19
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Familiedag itenium @ Efteling"
+  by: ""
+  subTitle: ""
+  date: 2025-06-15
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Testing Track: deel 2.1 - Unit Testing THEORY"
+  by: ""
+  subTitle: ""
+  date: 2025-06-12
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkills"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
 - name: ""
   by: ""
   subTitle: ""
@@ -29,11 +387,10 @@
   githubUrl: ""
   blogPost: ""
 
-
-- name: ""
+- name: "1/2 dag Open Space day + summer drink evening! "
   by: ""
   subTitle: ""
-  date: 2025-04-30
+  date: 2025-06-06
   hide: true
   track: "TechCafe"
   summary: >
@@ -52,252 +409,10 @@
   githubUrl: ""
   blogPost: ""
 
-- name: ""
+- name: "Testing Track: deel 1 - Testing Pyramid"
   by: ""
   subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
+  date: 2025-05-28
   hide: true
   track: "TechCafe"
   summary: >
