@@ -16,7 +16,7 @@
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: ""
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -35,11 +35,11 @@
   subTitle: ""
   date: 2025-11-20
   hide: true
-  track: "TechCafe"
+  track: ""
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: ""
   type: ["Virtual"]
   duration: "4h"
   video: ""
@@ -58,11 +58,11 @@
   subTitle: ""
   date: 2025-11-12
   hide: true
-  track: "TechCafe"
+  track: ""
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -85,7 +85,6 @@
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -104,7 +103,7 @@
   subTitle: ""
   date: 2025-10-23
   hide: true
-  track: "TechCafe"
+  track: "JavaTrack"
   summary: >
 
   level: Introduction
@@ -127,11 +126,11 @@
   subTitle: ""
   date: 2025-10-08
   hide: true
-  track: "TechCafe"
+  track: ""
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: ""
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -154,7 +153,7 @@
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -167,17 +166,17 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "QA minded: code complete? - online"
+- name: "QA minded: code complete?"
   by: ""
   subTitle: ""
   date: 2025-09-25
   hide: true
-  track: "TechCafe"
+  track: "QAEvent"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
+  content: "Hands-On"
+  type: ["Virtual"]
   duration: "4h"
   video: ""
   image: ""
@@ -189,17 +188,17 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "QA minded: analysis complete? - online"
+- name: "QA minded: analysis complete?"
   by: ""
   subTitle: ""
   date: 2025-09-18
   hide: true
-  track: "TechCafe"
+  track: "QAEvent"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
+  content: "Hands-On"
+  type: ["Virtual"]
   duration: "4h"
   video: ""
   image: ""
@@ -216,11 +215,11 @@
   subTitle: ""
   date: 2025-09-10
   hide: true
-  track: "TechCafe"
+  track: ""
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -242,7 +241,6 @@
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -260,11 +258,11 @@
   subTitle: ""
   date: 2025-07-17
   hide: true
-  track: "TechCafe"
+  track: "TechEvent"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -282,11 +280,11 @@
   subTitle: ""
   date: 2025-07-03
   hide: true
-  track: "TechCafe"
+  track: "TechEvent"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -304,11 +302,11 @@
   subTitle: ""
   date: 2025-06-19
   hide: true
-  track: "TechCafe"
+  track: "TechEvent"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -326,11 +324,10 @@
   subTitle: ""
   date: 2025-06-15
   hide: true
-  track: "TechCafe"
+  track: "FunEvent"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -348,33 +345,11 @@
   subTitle: ""
   date: 2025-06-12
   hide: true
-  track: "TechCafe"
+  track: "TechEvent"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: ""
-  by: ""
-  subTitle: ""
-  date: 2025-04-30
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  level: Introduction
-  content: "SoftSkills"
+  content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -392,11 +367,10 @@
   subTitle: ""
   date: 2025-06-06
   hide: true
-  track: "TechCafe"
+  track: "FunEvent"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -414,11 +388,11 @@
   subTitle: ""
   date: 2025-05-28
   hide: true
-  track: "TechCafe"
+  track: "TechEvent"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -440,7 +414,7 @@
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -459,11 +433,9 @@
   subTitle: ""
   date: 2025-05-19
   hide: true
-  track: "TechCafe"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
   type: ["Virtual"]
   duration: "1h"
   video: ""
@@ -482,11 +454,11 @@
   subTitle: ""
   date: 2025-04-30
   hide: true
-  track: "TechCafe"
+  track: "DotNetTrack"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: ""
   type: ["On-Site"]
   duration: "4h"
   video: ""
