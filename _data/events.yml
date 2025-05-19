@@ -324,17 +324,17 @@
   blogPost: ""
 
 
-- name: ""
+- name: "Boekenclub: Pattern Hatching"
   subTitle: ""
-  date: 2025-04-30
+  date: 2025-05-19
   hide: true
   track: "TechCafe"
   summary: >
 
   level: Introduction
   content: "SoftSkills"
-  type: ["On-Site"]
-  duration: "4h"
+  type: ["Virtual"]
+  duration: "1h"
   video: ""
   image: ""
   gallery:
