@@ -181,9 +181,9 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "QA minded: analysis complete?"
+- name: "Kantoordag + QA minded: analysis complete?"
   by: ""
-  subTitle: ""
+  subTitle: "itenium on the move"
   date: 2025-09-18
   hide: true
   track: "QAEvent"
@@ -191,7 +191,7 @@
 
   level: Introduction
   content: "Theoretical"
-  type: ["Virtual"]
+  type: ["On-Site"]
   duration: "2h"
   video: ""
   image: ""
