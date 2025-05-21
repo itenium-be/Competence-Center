@@ -7,7 +7,7 @@
 # https://github.com/itenium-be/Competence-Center/blob/master/_data/README.md
 
 
-- name: "TBD : voor iedereen wat wils? + Kerstdrink"
+- name: "TBD: voor iedereen wat wils? + Kerstdrink"
   by: ""
   subTitle: ""
   date: 2025-12-18
@@ -15,9 +15,6 @@
   track: "FunEvent"
   summary: >
 
-  level: Introduction
-  content: ""
-  type: ["On-Site"]
   duration: "4h"
   video: ""
   image: ""
@@ -39,7 +36,7 @@
   summary: >
 
   level: Introduction
-  content: ""
+  content: "Theoretical"
   type: ["Virtual"]
   duration: "4h"
   video: ""
@@ -53,7 +50,7 @@
   blogPost: ""
 
 
-- name: "SoftSkill"
+- name: "TBD"
   by: ""
   subTitle: ""
   date: 2025-11-12
@@ -76,7 +73,7 @@
   blogPost: ""
 
 
-- name: "Fun Event"
+- name: "TBD"
   by: ""
   subTitle: ""
   date: 2025-11-06
@@ -84,8 +81,6 @@
   track: "FunEvent"
   summary: >
 
-  level: Introduction
-  type: ["On-Site"]
   duration: "4h"
   video: ""
   image: ""
@@ -103,11 +98,11 @@
   subTitle: ""
   date: 2025-10-23
   hide: true
-  track: "JavaTrack"
+  track: "TechEvent"
   summary: >
 
   level: Introduction
-  content: "SoftSkills"
+  content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -152,8 +147,6 @@
   track: "TechCafe"
   summary: >
 
-  level: Introduction
-  content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -210,7 +203,7 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "SoftSkill"
+- name: "TBD"
   by: ""
   subTitle: ""
   date: 2025-09-10
@@ -232,7 +225,7 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "Fun Event"
+- name: "TBD"
   by: ""
   subTitle: ""
   date: 2025-09-04
@@ -240,8 +233,6 @@
   track: "FunEvent"
   summary: >
 
-  level: Introduction
-  type: ["On-Site"]
   duration: "4h"
   video: ""
   image: ""
@@ -253,7 +244,7 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "Testing Track: deel 4 -  Unit testingTestcontainers"
+- name: "Testing Track: deel 4 - Testcontainers"
   by: ""
   subTitle: ""
   date: 2025-07-17
@@ -262,7 +253,7 @@
   summary: >
 
   level: Introduction
-  content: "SoftSkill"
+  content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -284,7 +275,7 @@
   summary: >
 
   level: Introduction
-  content: "SoftSkill"
+  content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -306,7 +297,7 @@
   summary: >
 
   level: Introduction
-  content: "SoftSkill"
+  content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -327,9 +318,7 @@
   track: "FunEvent"
   summary: >
 
-  level: Introduction
-  type: ["On-Site"]
-  duration: "4h"
+  duration: "8h"
   video: ""
   image: ""
   gallery:
@@ -349,9 +338,9 @@
   summary: >
 
   level: Introduction
-  content: "SoftSkill"
-  type: ["On-Site"]
-  duration: "4h"
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "2h"
   video: ""
   image: ""
   gallery:
@@ -362,7 +351,7 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "1/2 dag Open Space day + summer drink evening! "
+- name: "1/2 dag Open Space day + summer drink evening!"
   by: ""
   subTitle: ""
   date: 2025-06-06
@@ -370,7 +359,6 @@
   track: "FunEvent"
   summary: >
 
-  level: Introduction
   type: ["On-Site"]
   duration: "4h"
   video: ""
@@ -392,9 +380,9 @@
   summary: >
 
   level: Introduction
-  content: "SoftSkill"
-  type: ["On-Site"]
-  duration: "4h"
+  content: "Theoretical"
+  type: ["Virtual"]
+  duration: "2h"
   video: ""
   image: ""
   gallery:
@@ -408,15 +396,15 @@
 - name: "New features van Java 17 tot 24"
   by: "Simon Verhoeven"
   subTitle: ""
-  date: 2025-04-30
+  date: 2025-05-22
   hide: true
   track: "JavaTrack"
   summary: >
 
   level: Introduction
-  content: "SoftSkill"
-  type: ["On-Site"]
-  duration: "4h"
+  content: "Code-Show"
+  type: ["Virtual"]
+  duration: "2h"
   video: ""
   image: ""
   gallery:
@@ -450,24 +438,25 @@
 
 
 - name: ".NET Session 2: Blazor Intro Session"
-  by: "Bert  Vermorgen"
+  subTitle: "The Return of The Socks Store"
+  by: "Bert Vermorgen"
   date: 2025-04-30
   track: "DotNetTrack"
   summary: >
-    Last week at Itenium, we hosted the second session 
-    in our .NET series — this time diving into Blazor, 
+    Last week at Itenium, we hosted the second session
+    in our .NET series — this time diving into Blazor,
     Microsoft’s powerful framework for building interactive
     web UIs using C# instead of JavaScript.
     <br><br>
-    The session offered a hands-on introduction to Blazor 
-    and how it can simplify front-end development for .NET 
-    developers. From live coding to practical examples, 
-    attendees got a clear view of how Blazor fits into modern 
+    The session offered a hands-on introduction to Blazor
+    and how it can simplify front-end development for .NET
+    developers. From live coding to practical examples,
+    attendees got a clear view of how Blazor fits into modern
     web application development.
     <br><br>
-    Whether you're a backend developer curious about front-end 
-    work or looking to modernize your .NET stack, Blazor opens 
-    up new possibilities for full-stack development — all within 
+    Whether you're a backend developer curious about front-end
+    work or looking to modernize your .NET stack, Blazor opens
+    up new possibilities for full-stack development — all within
     the comfort of C#.
   level: Introduction
   content: "Hands-On"
@@ -483,6 +472,7 @@
   instagram: "https://www.instagram.com/p/DJ3wxgeBp6s/"
   twitter: "https://x.com/itenium_be/status/1924767220317507787"
   facebook: "https://www.facebook.com/share/p/1BgeC33vM2/"
+  githubUrl: https://github.com/itenium-be/Blazor
 
 
 
@@ -526,23 +516,23 @@
   date: 2025-03-28
   track: "Bootcamp"
   summary: >
-    The itenium bootcamp this year was all about "Home Automation". 
-    We kicked things off, as tradition goes, with breakfast, 
-    followed by the legendary "SMART HOUSE - REMA 1000" clip, 
-    a perfect reminder that maybe not everything should be 
+    The itenium bootcamp this year was all about "Home Automation".
+    We kicked things off, as tradition goes, with breakfast,
+    followed by the legendary "SMART HOUSE - REMA 1000" clip,
+    a perfect reminder that maybe not everything should be
     automated.
     <br><br>
-    Then it was time to get hands-on: teams like the Burnt 
-    Fingers Club and The Sparkonauts brought the heat -- literally, 
+    Then it was time to get hands-on: teams like the Burnt
+    Fingers Club and The Sparkonauts brought the heat -- literally,
     as they went about soldering their own smart sockets.
     <br><br>
-    After dinner, we took things up a notch as we hooked the 
-    sockets and our sensor-loaded mini-houses to Home Assistant 
-    via one of the Raspberries. From the Cloud Cottage or 
+    After dinner, we took things up a notch as we hooked the
+    sockets and our sensor-loaded mini-houses to Home Assistant
+    via one of the Raspberries. From the Cloud Cottage or
     The Overengineered Hut, everyone got a taste of smart living.
     <br><br>
-    From solder fumes to smart rooms -- fueled by good vibes, 
-    snacks, and a closing reception. Till next year! 
+    From solder fumes to smart rooms -- fueled by good vibes,
+    snacks, and a closing reception. Till next year!
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
@@ -609,23 +599,23 @@
   twitter: "https://x.com/itenium_be/status/1909546845803512016"
   facebook: "https://www.facebook.com/share/v/1AJ26BX5SZ/"
   blogPost: "https://itenium.be/blog/productivity/bootcamp-home-automation/"
-
+  githubUrl: https://github.com/itenium-be/Bootcamp-Home-Automation
 
 
 - name: "Boekenclub: Pattern Hatching"
   subTitle: "Kickoff of the itenium boekenclub! 🎉"
   date: 2025-04-22
   summary: >
-    This week, we dove into the first chapters of "Pattern Hatching" 
-    by John Vlissides (GoF author). We tackled common misconceptions 
+    This week, we dove into the first chapters of "Pattern Hatching"
+    by John Vlissides (GoF author). We tackled common misconceptions
     about Design Patterns and explored a real-world OO FileSystem using:
     <br><br>
     - Composite
     <br>- Proxy
-    <br>- Visitor (the most intriguing—and potentially dangerous—pattern 
+    <br>- Visitor (the most intriguing—and potentially dangerous—pattern
     of the night!)
     <br><br>
-    We compared a C# implementation with Julia’s multiple dispatch, 
+    We compared a C# implementation with Julia’s multiple dispatch,
     sparking debate: Are design patterns just missing language features?
     <br><br>
     Great discussion—excited for the next session!
@@ -867,7 +857,6 @@
     Redux (shoutout to the ReduxJS Toolkit Style Guide!), and even
     the latest Angular 19 updates like the new template syntax and
     Signals.
-
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
@@ -877,7 +866,7 @@
   instagram: "https://www.instagram.com/p/DE7Jtwutbqv"
   facebook: "https://www.facebook.com/share/p/15r64FA1GG/"
   twitter: "https://x.com/itenium_be/status/1880208450916941910"
-
+  githubUrl: https://github.com/itenium-be/Angular-Days
 
 
 - name: "Curling"
@@ -2269,7 +2258,7 @@
 
 
 - name: "UnitTesting & TDD"
-  subtitle: "In a poorly designed system, making a change feels like jumping off a cliff to avoid a tiger."
+  subTitle: "In a poorly designed system, making a change feels like jumping off a cliff to avoid a tiger."
   date: 2022-08-25
   summary: >
     The importance of UnitTesting cannot be overstated. We're all on our way to become senior developers
