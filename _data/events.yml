@@ -473,12 +473,12 @@
   content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
-  image: ""
+  image: "assets/images-events/DotNet-Session-2-Blazor-Intro-Session-1.jpg"
   gallery:
-    - img: ""
-      alt: ""
-    - img: ""
-      alt: ""
+    - img: "assets/images-events/DotNet-Session-2-Blazor-Intro-Session-2.jpg"
+      alt: "Attendees at a Blazor introduction session actively participating in a group discussion around a conference table, with laptops open and 'Agenda' displayed on dual monitors. "
+    - img: "assets/images-events/DotNet-Session-2-Blazor-Intro-Session-3.jpg"
+      alt: "A group of software developers engrossed in a Blazor introductory session, seated around a conference table with laptops open and a presentation displayed on large screens. The room features a wall mural of a forest."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-dotnet-blazor-activity-7330532991053484032-dnCg"
   instagram: "https://www.instagram.com/p/DJ3wxgeBp6s/"
   twitter: "https://x.com/itenium_be/status/1924767220317507787"
