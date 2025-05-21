@@ -2,11 +2,11 @@
   by: ""
   event: ""
   subTitle: ""
-  date: 
+  date:
   summary: >
-    
+
   content: ""
-  level: 
+  level:
   duration: ""
   image: ""
   linkedIn: ""
@@ -35,10 +35,10 @@
   event: "Devoxx"
   date: 2023-10-03
   summary: >
-    Simon Verhoeven's talk demonstrated how OpenRewrite automates 
-    the updating of legacy projects, including dependency migrations 
-    and security fixes. Using semantic analysis, the tool helps 
-    developers efficiently upgrade codebases and transition to newer 
+    Simon Verhoeven's talk demonstrated how OpenRewrite automates
+    the updating of legacy projects, including dependency migrations
+    and security fixes. Using semantic analysis, the tool helps
+    developers efficiently upgrade codebases and transition to newer
     technologies with minimal manual effort.
   content: "Code-Show"
   level: Introduction
@@ -66,12 +66,12 @@
 - name: "MITechCon"
   by: "Wouter"
   event: "MITechCon"
-  date: 2024-03-21 
+  date: 2024-03-21
   summary: >
-    At MITechCon on March 21st, Wouter Van Schandevijl of Itenium 
-    discussed React component profiling, covering React's rendering 
-    process, using React DevTools Profiler, and optimizing performance. 
-    The session provided developers with key techniques for enhancing 
+    At MITechCon on March 21st, Wouter Van Schandevijl of Itenium
+    discussed React component profiling, covering React's rendering
+    process, using React DevTools Profiler, and optimizing performance.
+    The session provided developers with key techniques for enhancing
     app efficiency.
   content: "Code-Show"
   level: Introduction
@@ -85,11 +85,11 @@
   event: "ReactJS Brussels"
   date: 2023-10-13
   summary: >
-    At ReactJS Brussels, Wouter Van Schandevijl from Itenium discussed 
+    At ReactJS Brussels, Wouter Van Schandevijl from Itenium discussed
     how React component profiling boosts performance by identifying and
-    minimizing slow or redundant renders. Using React DevTools Profiler, 
-    he highlighted techniques like memoization and hooks 
-    (`React.memo`, `useCallback`) to manage state and optimize component 
+    minimizing slow or redundant renders. Using React DevTools Profiler,
+    he highlighted techniques like memoization and hooks
+    (`React.memo`, `useCallback`) to manage state and optimize component
     rendering, resulting in a more responsive and efficient user experience.
   content: "Code-Show"
   level: Introduction
@@ -102,28 +102,28 @@
   event: "Visug Event: Evolution of C# and JavaScript"
   date: 2018-11-22
   summary: >
-    At the Visug event, Wouter led a session on the evolution of C# 
-    and JavaScript, examining the major changes and advancements in 
-    each language. He explored how both languages had adapted to modern 
-    development needs, comparing key features and the impact of recent 
-    updates on development workflows. This session provided valuable 
-    insights into the future direction of these languages and best 
+    At the Visug event, Wouter led a session on the evolution of C#
+    and JavaScript, examining the major changes and advancements in
+    each language. He explored how both languages had adapted to modern
+    development needs, comparing key features and the impact of recent
+    updates on development workflows. This session provided valuable
+    insights into the future direction of these languages and best
     practices for effectively leveraging their latest features.
   content: "Theoretical"
   level: Intermediate
   duration: "2h"
-  image: "assets/images-events/The-Evolution-of-C#-and-JavaScrip-1.png"
+  image: "assets/images-events/The-Evolution-of-CSharp-and-JavaScrip-1.png"
   githubUrl: "https://github.com/itenium-be/CSharp-JavaScript-New-Features"
 
 - name: ""
   by: ""
   event: ""
   subTitle: ""
-  date: 
+  date:
   summary: >
-    
+
   content: ""
-  level: 
+  level:
   duration: ""
   image: ""
   linkedIn: ""

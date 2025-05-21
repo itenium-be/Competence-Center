@@ -776,13 +776,13 @@
   content: "Code-Show"
   type: ["Virtual"]
   duration: "1h30m"
-  image: "assets/images-events/Evolution-of-C#-1.png"
+  image: "assets/images-events/Evolution-of-CSharp-1.png"
   gallery:
-  - img: "assets/images-events/Evolution-of-C#-2.jpg"
+  - img: "assets/images-events/Evolution-of-CSharp-2.jpg"
     alt: "Explore raw and multiline strings for cleaner formatting, dynamic text insertion, and easier text manipulation in C#. Improve code readability with practical examples."
-  - img: "assets/images-events/Evolution-of-C#-3.jpg"
+  - img: "assets/images-events/Evolution-of-CSharp-3.jpg"
     alt: "Learn how object initializers, anonymous types, and auto properties simplify object creation in C#. Write more concise, readable, and maintainable code."
-  - img: "assets/images-events/Evolution-of-C#-4.jpg"
+  - img: "assets/images-events/Evolution-of-CSharp-4.jpg"
     alt: "Discover C# 8's null safety features like nullable reference types and the null-coalescing assignment to write safer and more reliable code."
   linkedIn: "https://www.linkedin.com/posts/itenium_csharp-dotnet-development-activity-7291047680162607105-SRR_"
   instagram: "https://www.instagram.com/p/DF7abCChxH3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
