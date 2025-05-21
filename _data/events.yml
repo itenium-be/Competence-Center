@@ -7,12 +7,103 @@
 # https://github.com/itenium-be/Competence-Center/blob/master/_data/README.md
 
 
-
-- name: ".NET Session 2: Blazor Intro Session"
+- name: "TBD : voor iedereen wat wils? + Kerstdrink"
+  by: ""
   subTitle: ""
-  date: 2025-04-30
+  date: 2025-12-18
   hide: true
-  track: "TechCafe"
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  content: ""
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Testing shift left: do or don't?"
+  by: ""
+  subTitle: ""
+  date: 2025-11-20
+  hide: true
+  track: ""
+  summary: >
+
+  level: Introduction
+  content: ""
+  type: ["Virtual"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "SoftSkill"
+  by: ""
+  subTitle: ""
+  date: 2025-11-12
+  hide: true
+  track: ""
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Fun Event"
+  by: ""
+  subTitle: ""
+  date: 2025-11-06
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: ".NET/Java Unit Testing"
+  by: ""
+  subTitle: ""
+  date: 2025-10-23
+  hide: true
+  track: "JavaTrack"
   summary: >
 
   level: Introduction
@@ -28,6 +119,370 @@
   twitter: ""
   githubUrl: ""
   blogPost: ""
+
+
+- name: "PO & Analyse TBD"
+  by: ""
+  subTitle: ""
+  date: 2025-10-08
+  hide: true
+  track: ""
+  summary: >
+
+  level: Introduction
+  content: ""
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Tech Café 3"
+  by: ""
+  subTitle: ""
+  date: 2025-10-02
+  hide: true
+  track: "TechCafe"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "QA minded: code complete?"
+  by: ""
+  subTitle: ""
+  date: 2025-09-25
+  hide: true
+  track: "QAEvent"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["Virtual"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "QA minded: analysis complete?"
+  by: ""
+  subTitle: ""
+  date: 2025-09-18
+  hide: true
+  track: "QAEvent"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["Virtual"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "SoftSkill"
+  by: ""
+  subTitle: ""
+  date: 2025-09-10
+  hide: true
+  track: ""
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Fun Event"
+  by: ""
+  subTitle: ""
+  date: 2025-09-04
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Testing Track: deel 4 -  Unit testingTestcontainers"
+  by: ""
+  subTitle: ""
+  date: 2025-07-17
+  hide: true
+  track: "TechEvent"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Testing Track: deel 3 - Cypress"
+  by: ""
+  subTitle: ""
+  date: 2025-07-03
+  hide: true
+  track: "TechEvent"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Testing Track: deel 2.2 - Unit Testing (.NET & Java)"
+  by: ""
+  subTitle: ""
+  date: 2025-06-19
+  hide: true
+  track: "TechEvent"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Familiedag itenium @ Efteling"
+  by: ""
+  subTitle: ""
+  date: 2025-06-15
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Testing Track: deel 2.1 - Unit Testing THEORY"
+  by: ""
+  subTitle: ""
+  date: 2025-06-12
+  hide: true
+  track: "TechEvent"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "1/2 dag Open Space day + summer drink evening! "
+  by: ""
+  subTitle: ""
+  date: 2025-06-06
+  hide: true
+  track: "FunEvent"
+  summary: >
+
+  level: Introduction
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "Testing Track: deel 1 - Testing Pyramid"
+  by: ""
+  subTitle: ""
+  date: 2025-05-28
+  hide: true
+  track: "TechEvent"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+- name: "New features van Java 17 tot 24"
+  by: "Simon Verhoeven"
+  subTitle: ""
+  date: 2025-04-30
+  hide: true
+  track: "JavaTrack"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: "Boekenclub: Pattern Hatching"
+  by: ""
+  subTitle: ""
+  date: 2025-05-19
+  hide: true
+  summary: >
+
+  level: Introduction
+  type: ["Virtual"]
+  duration: "1h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
+- name: ".NET Session 2: Blazor Intro Session"
+  by: "Bert  Vermorgen"
+  date: 2025-04-30
+  track: "DotNetTrack"
+  summary: >
+    Last week at Itenium, we hosted the second session 
+    in our .NET series — this time diving into Blazor, 
+    Microsoft’s powerful framework for building interactive
+    web UIs using C# instead of JavaScript.
+    <br><br>
+    The session offered a hands-on introduction to Blazor 
+    and how it can simplify front-end development for .NET 
+    developers. From live coding to practical examples, 
+    attendees got a clear view of how Blazor fits into modern 
+    web application development.
+    <br><br>
+    Whether you're a backend developer curious about front-end 
+    work or looking to modernize your .NET stack, Blazor opens 
+    up new possibilities for full-stack development — all within 
+    the comfort of C#.
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "4h"
+  image: "assets/images-events/DotNet-Session-2-Blazor-Intro-Session-1.jpg"
+  gallery:
+    - img: "assets/images-events/DotNet-Session-2-Blazor-Intro-Session-2.jpg"
+      alt: "Attendees at a Blazor introduction session actively participating in a group discussion around a conference table, with laptops open and 'Agenda' displayed on dual monitors. "
+    - img: "assets/images-events/DotNet-Session-2-Blazor-Intro-Session-3.jpg"
+      alt: "A group of software developers engrossed in a Blazor introductory session, seated around a conference table with laptops open and a presentation displayed on large screens. The room features a wall mural of a forest."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-dotnet-blazor-activity-7330532991053484032-dnCg"
+  instagram: "https://www.instagram.com/p/DJ3wxgeBp6s/"
+  twitter: "https://x.com/itenium_be/status/1924767220317507787"
+  facebook: "https://www.facebook.com/share/p/1BgeC33vM2/"
 
 
 
