@@ -1,4 +1,4 @@
-# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe, Bootcamp, JavaTrack, DotNetTrack
+# Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent, TechCafe, Bootcamp, JavaTrack, DotNetTrack, SoftSkill
 # Content: Hands-On, Code-Show, Theoretical, Demos, SoftSkill
 # Level: Introduction, Intermediate, Expert
 # Type: Short, On-Site, exercisesAtTheEnd, Virtual
@@ -32,7 +32,7 @@
   subTitle: ""
   date: 2025-11-20
   hide: true
-  track: ""
+  track: "QAEvent"
   summary: >
 
   level: Introduction
@@ -55,7 +55,7 @@
   subTitle: ""
   date: 2025-11-12
   hide: true
-  track: ""
+  track: "SoftSkill"
   summary: >
 
   level: Introduction
@@ -93,7 +93,7 @@
   blogPost: ""
 
 
-- name: ".NET/Java Unit Testing"
+- name: ".NET/Java TBD"
   by: ""
   subTitle: ""
   date: 2025-10-23
@@ -121,12 +121,12 @@
   subTitle: ""
   date: 2025-10-08
   hide: true
-  track: ""
+  track: "QAEvent"
   summary: >
 
   level: Introduction
   content: ""
-  type: ["On-Site"]
+  type: []
   duration: "4h"
   video: ""
   image: ""
@@ -168,9 +168,9 @@
   summary: >
 
   level: Introduction
-  content: "Hands-On"
+  content: "Theoretical"
   type: ["Virtual"]
-  duration: "4h"
+  duration: "2h"
   video: ""
   image: ""
   gallery:
@@ -190,9 +190,9 @@
   summary: >
 
   level: Introduction
-  content: "Hands-On"
+  content: "Theoretical"
   type: ["Virtual"]
-  duration: "4h"
+  duration: "2h"
   video: ""
   image: ""
   gallery:
@@ -208,7 +208,7 @@
   subTitle: ""
   date: 2025-09-10
   hide: true
-  track: ""
+  track: "SoftSkill"
   summary: >
 
   level: Introduction
@@ -371,17 +371,17 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "Testing Track: deel 1 - Testing Pyramid"
-  by: ""
-  subTitle: ""
+- name: "Officeday + Testing Track: deel 1 - Testing Pyramid"
+  by: "Alexander Ryckeboer"
+  subTitle: "itenium on the move"
   date: 2025-05-28
   hide: true
-  track: "TechEvent"
+  track: "QAEvent"
   summary: >
 
   level: Introduction
   content: "Theoretical"
-  type: ["Virtual"]
+  type: ["On-Site"]
   duration: "2h"
   video: ""
   image: ""
