@@ -7,7 +7,7 @@
       <strong>{{event.name}}</strong>
    </h4>
    <strong>{{event.subTitle}}</strong>
-   {% if event.by %}
+   {% if event.by and event.by != "" %}
       by {{ event.by | join: ', ' }}
    {% endif %}
 

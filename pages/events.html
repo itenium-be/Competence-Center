@@ -71,7 +71,7 @@ permalink: /events
                               <span class="badge badge-type {{ event.type | first }}">{{ event.type | first }}</span>
                               <span class="badge badge-track {{ event.track }}">{{ event.track }}</span>
                               {{event.name}}
-                              {% if event.by %}
+                              {% if event.by and event.by != "" %}
                                  by {{event.by}}
                               {% endif %}
                               <small>
