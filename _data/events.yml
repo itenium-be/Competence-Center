@@ -451,6 +451,7 @@
 
 - name: ".NET Session 2: Blazor Intro Session"
   by: "Bert  Vermorgen"
+  subTitle: "The Return of The Socks Store"
   date: 2025-05-22
   track: "DotNetTrack"
   summary: >
