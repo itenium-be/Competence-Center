@@ -451,24 +451,18 @@
 
 - name: ".NET Session 2: Blazor Intro Session"
   by: "Bert  Vermorgen"
-  date: 2025-04-30
+  date: 2025-05-22
   track: "DotNetTrack"
   summary: >
-    Last week at Itenium, we hosted the second session 
-    in our .NET series — this time diving into Blazor, 
-    Microsoft’s powerful framework for building interactive
-    web UIs using C# instead of JavaScript.
+    Yesterday, we dove into the world of Blazor with our 
+    .NET expert Bert, exploring how this powerful framework 
+    s shaping modern web development. And of course, we 
+    couldn’t resist giving our infamous Socks Store yet 
+    another stylish upgrade! 
     <br><br>
-    The session offered a hands-on introduction to Blazor 
-    and how it can simplify front-end development for .NET 
-    developers. From live coding to practical examples, 
-    attendees got a clear view of how Blazor fits into modern 
-    web application development.
-    <br><br>
-    Whether you're a backend developer curious about front-end 
-    work or looking to modernize your .NET stack, Blazor opens 
-    up new possibilities for full-stack development — all within 
-    the comfort of C#.
+    A big thanks to everyone who joined—hope you enjoyed the 
+    hands-on experience! For those who missed it, stay tuned… 
+    ore Blazor goodness might be coming soon. 
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
