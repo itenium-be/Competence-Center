@@ -288,6 +288,30 @@
   githubUrl: ""
   blogPost: ""
 
+
+- name: "Requirements Gathering"
+  by: "Lies Haemels"
+  subTitle: ""
+  date: 2025-06-25
+  hide: true
+  track: "QAEvent"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
+  duration: "2h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
+
 - name: "Testing Track: deel 2.2 - Unit Testing (.NET & Java)"
   by: ""
   subTitle: ""
@@ -443,15 +467,15 @@
   date: 2025-04-30
   track: "DotNetTrack"
   summary: >
-    Yesterday, we dove into the world of Blazor with our 
-    .NET expert Bert, exploring how this powerful framework 
-    is shaping modern web development. And of course, we 
-    couldn’t resist giving our infamous Socks Store yet 
-    another stylish upgrade! 
+    Yesterday, we dove into the world of Blazor with our
+    .NET expert Bert, exploring how this powerful framework
+    is shaping modern web development. And of course, we
+    couldn’t resist giving our infamous Socks Store yet
+    another stylish upgrade!
     <br><br>
-    A big thanks to everyone who joined—hope you enjoyed the 
-    hands-on experience! For those who missed it, stay tuned… 
-    more Blazor goodness might be coming soon. 
+    A big thanks to everyone who joined—hope you enjoyed the
+    hands-on experience! For those who missed it, stay tuned…
+    more Blazor goodness might be coming soon.
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
