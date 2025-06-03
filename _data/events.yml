@@ -419,25 +419,36 @@
 
 - name: "New features van Java 17 tot 24"
   by: "Simon Verhoeven"
-  subTitle: ""
   date: 2025-05-22
-  hide: true
   track: "JavaTrack"
   summary: >
-
+    We dove deep into the evolution of Java with Simon 
+    guiding us from Java 17 through to 24 — and not just 
+    theory, but hands-on coding too.
+    <br><br>
+    From sealed classes to pattern matching, and from records 
+    to virtual threads, this session was a goldmine for anyone 
+    looking to write cleaner, more modern Java.
+    <br><br>
+    Big thanks to Simon for the clear explanations and live 
+    demos that helped us try out the latest features right 
+    away!
   level: Introduction
   content: "Code-Show"
   type: ["Virtual"]
   duration: "2h"
-  video: ""
-  image: ""
+  image: "assets/images-events/New-features-van-Java-17-tot 24-1.jpg"
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+    - img: "assets/images-events/New-features-van-Java-17-tot 24-2.jpg"
+      alt: "A focused developer, deeply engaged in a programming session, works on his laptop with Java code projected on the screen behind him, showcasing new features from Java 17 to 24 in a live demo. Perfect for a Java deep dive event."
+    - img: "assets/images-events/New-features-van-Java-17-tot 24-3.jpg"
+      alt: "A collaborative group of software developers actively participating in a workshop, exploring the latest Java 17-24 features. Laptops open and engaged discussion highlight a dynamic tech training session."
+    - img: "assets/images-events/New-features-van-Java-17-tot 24-4.jpg"
+      alt: "Developers immersed in an expert-led seminar, discussing and learning about the advanced features of Java from versions 17 to 24. This technical deep dive session fosters collaboration and understanding of modern Java programming."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-java-handsoncoding-activity-7335244045234937856-lTAj"
+  instagram: "https://www.instagram.com/p/DKZO8V2IU9k/"
+  twitter: "https://x.com/itenium_be/status/1929478283747274918"
+  facebook: "https://www.facebook.com/share/p/1YZBCH9NHV/"
 
 
 - name: "Boekenclub: Pattern Hatching"
