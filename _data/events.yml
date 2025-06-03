@@ -439,7 +439,12 @@
   duration: "2h"
   image: ""
   gallery:
-    - ""
+    - img: ""
+      alt: ""
+    - img: ""
+      alt: ""
+    - img: ""
+      alt: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-java-handsoncoding-activity-7335244045234937856-lTAj"
   instagram: "https://www.instagram.com/p/DKZO8V2IU9k/"
   twitter: "https://x.com/itenium_be/status/1929478283747274918"
