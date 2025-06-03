@@ -437,13 +437,13 @@
   content: "Code-Show"
   type: ["Virtual"]
   duration: "2h"
-  image: ""
+  image: "assets/images-events/New-features-van-Java-17-tot 24-1.jpg"
   gallery:
-    - img: ""
+    - img: "assets/images-events/New-features-van-Java-17-tot 24-2.jpg"
       alt: ""
-    - img: ""
+    - img: "assets/images-events/New-features-van-Java-17-tot 24-3.jpg"
       alt: ""
-    - img: ""
+    - img: "assets/images-events/New-features-van-Java-17-tot 24-4.jpg"
       alt: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-java-handsoncoding-activity-7335244045234937856-lTAj"
   instagram: "https://www.instagram.com/p/DKZO8V2IU9k/"
