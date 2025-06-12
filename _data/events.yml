@@ -455,7 +455,6 @@
   by: ""
   subTitle: ""
   date: 2025-05-19
-  hide: true
   summary: >
 
   level: Introduction
@@ -465,10 +464,10 @@
   image: ""
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-designpatterns-softwarearchitecture-activity-7337780798776832000-w4aA"
+  instagram: "https://www.instagram.com/p/DKrQfSItneT/"
+  twitter: "https://x.com/itenium_be/status/1932015034613309922"
+  facebook: "https://www.facebook.com/share/p/14DT4gDxdJj/"
   blogPost: ""
 
 
