@@ -456,19 +456,26 @@
   subTitle: ""
   date: 2025-05-19
   summary: >
-
+    Boekenclub Session #2: Diving Deeper into Pattern Hatching – Chapter 2!
+    <br><br>
+    Last time, we tackled an Object-Oriented FileSystem using Composite, Proxy, and Visitor patterns. This week, we leveled up by implementing multi-user security with:
+      🔹 Template Method to standardize access control logic.
+      🔹 Singleton for a centralized security manager.
+      🔹 Mediator to streamline user-permission interactions. 
+    <br><br>
+    Key takeaway? Patterns aren’t just theory; they’re tools to solve messy design problems elegantly.
+    Shoutout to everyone who joined—your insights made this even richer! 
+    <br><br>
+    Who’s ready for Chapter 3?
   level: Introduction
   type: ["Virtual"]
   duration: "1h"
-  video: ""
   image: ""
-  gallery:
-    - ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-designpatterns-softwarearchitecture-activity-7337780798776832000-w4aA"
   instagram: "https://www.instagram.com/p/DKrQfSItneT/"
   twitter: "https://x.com/itenium_be/status/1932015034613309922"
   facebook: "https://www.facebook.com/share/p/14DT4gDxdJj/"
-  blogPost: ""
+
 
 
 - name: ".NET Session 2: Blazor Intro Session"
