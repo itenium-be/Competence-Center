@@ -2,11 +2,11 @@
 layout: null
 permalink: /events.csv
 ---
-Welke opleiding;Type;Duurtijd;Hands-on;Required Niveau;Trainer
+Welke opleiding;Type;Duurtijd;Hands-on;Required Niveau;Trainer;Source Materiaal
 {% for event in site.data.events -%}
 {% unless event.hide -%}
 {% if event.track != "FunEvent" and event.track != "TechCafe" -%}
-{{ event.name }};{{ event.track }};{{ event.duration }};{{ event.content }};{{ event.level }};{{ event.by | default: "Wouter" }}
+{{ event.name }};{{ event.track }};{{ event.duration }};{{ event.content }};{{ event.level }};{{ event.by | default: "Wouter" }};{{ event.githubUrl}}
 {% endif -%}
 {% endunless -%}
 {% endfor -%}
