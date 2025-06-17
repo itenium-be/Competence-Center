@@ -244,31 +244,9 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "Testing Track: deel 4 - Testcontainers"
-  by: ""
-  subTitle: ""
-  date: 2025-07-17
-  hide: true
-  track: "TechEvent"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-- name: "Testing Track: deel 3 - Cypress"
-  by: ""
-  subTitle: ""
+- name: "Testing Track: deel 3 - Playwright"
+  by: "Wouter"
+  subTitle: "e2e Testing with Playwright"
   date: 2025-07-03
   hide: true
   track: "TechEvent"
@@ -312,8 +290,11 @@
   blogPost: ""
 
 
-- name: "Testing Track: deel 2.2 - Unit Testing (.NET & Java)"
-  by: ""
+- name: "Unit Testing (.NET & Java) + TestContainers"
+  by:
+    - "Bert Vermorgen"
+    - "Michael Branders"
+    - "Simon Verhoeven"
   subTitle: ""
   date: 2025-06-19
   hide: true
@@ -335,7 +316,6 @@
   blogPost: ""
 
 - name: "Familiedag itenium @ Efteling"
-  by: ""
   subTitle: ""
   date: 2025-06-15
   hide: true
@@ -353,8 +333,8 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "Testing Track: deel 2.1 - Unit Testing THEORY"
-  by: ""
+- name: "Unit Testing THEORY"
+  by: "Wouter"
   subTitle: ""
   date: 2025-06-12
   hide: true
@@ -364,7 +344,7 @@
   level: Introduction
   content: "Theoretical"
   type: ["Virtual"]
-  duration: "2h"
+  duration: "1h"
   video: ""
   image: ""
   gallery:
@@ -422,16 +402,16 @@
   date: 2025-05-22
   track: "JavaTrack"
   summary: >
-    We dove deep into the evolution of Java with Simon 
-    guiding us from Java 17 through to 24 — and not just 
+    We dove deep into the evolution of Java with Simon
+    guiding us from Java 17 through to 24 — and not just
     theory, but hands-on coding too.
     <br><br>
-    From sealed classes to pattern matching, and from records 
-    to virtual threads, this session was a goldmine for anyone 
+    From sealed classes to pattern matching, and from records
+    to virtual threads, this session was a goldmine for anyone
     looking to write cleaner, more modern Java.
     <br><br>
-    Big thanks to Simon for the clear explanations and live 
-    demos that helped us try out the latest features right 
+    Big thanks to Simon for the clear explanations and live
+    demos that helped us try out the latest features right
     away!
   level: Introduction
   content: "Code-Show"
@@ -459,10 +439,10 @@
     Last time, we tackled an Object-Oriented FileSystem using Composite, Proxy, and Visitor patterns. This week, we leveled up by implementing multi-user security with:
       🔹 Template Method to standardize access control logic.
       🔹 Singleton for a centralized security manager.
-      🔹 Mediator to streamline user-permission interactions. 
+      🔹 Mediator to streamline user-permission interactions.
     <br><br>
     Key takeaway? Patterns aren’t just theory; they’re tools to solve messy design problems elegantly.
-    Shoutout to everyone who joined—your insights made this even richer! 
+    Shoutout to everyone who joined—your insights made this even richer!
     <br><br>
     Who’s ready for Chapter 3?
   level: Introduction
