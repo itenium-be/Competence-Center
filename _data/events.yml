@@ -379,23 +379,43 @@
   by: "Alexander Ryckeboer"
   subTitle: "itenium on the move"
   date: 2025-05-28
-  hide: true
   track: "QAEvent"
   summary: >
+    Office Day with Learning Lunch
+    <br><br>
+    Last week, we switched things up with an Office Day 
+    at Itenium HQ in Mechelen! While continuing our work 
+    for clients, it was great to spend the day together in 
+    person — a nice break from our usual remote and on-site 
+    routines.
+    <br><br>
+    Over lunch, we kicked off our Testing Track — a new internal 
+    learning series focused on sharpening our testing practices. 
+    We explored how to structure tests efficiently across unit, 
+    integration, and end-to-end layers. We discussed best practices, 
+    trade-offs, and how to avoid common pitfalls like overly relying 
+    on UI tests or skipping unit coverage.
+    <br><br>
+    A valuable knowledge-sharing moment — and only the beginning!
 
   level: Introduction
   content: "Theoretical"
   type: ["On-Site"]
-  duration: "2h"
-  video: ""
-  image: ""
+  duration: "4h"
+  image: "assets/images-events/Officeday-and-Testing Pyramid-1.jpg"
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  - img: "assets/images-events/Officeday-and-Testing Pyramid-2.jpg"
+    alt: "An expert speaker presenting on BDD (Behavior-Driven Development) during the Testing Track learning series, providing in-depth insights into software testing best practices for developers and QA professionals"
+  - img: "assets/images-events/Officeday-and-Testing Pyramid-3.jpg"
+    alt: "Developers attentively listen to a presenter explaining the Testing Pyramid during a valuable learning lunch session at an Office Day. This highlights a key moment of software testing education and knowledge sharing."
+  - img: "assets/images-events/Officeday-and-Testing Pyramid-4.jpg"
+    alt: "A focused software development team engaged in their daily work during an Office Day, collaborating and ensuring client project delivery. This showcases a productive and connected developer workspace."
+  - img: "assets/images-events/Officeday-and-Testing Pyramid-5.jpg"
+    alt: "Software professionals enjoying a collaborative break during an Office Day, fostering team bonding and informal knowledge exchange. This demonstrates a vibrant developer community and team-building atmosphere."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-officeday-consultinglife-activity-7336693547338752000-gDKE" 
+  instagram: "https://www.instagram.com/p/DKjiMqyJ_3E/"
+  twitter: "https://x.com/itenium_be/status/1930927785263968673"
+  facebook: "https://www.facebook.com/share/p/1Q2R3kKtv5/"
 
 - name: "New features van Java 17 tot 24"
   by: "Simon Verhoeven"
