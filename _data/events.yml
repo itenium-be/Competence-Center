@@ -196,7 +196,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -218,7 +219,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -237,7 +239,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -259,7 +262,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -282,7 +286,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -308,7 +313,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -326,7 +332,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -348,32 +355,49 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
   githubUrl: ""
   blogPost: ""
 
-- name: "1/2 dag Open Space day + summer drink evening!"
-  by: ""
-  subTitle: ""
+- name: "Open Space day + Summer Drink Evening"
   date: 2025-06-06
-  hide: true
+  subTitle: "Open Space @ itenium – where ideas spark and where people connect!"
   track: "FunEvent"
   summary: >
+    Last Friday, we turned our office into a playground 
+    for knowledge sharing and spontaneous discussions. 
+    No set agenda – just passionate consultants diving into 
+    topics like AI tools, Domain-Driven Design, learning 
+    strategies, and more.
+    <br><br>
+    From deep conversations to relaxed summer drinks – it 
+    was a perfect mix of brains and vibes. 
+    <br><br>
+    Want to be part of a team that values curiosity, 
+    collaboration, and fun? Let's talk!
 
   type: ["On-Site"]
   duration: "4h"
-  video: ""
-  image: ""
+  image: "assets/images-events/Open-Space-Day-1.jpg"
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  - img: "assets/images-events/Open-Space-Day-2.jpg"
+    alt: "A large group of developers and consultants attending a presentation during the Itenium Open Space Day, actively participating in a collective learning session and exploring diverse tech topics. This showcases a collaborative learning environment."
+  - img: "assets/images-events/Open-Space-Day-3.jpg"
+    alt: "Consultants brainstorming and sharing ideas during an interactive Open Space session at Itenium, using sticky notes for collaborative problem-solving. This highlights hands-on engagement and collective intelligence in action."
+  - img: "assets/images-events/Open-Space-Day-4.jpg"
+    alt: "A whiteboard showcasing the dynamic agenda of an Itenium Open Space event, with time slots and topics represented by colorful sticky notes. This illustrates the flexible and participant-driven nature of a knowledge-sharing workshop."
+  - img: "assets/images-events/Open-Space-Day-5.jpg"
+    alt: "A group of Itenium consultants actively engaged in a focused Open Space discussion, sharing insights and collaborating on various topics. This image captures the essence of deep knowledge exchange and peer learning."
+  - img: "assets/images-events/Open-Space-Day-6.jpg"
+    alt: "Itenium team members enjoying a relaxed, yet engaging, discussion during an Open Space Day, fostering informal knowledge sharing and strong team connections. This reflects a vibrant developer community."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-openspace-consultinglife-activity-7340317802043518976-W2Gz"
+  instagram: "https://www.instagram.com/p/DK9SHZts-Nj/"
+  twitter: "https://x.com/itenium_be/status/1934552067546182081"
+  facebook: "https://www.facebook.com/share/p/16g2Wxtard/"
 
 - name: "Officeday + Testing Track: deel 1 - Testing Pyramid"
   by: "Alexander Ryckeboer"
