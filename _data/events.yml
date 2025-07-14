@@ -196,7 +196,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -218,7 +219,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -237,7 +239,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -259,7 +262,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -282,7 +286,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -308,7 +313,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -326,7 +332,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -348,7 +355,8 @@
   video: ""
   image: ""
   gallery:
-    - ""
+  - img: ""
+    alt: ""
   linkedIn: ""
   instagram: ""
   twitter: ""
@@ -364,6 +372,8 @@
   duration: "4h"
   image: ""
   gallery:
+  - img: ""
+    alt: ""
   - img: ""
     alt: ""
   - img: ""
