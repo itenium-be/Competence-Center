@@ -356,24 +356,26 @@
   blogPost: ""
 
 - name: "1/2 dag Open Space day + summer drink evening!"
-  by: ""
-  subTitle: ""
   date: 2025-06-06
-  hide: true
   track: "FunEvent"
   summary: >
 
   type: ["On-Site"]
   duration: "4h"
-  video: ""
   image: ""
   gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  - img: ""
+    alt: ""
+  - img: ""
+    alt: ""
+  - img: ""
+    alt: ""
+  - img: ""
+    alt: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-openspace-consultinglife-activity-7340317802043518976-W2Gz"
+  instagram: "https://www.instagram.com/p/DK9SHZts-Nj/"
+  twitter: "https://x.com/itenium_be/status/1934552067546182081"
+  facebook: "https://www.facebook.com/share/p/16g2Wxtard/"
 
 - name: "Officeday + Testing Track: deel 1 - Testing Pyramid"
   by: "Alexander Ryckeboer"
