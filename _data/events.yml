@@ -402,16 +402,34 @@
   hide: true
   track: "QAEvent"
   summary: >
+    Office Day with Learning Lunch
+    <br><br>
+    Last week, we switched things up with an Office Day 
+    at Itenium HQ in Mechelen! While continuing our work 
+    for clients, it was great to spend the day together in 
+    person — a nice break from our usual remote and on-site 
+    routines.
+    <br><br>
+    Over lunch, we kicked off our Testing Track — a new internal 
+    learning series focused on sharpening our testing practices. 
+    We explored how to structure tests efficiently across unit, 
+    integration, and end-to-end layers. We discussed best practices, 
+    trade-offs, and how to avoid common pitfalls like overly relying 
+    on UI tests or skipping unit coverage.
+    <br><br>
+    A valuable knowledge-sharing moment — and only the beginning!
 
   level: Introduction
   content: "Theoretical"
   type: ["On-Site"]
-  duration: "2h"
-  video: ""
+  duration: "4h"
   image: ""
   gallery:
-    - ""
-  linkedIn: ""
+  - img: ""
+    alt: ""
+  - img: ""
+    alt: ""
+  linkedIn: "" 
   instagram: ""
   twitter: ""
   githubUrl: ""
