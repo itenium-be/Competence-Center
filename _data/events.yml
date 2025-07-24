@@ -322,23 +322,28 @@
   blogPost: ""
 
 - name: "Familiedag itenium @ Efteling"
-  subTitle: ""
   date: 2025-06-15
-  hide: true
   track: "FunEvent"
   summary: >
-
+    We spent a fun day at Efteling with the whole Itenium 
+    team — and our families were more than welcome to join. 
+    From looping rollercoasters 🎢 and soaked socks after 
+    the water rides 🌊, to wide-eyed wonder in the Fairytale 
+    Forest 🧚 and just a few too many pancakes... it was all 
+    part of the experience. And with the sun shining, the day 
+    couldn’t have been better. 😎 ☀️ 
+    <br><br>
+    A perfect moment to enjoy time together and get to know 
+    each other outside of work. 😄 
   duration: "8h"
-  video: ""
   image: ""
   gallery:
   - img: ""
     alt: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-efteling-familyday-activity-7345753304590610433-WP0h"
+  instagram: "https://www.instagram.com/p/DLj5-61JMvx/?img_index=1"
+  twitter: "https://x.com/itenium_be/status/1939987553253208447"
+  facebook: "https://www.facebook.com/share/p/1AjhawiRbR/"
 
 - name: "Unit Testing THEORY"
   by: "Wouter"
