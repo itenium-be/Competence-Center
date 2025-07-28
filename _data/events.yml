@@ -318,10 +318,12 @@
   content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
-  image: ""
+  image: "assets/images-events/Unittesting-Java-and-.NET-+-TestContainers-1.jpg"
   gallery:
-  - img: ""
-    alt: ""
+  - img: "assets/images-events/Unittesting-Java-and-.NET-+-TestContainers-2.jpg"
+    alt: "Itenium Java and .NET consultants collaboratively engaged in a hands-on unit testing session, focusing on Test Driven Development and TestContainers for robust software solutions in a modern office environment."
+  - img: "assets/images-events/Unittesting-Java-and-.NET-+-TestContainers-3.jpg"
+    alt: "Developers at Itenium deeply immersed in a practical Testing Track session, learning advanced unit testing techniques for Java and .NET, and applying Test Driven Development principles for clean architecture."
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-unittesting-tdd-activity-7348652284039294976-g66J"
   instagram: "https://www.instagram.com/p/DL4gYIkhFNM/"
   twitter: "https://x.com/itenium_be/status/1942886511386468641"
