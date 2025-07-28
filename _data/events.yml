@@ -273,9 +273,7 @@
 
 - name: "Requirements Gathering"
   by: "Lies Haemels"
-  subTitle: ""
   date: 2025-06-25
-  hide: true
   track: "QAEvent"
   summary: >
 
@@ -288,11 +286,10 @@
   gallery:
   - img: ""
     alt: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_businessanalysis-itenium-functionalanalysis-activity-7346840676128419841-hhC4"
+  instagram: "https://www.instagram.com/p/DLroYX7svo2/"
+  twitter: "https://x.com/itenium_be/status/1941074901655306525"
+  facebook: "https://www.facebook.com/share/p/1BpCr1WmqJ/"
 
 
 - name: "Unit Testing (.NET & Java) + TestContainers"
