@@ -315,11 +315,10 @@
   gallery:
   - img: ""
     alt: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-unittesting-tdd-activity-7348652284039294976-g66J"
+  instagram: "https://www.instagram.com/p/DL4gYIkhFNM/"
+  twitter: "https://x.com/itenium_be/status/1942886511386468641"
+  facebook: "https://www.facebook.com/share/p/1BgnBn3pzu/"
 
 - name: "Familiedag itenium @ Efteling"
   date: 2025-06-15
