@@ -300,11 +300,19 @@
     - "Bert Vermorgen"
     - "Michael Branders"
     - "Simon Verhoeven"
-  subTitle: ""
   date: 2025-06-19
-  hide: true
   track: "TechEvent"
   summary: >
+    Our Java and .NET consultants joined forces in a hands-on
+     session around unit testing and Test Driven Development. 
+     They tackled untested code, wrote their own tests, and even 
+     built new features the TDD way! 💡
+    <br><br>
+    To make things even more interesting, the exercise was built 
+    on a hexagonal architecture – giving everyone a taste of this 
+    clean and flexible design pattern.
+    <br><br>
+    Great energy, valuable practice, and new insights all around! 👏
 
   level: Introduction
   content: "Hands-On"
