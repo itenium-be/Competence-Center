@@ -530,9 +530,9 @@
     Boekenclub Session #2: Diving Deeper into Pattern Hatching – Chapter 2!
     <br><br>
     Last time, we tackled an Object-Oriented FileSystem using Composite, Proxy, and Visitor patterns. This week, we leveled up by implementing multi-user security with:
-      🔹 Template Method to standardize access control logic.
-      🔹 Singleton for a centralized security manager.
-      🔹 Mediator to streamline user-permission interactions.
+    <br>  🔹 Template Method to standardize access control logic.
+    <br>  🔹 Singleton for a centralized security manager.
+    <br>  🔹 Mediator to streamline user-permission interactions.
     <br><br>
     Key takeaway? Patterns aren’t just theory; they’re tools to solve messy design problems elegantly.
     Shoutout to everyone who joined—your insights made this even richer!
