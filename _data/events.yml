@@ -314,11 +314,10 @@
   facebook: "https://www.facebook.com/share/p/1BpCr1WmqJ/"
 
 
-- name: "Unit Testing (.NET & Java) + TestContainers"
+- name: "Unit Testing (.NET & Java)"
   by:
     - "Bert Vermorgen"
     - "Michael Branders"
-    - "Simon Verhoeven"
   date: 2025-06-19
   track: "TechEvent"
   summary: >
