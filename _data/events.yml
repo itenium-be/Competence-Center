@@ -251,24 +251,34 @@
   by: "Wouter"
   subTitle: "e2e Testing with Playwright"
   date: 2025-07-03
-  hide: true
   track: "TechEvent"
   summary: >
-
+    In this part of our Testing Track, we explored 
+    Playwright – Microsoft’s powerful end-to-end testing 
+    framework.
+    <br><br> 
+    From cross-browser testing to handling flaky tests and 
+    CI integration, this session was packed with practical 
+    demos, real-world tips and hands-on exercises.
+    <br><br> 
+    Big thanks to Wouter for guiding us through the good, 
+    the bad, and the async. 
+    <br><br> 
+    Missed Part 1 & 2? Check out our earlier deep-dives on 
+    the Testing Pyramid and Unit Testing Best Practices.
   level: Introduction
   content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
-  video: ""
-  image: ""
+  image: "assets/images-events/Testing-Track-Playwright-1.jpg"
   gallery:
-  - img: ""
-    alt: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  - img: "assets/images-events/Testing-Track-Playwright-2.jpg"
+    alt: "A speaker leading a practical workshop on e2e testing with Playwright, engaging a team of developers with hands-on exercises and real-world tips for modern software testing and CI integration."
+  linkedIn: "https://www.linkedin.com/posts/itenium_testingtrack-playwright-softwaretesting-activity-7349377042104131585-jF3Y"
+  instagram: "https://www.instagram.com/p/DL9p_JGsaBO/"
+  twitter: "https://x.com/itenium_be/status/1943611265777021175"
+  facebook: "https://www.facebook.com/itenium.be/posts/pfbid02ifDEaXAR2ZnXHACin63S95VvCwivwrHC43oU4EboQPtYwv1Z19kNUftXGqW7L1s3l"
+  githubUrl: "https://github.com/itenium-be/confac-playwright"
 
 
 - name: "Requirements Gathering"
