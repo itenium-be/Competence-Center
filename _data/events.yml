@@ -270,10 +270,10 @@
   content: "Hands-On"
   type: ["On-Site"]
   duration: "4h"
-  image: ""
+  image: "assets/images-events/Testing-Track-Playwright-1.jpg"
   gallery:
-  - img: ""
-    alt: ""
+  - img: "assets/images-events/Testing-Track-Playwright-2.jpg"
+    alt: "A speaker leading a practical workshop on e2e testing with Playwright, engaging a team of developers with hands-on exercises and real-world tips for modern software testing and CI integration."
   linkedIn: "https://www.linkedin.com/posts/itenium_testingtrack-playwright-softwaretesting-activity-7349377042104131585-jF3Y"
   instagram: "https://www.instagram.com/p/DL9p_JGsaBO/"
   twitter: "https://x.com/itenium_be/status/1943611265777021175"
