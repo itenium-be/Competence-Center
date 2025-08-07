@@ -227,9 +227,8 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "TBD"
-  by: ""
-  subTitle: ""
+- name: "Arrow Tag"
+  subTitle: "Laat de boogschutter in jezelf naar boven komen!"
   date: 2025-09-04
   hide: true
   track: "FunEvent"
