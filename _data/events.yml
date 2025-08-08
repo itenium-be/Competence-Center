@@ -417,11 +417,7 @@
   content: "Theoretical"
   type: ["Virtual"]
   duration: "1h"
-  video: ""
-  image: ""
-  gallery:
-  - img: ""
-    alt: ""
+  image: "assets/images-events/Unit-Testing-THEORY-1.png"
   githubUrl: "https://github.com/itenium-be/UnitTesting"
 
 - name: "Open Space day + Summer Drink Evening"
