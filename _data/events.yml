@@ -394,11 +394,24 @@
 
 - name: "Unit Testing THEORY"
   by: "Wouter"
-  subTitle: ""
   date: 2025-06-12
-  hide: true
   track: "TechEvent"
   summary: >
+    ✅ Unit Testing Theory – Recap Done Right
+    <br><br>
+    Before diving into code, we zoomed through the why of testing: 
+    <br>🧠 Boundary Value Analysis
+    <br>🔃 State vs Behavior testing 
+    <br>🧍 Solitary vs Social tests 
+    <br>📏 Coverage ≠ Quality (branch > line)
+    <br>⚡ Quick feedback loops 
+    <br>🧪 Test Doubles & Mocking 
+    <br>🏗️ Testing legacy code without losing your mind
+    <br>📐 TDD & the FIRST + AAA principles 
+    <br>🚩 Common pitfalls (and how to dodge them)
+    <br><br>
+    And remember:
+    If your tests don’t run on CI… you might as well not have any. 😅 
 
   level: Introduction
   content: "Theoretical"
