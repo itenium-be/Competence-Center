@@ -422,11 +422,7 @@
   gallery:
   - img: ""
     alt: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  githubUrl: "https://github.com/itenium-be/UnitTesting"
 
 - name: "Open Space day + Summer Drink Evening"
   date: 2025-06-06
