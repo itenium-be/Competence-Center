@@ -116,12 +116,12 @@
   blogPost: ""
 
 
-- name: "PO & Analyse TBD"
+- name: "Officeday"
   by: ""
   subTitle: ""
-  date: 2025-10-08
+  date: 2025-10-21
   hide: true
-  track: "QAEvent"
+  track: "FunEvent"
   summary: >
 
   level: Introduction
@@ -138,26 +138,6 @@
   githubUrl: ""
   blogPost: ""
 
-
-- name: "Tech Café 3"
-  by: ""
-  subTitle: ""
-  date: 2025-10-02
-  hide: true
-  track: "TechCafe"
-  summary: >
-
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
 
 - name: "QA minded: code complete?"
   by: ""
@@ -181,7 +161,7 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "Kantoordag + QA minded: analysis complete?"
+- name: "Kantoordag + Middag sessie DDD + 's avonds afterwork board games"
   by: ""
   subTitle: "itenium on the move"
   date: 2025-09-18
