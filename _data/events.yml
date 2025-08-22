@@ -139,6 +139,28 @@
   blogPost: ""
 
 
+- name: "PO & Analyse TBD --> TBD --> BPMN"
+  by: ""
+  subTitle: ""
+  date: 2025-10-08
+  hide: true
+  track: "QAEvent"
+  summary: >
+
+  level: Introduction
+  content: ""
+  type: []
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+    - ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+  blogPost: ""
+
 - name: "QA minded: code complete?"
   by: ""
   subTitle: ""
