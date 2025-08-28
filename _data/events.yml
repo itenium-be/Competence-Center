@@ -27,29 +27,6 @@
   blogPost: ""
 
 
-- name: "Testing shift left: do or don't?"
-  by: ""
-  subTitle: ""
-  date: 2025-11-20
-  hide: true
-  track: "QAEvent"
-  summary: >
-
-  level: Introduction
-  content: "Theoretical"
-  type: ["Virtual"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
 - name: "TBD"
   by: ""
   subTitle: ""
@@ -161,9 +138,9 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "QA minded: code complete?"
-  by: ""
-  subTitle: ""
+- name: "Testing Track: Test Containers"
+  by: "Simon Verhoeven"
+  subTitle: "Hands-on Test Containers and other test-related exercises"
   date: 2025-09-25
   hide: true
   track: "QAEvent"
