@@ -140,7 +140,7 @@
 
 - name: "Testing Track: Test Containers"
   by: "Simon Verhoeven"
-  subTitle: ""
+  subTitle: "Hands-on Test Containers and other test-related exercises"
   date: 2025-09-25
   hide: true
   track: "QAEvent"
