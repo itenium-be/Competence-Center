@@ -206,26 +206,25 @@
   githubUrl: ""
   blogPost: ""
 
-- name: "TBD"
-  by: ""
-  subTitle: ""
+- name: "ArrowTag"
   date: 2025-09-04
-  hide: true
   track: "FunEvent"
   summary: >
-
+    🏖️ Beaches were fun. BBQs were delicious. Naps were legendary.
+    But… our keyboards missed us. 💻 ❤️ 
+    <br><br> 
+    After a well-earned summer break, the Itenium crew is back — recharged, 
+    slightly more tanned, and ready to turn caffeine into code again.  ☕ 🚀 
   duration: "4h"
-  video: ""
   image: ""
   gallery:
   - img: ""
     alt: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-teamfun-arrowtag-activity-7371845088022544384-gvWb"
+  instagram: "https://www.instagram.com/p/DOdTSUdE49U/"
+  facebook: "https://www.facebook.com/share/p/1745AqwSow/"
 
+  
 - name: "Testing Track: deel 3 - Playwright"
   by: "Wouter"
   subTitle: "e2e Testing with Playwright"
