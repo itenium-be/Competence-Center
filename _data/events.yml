@@ -220,11 +220,17 @@
   gallery:
   - img: ""
     alt: ""
+  - img: ""
+    alt: ""
+  - img: ""
+    alt: ""
+  - img: ""
+    alt: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-teamfun-arrowtag-activity-7371845088022544384-gvWb"
   instagram: "https://www.instagram.com/p/DOdTSUdE49U/"
   facebook: "https://www.facebook.com/share/p/1745AqwSow/"
 
-  
+
 - name: "Testing Track: deel 3 - Playwright"
   by: "Wouter"
   subTitle: "e2e Testing with Playwright"
