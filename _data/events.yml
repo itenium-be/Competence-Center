@@ -91,7 +91,7 @@
 
 
 - name: "PO & Analyse BPMN"
-  by: ""
+  by: "Timo Versonnen"
   subTitle: ""
   date: 2025-10-08
   hide: true
