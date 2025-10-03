@@ -554,7 +554,40 @@
   twitter: "https://x.com/itenium_be/status/1932015034613309922"
   facebook: "https://www.facebook.com/share/p/14DT4gDxdJj/"
 
-
+- name: "Hoe communiceer ik impactvol in mijn projecten?"
+  date: 2025-05-14
+  track: "SoftSkill"
+  summary: >
+    In our latest soft skills session, trainer Tom De Wachter 
+    guided us through the essentials of impactful communication 
+    within a project context.
+    <br><br>
+    We tackled three core themes:
+    <br>✅ Building alignment with your stakeholders
+    <br>✅ Communicating your message with clarity and confidence
+    <br>✅ Navigating resistance and handling conflict effectively
+    <br><br>
+    The session sparked great discussions and gave us practical 
+    tools to apply immediately in our roles.
+    <br><br>
+    Thanks to everyone who joined and contributed!
+  level: Introduction
+  type: ["On-Site"]
+  duration: "4h"
+  image: "assets/images-events/How-Do-I-Communicate-1.jpg"
+  gallery:
+    - img: "assets/images-events/How-Do-I-Communicate-2.jpg"
+      alt: "Developers and consultants attentively engaged in a **communication workshop**, learning techniques for **clarity and confidence** to master **stakeholder alignment** in project environments."
+    - img: "assets/images-events/How-Do-I-Communicate-3.jpg"
+      alt: "A presentation slide detailing a matrix for **stakeholder management**, classifying groups like CHAMPIONS and BARRIERS to ensure targeted and **effective project communication** strategies."
+    - img: "assets/images-events/How-Do-I-Communicate-4.jpg"
+      alt: "The trainer leading a discussion on **impactvol communiceren** (communicating with impact), providing practical tools for **navigating resistance** and improving project communication skills among professionals."
+    - img: "assets/images-events/How-Do-I-Communicate-5.jpg"
+      alt: "Team members engaging in an informal follow-up discussion outdoors, applying **soft skills** and **communication strategies** learned in the workshop to real-world project scenarios and **team collaboration**."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-softskills-consultinglife-activity-7332707254732828672-C0Gk"
+  instagram: "https://www.instagram.com/p/DKHNZGIi5ad/"
+  twitter: "https://x.com/itenium_be/status/1926941472504361314"
+  facebook: "https://www.facebook.com/share/p/14JEgkTk7hi/"
 
 - name: ".NET Session 2: Blazor Intro Session"
   subTitle: "The Return of The Socks Store"
