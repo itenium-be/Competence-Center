@@ -50,14 +50,17 @@
   blogPost: ""
 
 
-- name: "TBD"
-  by: ""
-  subTitle: ""
+- name: "Elite Agenten onder leiding van John K."
+  subTitle: "Koezio, Brussel"
   date: 2025-11-06
   hide: true
   track: "FunEvent"
   summary: >
-
+    Je missie: met een team de 4 districten van de missie afleggen. Jullie worden getest op fysieke en mentale capaciteiten
+    om de volgende Elite agenten te worden die zich bij het centrum van professor John K voegen! Snel, behendig zijn op een
+    hoogte van 12 meter, flexibel en in staat zijn je hersens te laten werken, dat zijn de vaardigheden die je nodig hebt om
+    de testen door te komen. Jullie hebben 120 minuten om de 4 testen af te leggen en het overtuigende bewijs te leveren dat
+    jullie de Elite agenten zijn die wij zoeken!
   duration: "4h"
   video: ""
   image: ""
@@ -66,45 +69,18 @@
   linkedIn: ""
   instagram: ""
   twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
-
-- name: ".NET/Java TBD"
-  by: ""
-  subTitle: ""
-  date: 2025-10-23
-  hide: true
-  track: "TechEvent"
-  summary: >
-
-  level: Introduction
-  content: "Hands-On"
-  type: ["On-Site"]
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
 
 
 - name: "Officeday"
-  by: ""
   subTitle: ""
   date: 2025-10-21
   hide: true
   track: "FunEvent"
   summary: >
 
-  level: Introduction
   content: ""
   type: []
-  duration: "4h"
+  duration: "8h"
   video: ""
   image: ""
   gallery:
@@ -112,8 +88,6 @@
   linkedIn: ""
   instagram: ""
   twitter: ""
-  githubUrl: ""
-  blogPost: ""
 
 
 - name: "PO & Analyse BPMN"
@@ -135,8 +109,6 @@
   linkedIn: ""
   instagram: ""
   twitter: ""
-  githubUrl: ""
-  blogPost: ""
 
 - name: "Testing Track: Test Containers"
   by: "Simon Verhoeven"
