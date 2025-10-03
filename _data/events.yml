@@ -556,6 +556,11 @@
   type: ["Virtual"]
   duration: "4h"
   image: ""
+  gallery:
+    - img: ""
+      alt: ""
+    - img: ""
+      alt: 
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-softskills-consultinglife-activity-7332707254732828672-C0Gk"
   instagram: "https://www.instagram.com/p/DKHNZGIi5ad/"
   twitter: "https://x.com/itenium_be/status/1926941472504361314"
