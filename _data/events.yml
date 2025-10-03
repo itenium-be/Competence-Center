@@ -163,10 +163,22 @@
 - name: "Kantoordag + Middag sessie DDD + 's avonds afterwork board games"
   subTitle: "itenium on the move"
   date: 2025-09-18
-  hide: true
   track: "QAEvent"
   summary: >
-
+   ✨ A full day together at itenium!
+    <br><br>
+   💻 We started the morning by working side by side in the 
+   office on our own projects — always a nice energy boost 
+   when everyone’s around.
+    <br><br>
+   📚 At noon, we gathered for an inspiring Domain-Driven Design 
+   training with Kim Van Renterghem. With insights and examples, 
+   Kim showed how DDD helps align developers and business to build 
+   cleaner and more maintainable systems.
+    <br><br>
+   🍕 In the evening, we wrapped up with Burgers & Board Games. TT
+   The funny part? We didn’t end up playing any board games — just 
+   great food and conversations! 😅 
   level: Introduction
   content: "Theoretical"
   type: ["On-Site"]
