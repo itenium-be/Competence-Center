@@ -133,27 +133,40 @@
   blogPost: ""
 
 - name: "Kantoordag + Middag sessie DDD + 's avonds afterwork board games"
-  by: ""
   subTitle: "itenium on the move"
   date: 2025-09-18
-  hide: true
   track: "QAEvent"
   summary: >
-
+   ✨ A full day together at itenium!
+    <br><br>
+   💻 We started the morning by working side by side in the 
+   office on our own projects — always a nice energy boost 
+   when everyone’s around.
+    <br><br>
+   📚 At noon, we gathered for an inspiring Domain-Driven Design 
+   training with Kim Van Renterghem. With insights and examples, 
+   Kim showed how DDD helps align developers and business to build 
+   cleaner and more maintainable systems.
+    <br><br>
+   🍔 In the evening, we wrapped up with Burgers & Board Games.
+   The funny part? We didn’t end up playing any board games — just 
+   great food and conversations! 😅 
   level: Introduction
   content: "Theoretical"
   type: ["On-Site"]
-  duration: "2h"
-  video: ""
-  image: ""
+  duration: "4h"
+  image: "assets/images-events/Office-Day-and-DDD-1.jpg"
   gallery:
-  - img: ""
-    alt: ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  - img: "assets/images-events/Office-Day-and-DDD-2.jpg"
+    alt: "The software consultant team working side-by-side during **Office Day**, promoting **collaborative productivity** and focused **software development** in the company workspace."
+  - img: "assets/images-events/Office-Day-and-DDD-3.jpg"
+    alt: "A speaker presenting a complex system diagram during the **Domain-Driven Design workshop**, delivering expert **DDD insights** on building cleaner and more robust software architecture."
+  - img: "assets/images-events/Office-Day-and-DDD-4.JPG"
+    alt: "Employees enjoying a casual outdoor **afterwork networking** event, fostering **team bonding** and conversation over a BBQ, celebrating a successful **team day** of learning and fun."
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-teamday-domaindrivendesign-activity-7376556229244002304-_2Pi"
+  instagram: "https://www.instagram.com/p/DO-xm0kjewZ/Hi"
+  facebook: "https://www.facebook.com/share/p/17DiwvraKw/"
+  twitter: "https://x.com/itenium_be/status/1970790439977464108"
 
 - name: "TBD"
   by: ""
