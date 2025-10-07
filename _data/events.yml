@@ -182,9 +182,13 @@
   level: Introduction
   content: "Theoretical"
   type: ["On-Site"]
-  duration: "2h"
+  duration: "4h"
   image: ""
   gallery:
+  - img: ""
+    alt: ""
+  - img: ""
+    alt: ""
   - img: ""
     alt: ""
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-teamday-domaindrivendesign-activity-7376556229244002304-_2Pi"
