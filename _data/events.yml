@@ -50,9 +50,8 @@
   blogPost: ""
 
 
-- name: "TBD"
-  by: ""
-  subTitle: ""
+- name: "Elite Agenten : Koezio, Brussel"
+  by: "John K."
   date: 2025-11-06
   hide: true
   track: "FunEvent"
@@ -63,11 +62,10 @@
   image: ""
   gallery:
     - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
+  linkedIn: "https://www.linkedin.com/posts/itenium_havingfun-consultants-itenium-activity-7395056953573445634-bmvF"
+  instagram: "https://www.instagram.com/p/DRCNDwumALi/"
+  twitter: "https://x.com/itenium_be/status/1989287321460519382"
+  facebook: "https://www.facebook.com/share/p/1AJAq84ozc/"
 
 
 - name: ".NET/Java TBD"
@@ -100,7 +98,7 @@
   hide: true
   track: "FunEvent"
   summary: >
-
+    
   level: Introduction
   content: ""
   type: []
