@@ -66,9 +66,12 @@
     A mix of puzzles, teamwork, and physical challenges made for the 
     perfect combination of fun and competition.
   duration: "4h"
-  image: ""
+  image: "assets/images-events/Koezio-1.jpg"
   gallery:
-    - ""
+    - img: assets/images-events/Koezio-2.jpg""
+      alt: "Itenium consultants getting into character with **Elite Agents** poses at **Koezio Brussel**, capturing the spirit of **teamwork with a competitive edge** during the fun challenge."
+    - img: "assets/images-events/Koezio-3.jpg"
+      alt: "A group celebrating their successful **Koezio challenge** with a sign affirming their status as a great team, emphasizing **strong team collaboration** and successful **puzzle solving** at the event."
   linkedIn: "https://www.linkedin.com/posts/itenium_havingfun-consultants-itenium-activity-7395056953573445634-bmvF"
   instagram: "https://www.instagram.com/p/DRCNDwumALi/"
   twitter: "https://x.com/itenium_be/status/1989287321460519382"
