@@ -115,29 +115,6 @@
   githubUrl: ""
   blogPost: ""
 
-
-- name: "PO & Analyse BPMN"
-  by: ""
-  subTitle: ""
-  date: 2025-10-08
-  hide: true
-  track: "QAEvent"
-  summary: >
-
-  level: Introduction
-  content: ""
-  type: []
-  duration: "4h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-  githubUrl: ""
-  blogPost: ""
-
 - name: "Testing Track: Test Containers"
   by: "Simon Verhoeven"
   subTitle: "Hands-on Test Containers and other test-related exercises"
