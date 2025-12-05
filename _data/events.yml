@@ -50,17 +50,45 @@
   blogPost: ""
 
 
-- name: "Elite Agenten onder leiding van John K."
-  subTitle: "Koezio, Brussel"
+- name: "Elite Agenten: Koezio, Brussel"
+  by: "John K."
   date: 2025-11-06
-  hide: true
   track: "FunEvent"
   summary: >
-    Je missie: met een team de 4 districten van de missie afleggen. Jullie worden getest op fysieke en mentale capaciteiten
-    om de volgende Elite agenten te worden die zich bij het centrum van professor John K voegen! Snel, behendig zijn op een
-    hoogte van 12 meter, flexibel en in staat zijn je hersens te laten werken, dat zijn de vaardigheden die je nodig hebt om
-    de testen door te komen. Jullie hebben 120 minuten om de 4 testen af te leggen en het overtuigende bewijs te leveren dat
-    jullie de Elite agenten zijn die wij zoeken!
+    Teamwork with a Competitive Edge 💥 
+    <br><br>
+    Last week, our consultants took on the Elite Agents Mission 
+    at Koezio Brussels.
+    <br><br>
+    Three teams, one goal: score as many points as possible — and 
+    outsmart the others.
+    <br><br>
+    A mix of puzzles, teamwork, and physical challenges made for the 
+    perfect combination of fun and competition.
+  duration: "4h"
+  image: "assets/images-events/Koezio-1.jpg"
+  gallery:
+    - img: assets/images-events/Koezio-2.jpg""
+      alt: "Itenium consultants getting into character with **Elite Agents** poses at **Koezio Brussel**, capturing the spirit of **teamwork with a competitive edge** during the fun challenge."
+    - img: "assets/images-events/Koezio-3.jpg"
+      alt: "A group celebrating their successful **Koezio challenge** with a sign affirming their status as a great team, emphasizing **strong team collaboration** and successful **puzzle solving** at the event."
+  linkedIn: "https://www.linkedin.com/posts/itenium_havingfun-consultants-itenium-activity-7395056953573445634-bmvF"
+  instagram: "https://www.instagram.com/p/DRCNDwumALi/"
+  twitter: "https://x.com/itenium_be/status/1989287321460519382"
+  facebook: "https://www.facebook.com/share/p/1AJAq84ozc/"
+
+
+- name: ".NET/Java TBD"
+  by: ""
+  subTitle: ""
+  date: 2025-10-23
+  hide: true
+  track: "TechEvent"
+  summary: >
+
+  level: Introduction
+  content: "Hands-On"
+  type: ["On-Site"]
   duration: "4h"
   video: ""
   image: ""
@@ -69,6 +97,8 @@
   linkedIn: ""
   instagram: ""
   twitter: ""
+  githubUrl: ""
+  blogPost: ""
 
 
 - name: "Officeday"
@@ -77,27 +107,7 @@
   hide: true
   track: "FunEvent"
   summary: >
-
-  content: ""
-  type: []
-  duration: "8h"
-  video: ""
-  image: ""
-  gallery:
-    - ""
-  linkedIn: ""
-  instagram: ""
-  twitter: ""
-
-
-- name: "PO & Analyse BPMN"
-  by: "Timo Versonnen"
-  subTitle: ""
-  date: 2025-10-08
-  hide: true
-  track: "QAEvent"
-  summary: >
-
+    
   level: Introduction
   content: ""
   type: []
