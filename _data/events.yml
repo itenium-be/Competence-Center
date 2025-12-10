@@ -494,6 +494,28 @@
     <br><br>
     A valuable knowledge-sharing moment — and only the beginning!
 
+- name: "Techorama"
+  by: ""
+  subTitle: ""
+  date: 2025-05-27
+  hide: true
+  track: "SoftSkill"
+  summary: >
+
+  level: Introduction
+  content: "SoftSkill"
+  type: ["On-Site"]
+  duration: "4h"
+  video: ""
+  image: ""
+  gallery:
+  - img: ""
+    alt: ""
+  linkedIn: ""
+  instagram: ""
+  twitter: ""
+  githubUrl: ""
+
   level: Introduction
   content: "Theoretical"
   type: ["On-Site"]
