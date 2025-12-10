@@ -453,7 +453,7 @@
 - name: "DDD Europe"
   by: "Bert Vermorgen"
   date: 2025-06-04
-  track: "SoftSkill"
+  track: "DotNetTrack"
   summary: >
     Last month, our .NET Competence Coach Bert Vermorgen 
     attended DDD Europe, where Chris Simon delivered a 
@@ -464,10 +464,7 @@
   content: "SoftSkill"
   type: ["On-Site"]
   duration: "4h"
-  image: ""
-  gallery:
-  - img: ""
-    alt: ""
+  image: "assets/images-events/DDD-Europe-1.jpg"
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-softwarequality-dddeurope-activity-7347927544999931904-yZup"
   instagram: "https://www.instagram.com/p/DLzWxk1t3Z3/"
   twitter: "https://x.com/itenium_be/status/1942161761638990011"
