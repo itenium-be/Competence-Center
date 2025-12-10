@@ -455,7 +455,11 @@
   date: 2025-06-04
   track: "SoftSkill"
   summary: >
-
+    Last month, our .NET Competence Coach Bert Vermorgen 
+    attended DDD Europe, where Chris Simon delivered a 
+    standout talk, “A Defence of Technical Excellence” — a 
+    compelling reminder to never compromise on internal 
+    software quality.
   level: Introduction
   content: "SoftSkill"
   type: ["On-Site"]
