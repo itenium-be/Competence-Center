@@ -27,12 +27,14 @@
   blogPost: ""
 
 
-- name: "TBD"
-  by: ""
+- name: ".NET Aspire"
+  by:
+    - "Bert Vermorgen"
+    - "Joachim D'hondt"
   subTitle: ""
-  date: 2025-11-12
+  date: 2025-12-09
   hide: true
-  track: "SoftSkill"
+  track: "DotNetTrack"
   summary: >
 
   level: Introduction
