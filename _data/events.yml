@@ -151,18 +151,18 @@
   summary: >
    ✨ A full day together at itenium!
     <br><br>
-   💻 We started the morning by working side by side in the 
-   office on our own projects — always a nice energy boost 
+   💻 We started the morning by working side by side in the
+   office on our own projects — always a nice energy boost
    when everyone’s around.
     <br><br>
-   📚 At noon, we gathered for an inspiring Domain-Driven Design 
-   training with Kim Van Renterghem. With insights and examples, 
-   Kim showed how DDD helps align developers and business to build 
+   📚 At noon, we gathered for an inspiring Domain-Driven Design
+   training with Kim Van Renterghem. With insights and examples,
+   Kim showed how DDD helps align developers and business to build
    cleaner and more maintainable systems.
     <br><br>
    🍔 In the evening, we wrapped up with Burgers & Board Games.
-   The funny part? We didn’t end up playing any board games — just 
-   great food and conversations! 😅 
+   The funny part? We didn’t end up playing any board games — just
+   great food and conversations! 😅
   level: Introduction
   content: "Theoretical"
   type: ["On-Site"]
@@ -213,12 +213,12 @@
     <br>
     But first it was time to unleash our inner archers! 🏹
     <br><br>
-    We headed to Aalst for Arrow Tag: two teams, bows and plenty of action. 💥 
+    We headed to Aalst for Arrow Tag: two teams, bows and plenty of action. 💥
     <br><br>
-    From tactical battles to hilarious muddy moments—it turned into an evening 
+    From tactical battles to hilarious muddy moments—it turned into an evening
     full of teamwork, adrenaline, and fun.
     <br><br>
-    And of course, we wrapped it up with drinks at the bar to relive the highlights. 
+    And of course, we wrapped it up with drinks at the bar to relive the highlights.
     🍻 3... 2... 1... shoot!
   duration: "4h"
   image: "assets/images-events/Arrowtag-1.jpg"
@@ -236,24 +236,24 @@
   facebook: "https://www.facebook.com/share/p/1745AqwSow/"
 
 
-- name: "Testing Track: deel 3 - Playwright"
+- name: "Testing Track: part 3 - Playwright"
   by: "Wouter"
   subTitle: "e2e Testing with Playwright"
   date: 2025-07-03
   track: "TechEvent"
   summary: >
-    In this part of our Testing Track, we explored 
-    Playwright – Microsoft’s powerful end-to-end testing 
+    In this part of our Testing Track, we explored
+    Playwright – Microsoft’s powerful end-to-end testing
     framework.
-    <br><br> 
-    From cross-browser testing to handling flaky tests and 
-    CI integration, this session was packed with practical 
+    <br><br>
+    From cross-browser testing to handling flaky tests and
+    CI integration, this session was packed with practical
     demos, real-world tips and hands-on exercises.
-    <br><br> 
-    Big thanks to Wouter for guiding us through the good, 
-    the bad, and the async. 
-    <br><br> 
-    Missed Part 1 & 2? Check out our earlier deep-dives on 
+    <br><br>
+    Big thanks to Wouter for guiding us through the good,
+    the bad, and the async.
+    <br><br>
+    Missed Part 1 & 2? Check out our earlier deep-dives on
     the Testing Pyramid and Unit Testing Best Practices.
   level: Introduction
   content: "Hands-On"
@@ -275,10 +275,10 @@
   date: 2025-06-25
   track: "QAEvent"
   summary: >
-    Last Wednesday, we tackled "Requirements Elicitation" 
-    in a hands-on workshop—exploring the what, why, and how 
-    of gathering requirements effectively. 
-    <br><br> 
+    Last Wednesday, we tackled "Requirements Elicitation"
+    in a hands-on workshop—exploring the what, why, and how
+    of gathering requirements effectively.
+    <br><br>
     Teams evaluated 12 techniques and answered key questions:
     <br>✔️ Participants: Who’s involved?
     <br>✔️ Preparation & Process: How much effort does it take?
@@ -286,12 +286,12 @@
     <br>✔️ Star Rating: 1-5 —how well does it actually work for requirements?
     <br><br>
     Spoiler: Apprenticing, Contextual inquiry and Prototyping s
-    cored high, while some methods (looking at you, system archaeology) 
-    proved… niche. 
+    cored high, while some methods (looking at you, system archaeology)
+    proved… niche.
     <br><br>
-    🐒 The inside joke? "Find the wet monkey"—a.k.a. hunting for that 
+    🐒 The inside joke? "Find the wet monkey"—a.k.a. hunting for that
     rare business expert who still knows why things are done the way they are.
-    <br>🛠️ Bonus round: We shared tools we’ve used in the wild—because 
+    <br>🛠️ Bonus round: We shared tools we’ve used in the wild—because
     even the best technique needs the right tech!
     <br>💡 Key takeaway? No one-size-fits-all. The best analysts mix methods.
     <br><br>
@@ -321,12 +321,12 @@
   track: "TechEvent"
   summary: >
     Our Java and .NET consultants joined forces in a hands-on
-     session around unit testing and Test Driven Development. 
-     They tackled untested code, wrote their own tests, and even 
+     session around unit testing and Test Driven Development.
+     They tackled untested code, wrote their own tests, and even
      built new features the TDD way! 💡
     <br><br>
-    To make things even more interesting, the exercise was built 
-    on a hexagonal architecture – giving everyone a taste of this 
+    To make things even more interesting, the exercise was built
+    on a hexagonal architecture – giving everyone a taste of this
     clean and flexible design pattern.
     <br><br>
     Great energy, valuable practice, and new insights all around! 👏
@@ -350,16 +350,16 @@
   date: 2025-06-15
   track: "FunEvent"
   summary: >
-    We spent a fun day at Efteling with the whole Itenium 
-    team — and our families were more than welcome to join. 
-    From looping rollercoasters 🎢 and soaked socks after 
-    the water rides 🌊, to wide-eyed wonder in the Fairytale 
-    Forest 🧚 and just a few too many pancakes... it was all 
-    part of the experience. And with the sun shining, the day 
-    couldn’t have been better. 😎 ☀️ 
+    We spent a fun day at Efteling with the whole Itenium
+    team — and our families were more than welcome to join.
+    From looping rollercoasters 🎢 and soaked socks after
+    the water rides 🌊, to wide-eyed wonder in the Fairytale
+    Forest 🧚 and just a few too many pancakes... it was all
+    part of the experience. And with the sun shining, the day
+    couldn’t have been better. 😎 ☀️
     <br><br>
-    A perfect moment to enjoy time together and get to know 
-    each other outside of work. 😄 
+    A perfect moment to enjoy time together and get to know
+    each other outside of work. 😄
   duration: "8h"
   image: "assets/images-events/Family-Day-1.jpg"
   gallery:
@@ -395,19 +395,19 @@
   summary: >
     ✅ Unit Testing Theory – Recap Done Right
     <br><br>
-    Before diving into code, we zoomed through the why of testing: 
+    Before diving into code, we zoomed through the why of testing:
     <br>🧠 Boundary Value Analysis
-    <br>🔃 State vs Behavior testing 
-    <br>🧍 Solitary vs Social tests 
+    <br>🔃 State vs Behavior testing
+    <br>🧍 Solitary vs Social tests
     <br>📏 Coverage ≠ Quality (branch > line)
-    <br>⚡ Quick feedback loops 
-    <br>🧪 Test Doubles & Mocking 
+    <br>⚡ Quick feedback loops
+    <br>🧪 Test Doubles & Mocking
     <br>🏗️ Testing legacy code without losing your mind
-    <br>📐 TDD & the FIRST + AAA principles 
+    <br>📐 TDD & the FIRST + AAA principles
     <br>🚩 Common pitfalls (and how to dodge them)
     <br><br>
     And remember:
-    If your tests don’t run on CI… you might as well not have any. 😅 
+    If your tests don’t run on CI… you might as well not have any. 😅
 
   level: Introduction
   content: "Theoretical"
@@ -421,16 +421,16 @@
   subTitle: "Open Space @ itenium – where ideas spark and where people connect!"
   track: "FunEvent"
   summary: >
-    Last Friday, we turned our office into a playground 
-    for knowledge sharing and spontaneous discussions. 
-    No set agenda – just passionate consultants diving into 
-    topics like AI tools, Domain-Driven Design, learning 
+    Last Friday, we turned our office into a playground
+    for knowledge sharing and spontaneous discussions.
+    No set agenda – just passionate consultants diving into
+    topics like AI tools, Domain-Driven Design, learning
     strategies, and more.
     <br><br>
-    From deep conversations to relaxed summer drinks – it 
-    was a perfect mix of brains and vibes. 
+    From deep conversations to relaxed summer drinks – it
+    was a perfect mix of brains and vibes.
     <br><br>
-    Want to be part of a team that values curiosity, 
+    Want to be part of a team that values curiosity,
     collaboration, and fun? Let's talk!
 
   type: ["On-Site"]
@@ -478,6 +478,7 @@
 
 
 - name: "Officeday + Testing Track: deel 1 - Testing Pyramid"
+- name: "Officeday + Testing Track: part 1 - Testing Pyramid"
   by: "Alexander Ryckeboer"
   subTitle: "itenium on the move"
   date: 2025-05-28
@@ -485,17 +486,17 @@
   summary: >
     Office Day with Learning Lunch
     <br><br>
-    Last week, we switched things up with an Office Day 
-    at Itenium HQ in Mechelen! While continuing our work 
-    for clients, it was great to spend the day together in 
-    person — a nice break from our usual remote and on-site 
+    Last week, we switched things up with an Office Day
+    at Itenium HQ in Mechelen! While continuing our work
+    for clients, it was great to spend the day together in
+    person — a nice break from our usual remote and on-site
     routines.
     <br><br>
-    Over lunch, we kicked off our Testing Track — a new internal 
-    learning series focused on sharpening our testing practices. 
-    We explored how to structure tests efficiently across unit, 
-    integration, and end-to-end layers. We discussed best practices, 
-    trade-offs, and how to avoid common pitfalls like overly relying 
+    Over lunch, we kicked off our Testing Track — a new internal
+    learning series focused on sharpening our testing practices.
+    We explored how to structure tests efficiently across unit,
+    integration, and end-to-end layers. We discussed best practices,
+    trade-offs, and how to avoid common pitfalls like overly relying
     on UI tests or skipping unit coverage.
     <br><br>
     A valuable knowledge-sharing moment — and only the beginning!
@@ -514,7 +515,7 @@
     alt: "A focused software development team engaged in their daily work during an Office Day, collaborating and ensuring client project delivery. This showcases a productive and connected developer workspace."
   - img: "assets/images-events/Officeday-and-Testing Pyramid-5.jpg"
     alt: "Software professionals enjoying a collaborative break during an Office Day, fostering team bonding and informal knowledge exchange. This demonstrates a vibrant developer community and team-building atmosphere."
-  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-officeday-consultinglife-activity-7336693547338752000-gDKE" 
+  linkedIn: "https://www.linkedin.com/posts/itenium_itenium-officeday-consultinglife-activity-7336693547338752000-gDKE"
   instagram: "https://www.instagram.com/p/DKjiMqyJ_3E/"
   twitter: "https://x.com/itenium_be/status/1930927785263968673"
   facebook: "https://www.facebook.com/share/p/1Q2R3kKtv5/"
@@ -580,8 +581,8 @@
   date: 2025-05-14
   track: "SoftSkill"
   summary: >
-    In our latest soft skills session, trainer Tom De Wachter 
-    guided us through the essentials of impactful communication 
+    In our latest soft skills session, trainer Tom De Wachter
+    guided us through the essentials of impactful communication
     within a project context.
     <br><br>
     We tackled three core themes:
@@ -589,7 +590,7 @@
     <br>✅ Communicating your message with clarity and confidence
     <br>✅ Navigating resistance and handling conflict effectively
     <br><br>
-    The session sparked great discussions and gave us practical 
+    The session sparked great discussions and gave us practical
     tools to apply immediately in our roles.
     <br><br>
     Thanks to everyone who joined and contributed!
@@ -1518,7 +1519,7 @@
   duration: "2h"
   image: "assets/images-events/Code-Complete-0.png"
   gallery:
-    - "assets/images-events/Code-Complete-2.jpg"
+    - "assets/images-events/code-complete-2.webp"
     - "assets/images-events/Code-Complete-3.jpg"
     - "assets/images-events/Code-Complete-4.jpg"
   linkedIn: "https://www.linkedin.com/posts/itenium_itenium-keeponlearning-codecomplete-activity-7200798368653094912-f3ac?utm_source=share&utm_medium=member_desktop"
@@ -1988,8 +1989,8 @@
   duration: "1h30min"
   image: "assets/images-events/code-complete.jpg"
   gallery:
-    - "assets/images-events/code-complete-1.jpg"
-    - "assets/images-events/code-complete-2.jpg"
+    - "assets/images-events/Code-Complete-1.jpg"
+    - "assets/images-events/Code-Complete-2.jpg"
   githubUrl: "https://github.com/itenium-be/CodeComplete"
   tldv: "https://tldv.io/app/meetings/646f9d64b7b5c6001248aec1"
 
@@ -2185,7 +2186,7 @@
   video: "https://youtube.com/embed/Aif3h58jJmc"
   image: "assets/images-events/VR-Gaming-4.jpg"
   gallery:
-    - "assets/images-events/VR Gaming-1.jpg"
+    - "assets/images-events/VR-Gaming-1.jpg"
     - "assets/images-events/VR-Gaming-2.jpg"
     - "assets/images-events/VR-Gaming-3.jpg"
     - "assets/images-events/VR-Gaming-5.jpg"
