@@ -452,6 +452,7 @@
   twitter: "https://x.com/itenium_be/status/1934552067546182081"
   facebook: "https://www.facebook.com/share/p/16g2Wxtard/"
 
+
 - name: "DDD Europe"
   by: "Bert Vermorgen"
   date: 2025-06-04
@@ -463,6 +464,7 @@
     standout talk, “A Defence of Technical Excellence” — a 
     compelling reminder to never compromise on internal 
     software quality.
+    
   level: Introduction
   content: "SoftSkill"
   type: ["On-Site"]
@@ -473,6 +475,7 @@
   twitter: "https://x.com/itenium_be/status/1942161761638990011"
   facebook: "https://www.facebook.com/share/p/1A5fYGawD4/"
   githubUrl: "https://itenium.be/blog/trends/ddd-europe-2025/"
+
 
 - name: "Officeday + Testing Track: deel 1 - Testing Pyramid"
   by: "Alexander Ryckeboer"
