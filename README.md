@@ -1,6 +1,8 @@
 Competence Center
 =================
 
+**ARCHIVED**: This is now part of the new itenium.be Wordpress site.
+
 
 - [Visit the itenium Competence Center](https://itenium.be/Competence-Center)
 - [Original Template](https://mobirise.com/extensions/glassm5/freelancer)
@@ -10,9 +12,3 @@ Competence Center
 ```sh
 bundle exec jekyll serve --incremental
 ```
-
-
-## Templates
-
-This would be so beautiful for the events page?
-https://html5up.net/massively
